@@ -339,7 +339,7 @@ export default function ProjectDetailPage() {
                                 type="checkbox" 
                                 className="hidden" 
                                 checked={stageEdits[stage.id]?.automaticChecklistOk}
-                                onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...stageEdits[stage.id], automaticChecklistOk: e.target.checked}})}
+                                onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...(stageEdits[stage.id] as StageEditPayload), automaticChecklistOk: e.target.checked}})}
                              />
                              <div className={`w-5 h-5 rounded-md border-2 transition-all flex items-center justify-center ${stageEdits[stage.id]?.automaticChecklistOk ? 'bg-mkt-accent border-mkt-accent' : 'border-mkt-primary/20 group-hover:border-mkt-accent'}`}>
                                 {stageEdits[stage.id]?.automaticChecklistOk && <CheckCircle2 size={12} className="text-mkt-dark" />}
@@ -352,7 +352,7 @@ export default function ProjectDetailPage() {
                                 type="checkbox" 
                                 className="hidden" 
                                 checked={stageEdits[stage.id]?.manualConfirmationOk}
-                                onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...stageEdits[stage.id], manualConfirmationOk: e.target.checked}})}
+                                onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...(stageEdits[stage.id] as StageEditPayload), manualConfirmationOk: e.target.checked}})}
                              />
                              <div className={`w-5 h-5 rounded-md border-2 transition-all flex items-center justify-center ${stageEdits[stage.id]?.manualConfirmationOk ? 'bg-mkt-accent border-mkt-accent' : 'border-mkt-primary/20 group-hover:border-mkt-accent'}`}>
                                 {stageEdits[stage.id]?.manualConfirmationOk && <CheckCircle2 size={12} className="text-mkt-dark" />}
