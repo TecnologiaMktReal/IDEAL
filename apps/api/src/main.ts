@@ -997,7 +997,15 @@ app.get<{ Querystring: { url: string } }>("/m1/scrape", async (request, reply) =
   }
 });
 
-app.listen({ port: 3333, host: "0.0.0.0" }).catch((error) => {
-  app.log.error(error);
-  process.exit(1);
-});
+if (!process.env.VERCEL) {
+  app.listen({ port: 3333, host: "0.0.0.0" }).catch((error) => {
+    app.log.error(error);
+    process.exit(1);
+  });
+}
+
+// Handler serverless para a Vercel
+export default async function handler(req: any, res: any) {
+  await app.ready();
+  app.server.emit('request', req, res);
+}
