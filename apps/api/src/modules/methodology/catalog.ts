@@ -1,6 +1,6 @@
 export type MethodologyStageCode = "I" | "D" | "E" | "A" | "L";
 
-export type MethodologyFieldType = "text" | "textarea" | "number" | "date" | "checkbox" | "select" | "json";
+export type MethodologyFieldType = "text" | "textarea" | "number" | "date" | "checkbox" | "select" | "json" | "file";
 
 export type MethodologyFieldDefinition = {
   code: string;
@@ -311,15 +311,155 @@ export const methodologyArtifacts: MethodologyArtifactDefinition[] = [
         title: "Notas dos 10 Blocos",
         description: "Notas de 1 a 4 para cada bloco da Camada 1.",
         fields: [
-          {
-            code: "block_scores",
-            label: "Notas por Bloco (JSON)",
-            type: "json",
+                    {
+            code: "block1",
+            label: "Bloco 1 — Mentalidade Estratégica da Liderança",
+            type: "select",
             required: true,
-            helpText:
-              "Informe JSON com chaves block1..block10 e valores de 1 a 4. Exemplo: {\"block1\":2,\"block2\":2,...,\"block10\":1}.",
-            acceptanceCriteria: "10 blocos preenchidos com notas validas.",
-            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Blocos 1 a 10"
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 1"
+          },
+          {
+            code: "block2",
+            label: "Bloco 2 — Engajamento Organizacional",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 2"
+          },
+          {
+            code: "block3",
+            label: "Bloco 3 — Autonomia e Estrutura Decisória",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 3"
+          },
+          {
+            code: "block4",
+            label: "Bloco 4 — Cultura Orçamentária e Investimento",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 4"
+          },
+          {
+            code: "block5",
+            label: "Bloco 5 — Cultura de Planejamento e Alinhamento",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 5"
+          },
+          {
+            code: "block6",
+            label: "Bloco 6 — Estrutura e Processos",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 6"
+          },
+          {
+            code: "block7",
+            label: "Bloco 7 — Integração Intersetorial com Vendas",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 7"
+          },
+          {
+            code: "block8",
+            label: "Bloco 8 — Governança de Ativos Institucionais",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 8"
+          },
+          {
+            code: "block9",
+            label: "Bloco 9 — Capacidade Técnica",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 9"
+          },
+          {
+            code: "block10",
+            label: "Bloco 10 — Cultura de Análise de Dados",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado pelo consultor (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA1 - Bloco 10"
           },
           {
             code: "has_all_essential_assets",
@@ -364,15 +504,425 @@ export const methodologyArtifacts: MethodologyArtifactDefinition[] = [
         title: "Notas dos 28 Blocos",
         description: "Notas de 1 a 4 para cada bloco dos eixos E1..E8.",
         fields: [
-          {
-            code: "block_scores_c2",
-            label: "Notas C2 (JSON)",
-            type: "json",
+                    {
+            code: "e1b1",
+            label: "Eixo 1 Bloco 1",
+            type: "select",
             required: true,
-            helpText:
-              "Informe JSON com chaves e1b1..e8b3 (28 blocos), valores de 1 a 4. Exemplo: {\"e1b1\":2,\"e1b2\":3,...}.",
-            acceptanceCriteria: "Todos os 28 blocos preenchidos com notas validas.",
-            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2 - Quadro de Notas"
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 1 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e1b2",
+            label: "Eixo 1 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 1 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e1b3",
+            label: "Eixo 1 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 1 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e2b1",
+            label: "Eixo 2 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 2 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e2b2",
+            label: "Eixo 2 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 2 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e2b3",
+            label: "Eixo 2 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 2 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e2b4",
+            label: "Eixo 2 Bloco 4",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 2 Bloco 4 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e3b1",
+            label: "Eixo 3 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 3 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e3b2",
+            label: "Eixo 3 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 3 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e3b3",
+            label: "Eixo 3 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 3 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e4b1",
+            label: "Eixo 4 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 4 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e4b2",
+            label: "Eixo 4 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 4 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e4b3",
+            label: "Eixo 4 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 4 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e4b4",
+            label: "Eixo 4 Bloco 4",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 4 Bloco 4 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e5b1",
+            label: "Eixo 5 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 5 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e5b2",
+            label: "Eixo 5 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 5 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e5b3",
+            label: "Eixo 5 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 5 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e6b1",
+            label: "Eixo 6 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 6 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e6b2",
+            label: "Eixo 6 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 6 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e6b3",
+            label: "Eixo 6 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 6 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e6b4",
+            label: "Eixo 6 Bloco 4",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 6 Bloco 4 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e7b1",
+            label: "Eixo 7 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 7 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e7b2",
+            label: "Eixo 7 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 7 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e7b3",
+            label: "Eixo 7 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 7 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e7b4",
+            label: "Eixo 7 Bloco 4",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 7 Bloco 4 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e8b1",
+            label: "Eixo 8 Bloco 1",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 8 Bloco 1 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e8b2",
+            label: "Eixo 8 Bloco 2",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 8 Bloco 2 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
+          },
+          {
+            code: "e8b3",
+            label: "Eixo 8 Bloco 3",
+            type: "select",
+            required: true,
+            options: [
+              { value: "1", label: "Reativo (1)" },
+              { value: "2", label: "Operacional (2)" },
+              { value: "3", label: "Estruturado (3)" },
+              { value: "4", label: "Estratégico (4)" }
+            ],
+            helpText: "Score avaliado para Eixo 8 Bloco 3 (1 a 4).",
+            acceptanceCriteria: "Obrigatório.",
+            sourceReference: "FORMULARIO_CONSOLIDADO_CAMADA2"
           },
           {
             code: "outbound_is_strategic",
@@ -478,6 +1028,15 @@ export const methodologyArtifacts: MethodologyArtifactDefinition[] = [
             helpText: "Registrar status de analytics, pixels, eventos, UTM e atribuicao.",
             acceptanceCriteria: "Plano minimo/recomendado/ideal de tracking descrito.",
             sourceReference: "FORMULARIO_ESTRUTURA - Dimensao 5"
+          },
+          {
+            code: "evidencias_arquivos",
+            label: "Anexos e Documentos Visuais",
+            type: "file",
+            required: false,
+            helpText: "Documentos de apoio, organogramas, exportacoes analytics, etc.",
+            acceptanceCriteria: "Opcional.",
+            sourceReference: "FORMULARIO_ESTRUTURA - Evidencias"
           }
         ]
       }

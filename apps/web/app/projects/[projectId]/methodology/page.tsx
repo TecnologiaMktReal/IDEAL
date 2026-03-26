@@ -16,7 +16,8 @@ import {
   AlertCircle,
   TrendingUp,
   Layers,
-  Search
+  Search,
+  Share2
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -54,6 +55,26 @@ export default function ProjectMethodologyPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [stages, setStages] = useState<StagePayload[]>([]);
+  const [sharing, setSharing] = useState(false);
+
+  async function generateShareLink() {
+    if (!params?.projectId) return;
+    setSharing(true);
+    try {
+      const res = await fetch(`${apiBaseUrl}/m1/projects/${params.projectId}/share`, { method: "POST" });
+      const payload = await res.json();
+      if (payload.ok) {
+        const fullUrl = `${window.location.origin}${payload.shareUrl}`;
+        await navigator.clipboard.writeText(fullUrl);
+        alert("Link Mágico B2B Criad e Copiado! Envie este link seguro ao seu cliente.");
+      } else {
+        alert(payload.message || "Erro ao gerar link da matriz.");
+      }
+    } catch {
+      alert("Erro na rede. O Motor JWT não pôde ser ativado.");
+    }
+    setSharing(false);
+  }
 
   useEffect(() => {
     const supabase = getSupabaseBrowserClient();
@@ -121,6 +142,15 @@ export default function ProjectMethodologyPage() {
         </div>
 
         <div className="flex items-center gap-3">
+          <button 
+            onClick={generateShareLink}
+            disabled={sharing}
+            className="mkt-button-premium !py-2.5 !bg-mkt-dark !from-mkt-dark !to-mkt-primary flex items-center gap-2"
+          >
+            {sharing ? <Clock size={18} className="animate-spin" /> : <Share2 size={18} className="text-mkt-accent" />}
+            <span className="text-[11px] font-black uppercase tracking-widest text-mkt-accent">Compartilhar com Cliente</span>
+          </button>
+          
           <button 
             onClick={loadData}
             className="p-2.5 rounded-xl bg-white/40 border border-mkt-primary/10 text-mkt-primary hover:bg-white/60 transition-all"

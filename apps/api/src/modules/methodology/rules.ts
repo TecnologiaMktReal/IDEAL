@@ -56,11 +56,14 @@ function classifyCamada1(points: number) {
 
 function validateCamada1(answers: Record<string, unknown>): ArtifactValidationResult {
   const issues: ValidationIssue[] = [];
-  const scoreObj = parseScoreObject(answers.block_scores);
   const missingRequired: string[] = [];
-  if (!scoreObj) {
-    missingRequired.push("Notas por Bloco (JSON) invalido.");
-    return { ok: false, missingRequired, issues, computed: {} };
+  
+  const scoreObj: Record<string, number> = {};
+  for(let i=1; i<=10; i++) {
+    const val = Number(answers[`block${i}`]);
+    if (!Number.isNaN(val) && val !== 0) {
+       scoreObj[`block${i}`] = val;
+    }
   }
 
   const weights: Record<string, number> = {
@@ -157,12 +160,7 @@ function average(values: number[]) {
 
 function validateCamada2(answers: Record<string, unknown>): ArtifactValidationResult {
   const issues: ValidationIssue[] = [];
-  const scoreObj = parseScoreObject(answers.block_scores_c2);
   const missingRequired: string[] = [];
-  if (!scoreObj) {
-    missingRequired.push("Notas C2 (JSON) invalido.");
-    return { ok: false, missingRequired, issues, computed: {} };
-  }
 
   const axisBlocks: Record<string, string[]> = {
     e1: ["e1b1", "e1b2", "e1b3", "e1b4", "e1b5", "e1b6"],
@@ -174,8 +172,17 @@ function validateCamada2(answers: Record<string, unknown>): ArtifactValidationRe
     e7: ["e7b1", "e7b2", "e7b3", "e7b4"],
     e8: ["e8b1", "e8b2", "e8b3"]
   };
-
   const expectedBlocks = Object.values(axisBlocks).flat();
+
+  const scoreObj: Record<string, number> = {};
+  for(const block of expectedBlocks) {
+    const val = Number(answers[block]);
+    if (!Number.isNaN(val) && val !== 0) {
+      scoreObj[block] = val;
+    }
+  }
+
+  // expectedBlocks already defined above
   const missingBlocks = expectedBlocks.filter((block) => typeof scoreObj[block] !== "number");
   if (missingBlocks.length > 0) {
     missingRequired.push(`Blocos ausentes: ${missingBlocks.join(", ")}`);

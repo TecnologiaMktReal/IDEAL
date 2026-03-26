@@ -109,6 +109,35 @@ export default function ProjectDetailPage() {
     });
   }, [auditEntries, auditActionFilter, auditRangeFilter]);
 
+  const computedAlerts = useMemo(() => {
+    const alerts: Array<{ type: "warning" | "urgent" | "info", title: string, description: string }> = [];
+    if (stages.length === 0) return alerts;
+
+    const imersao = stages.find(s => s.stage === "I");
+    const diagnostico = stages.find(s => s.stage === "D");
+    const estrutura = stages.find(s => s.stage === "E");
+    const arquitetura = stages.find(s => s.stage === "A");
+    const loop = stages.find(s => s.stage === "L");
+
+    if (imersao?.status === "not_started") {
+      alerts.push({ type: "info", title: "Kickoff de Projeto Pendente", description: "Inicie a Imersão (I) para destravar o diagnóstico do cliente." });
+    }
+
+    if (diagnostico?.status === "in_progress") {
+      alerts.push({ type: "warning", title: "Diagnóstico em Aberto", description: "Certifique-se de preencher todos os 28 eixos da Camada 2 para o cálculo exato da Maturidade." });
+    }
+
+    if (arquitetura?.status === "completed" && loop?.status === "not_started") {
+      alerts.push({ type: "urgent", title: "Motor do Loop Parado", description: "A arquitetura está aprovada. É mandatório ativar os rituais de otimização (L) imediatamente." });
+    }
+
+    if (diagnostico?.status === "completed" && estrutura?.status === "not_started") {
+      alerts.push({ type: "warning", title: "Herança Diagnóstica Pendente", description: "Os gargalos foram identificados. Inicialize a Estrutura (E) para absorver as ações sugeridas pendentes." });
+    }
+
+    return alerts;
+  }, [stages]);
+
   useEffect(() => {
     if (!params?.projectId) return;
     const supabase = getSupabaseBrowserClient();
@@ -335,7 +364,7 @@ export default function ProjectDetailPage() {
                        <select 
                           className="bg-white px-4 py-2.5 rounded-xl border border-mkt-primary/10 text-xs font-black uppercase tracking-widest outline-none focus:ring-2 focus:ring-mkt-accent transition-all"
                           value={stageEdits[stage.id]?.status}
-                          onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...stageEdits[stage.id], status: e.target.value as any}})}
+                          onChange={(e) => setStageEdits({...stageEdits, [stage.id]: {...(stageEdits[stage.id] as StageEditPayload), status: e.target.value as any}})}
                        >
                           <option value="not_started">Nao Iniciada</option>
                           <option value="in_progress">Em Andamento</option>
@@ -361,7 +390,34 @@ export default function ProjectDetailPage() {
           {/* Right: Summary & Audit */}
           <section className="xl:col-span-4 space-y-6">
              <div className="space-y-6 sticky top-28">
-                <h3 className="text-sm font-black uppercase tracking-[0.2em] text-mkt-primary/40">Ficha do Projeto</h3>
+
+                {/* Motor Habitual / Alertas */}
+                {computedAlerts.length > 0 && (
+                   <div className="space-y-4">
+                      <div className="flex justify-between items-center px-1">
+                         <h3 className="text-sm font-black uppercase tracking-[0.2em] text-red-500/80">Ações Exigidas</h3>
+                         <AlertCircle size={16} className="text-red-500/40 animate-pulse" />
+                      </div>
+                      <div className="space-y-3">
+                         {computedAlerts.map((alert, idx) => (
+                            <GlassCard key={idx} className={`!p-5 border-l-4 ${
+                               alert.type === 'urgent' ? 'border-red-500 bg-red-50' : 
+                               alert.type === 'warning' ? 'border-amber-500 bg-amber-50' : 
+                               'border-blue-500 bg-blue-50'
+                            }`}>
+                               <h4 className={`text-xs font-black uppercase tracking-widest mb-1 ${
+                                  alert.type === 'urgent' ? 'text-red-700' : 
+                                  alert.type === 'warning' ? 'text-amber-700' : 
+                                  'text-blue-700'
+                               }`}>{alert.title}</h4>
+                               <p className="text-[10px] font-bold text-mkt-dark/70 leading-relaxed">{alert.description}</p>
+                            </GlassCard>
+                         ))}
+                      </div>
+                   </div>
+                )}
+
+                <h3 className="text-sm font-black uppercase tracking-[0.2em] text-mkt-primary/40 mt-8">Ficha do Projeto</h3>
                 <GlassCard className="!p-8 space-y-6">
                    <div className="flex items-center gap-4 pb-6 border-b border-mkt-primary/5">
                       <div className="p-3 rounded-2xl bg-mkt-accent/10 text-mkt-accent">

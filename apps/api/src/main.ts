@@ -1,5 +1,6 @@
 import Fastify from "fastify";
 import cors from "@fastify/cors";
+import * as crypto from "crypto";
 import { config as loadEnv } from "dotenv";
 import { STAGE_SEQUENCE } from "@ideal/domain/stages";
 import { MODULE_MAP } from "./modules/module-map";
@@ -601,10 +602,38 @@ app.get<{
     const completion = computeCompletion(artifact, answers);
     await upsertSectionStats(state.id, completion.sectionStats);
 
+    // [PHASE 11] - Intelligent Heritance Data
+    let computed_suggestions: string[] = [];
+    if (request.params.artifactCode === "FORMULARIO_ESTRUTURA") {
+      const supabase = createSupabaseAdminClient();
+      const { data: c1 } = await supabase.from("project_stage_artifacts").select("computed_json").eq("project_id", request.params.projectId).eq("artifact_code", "FORMULARIO_CONSOLIDADO_CAMADA1").eq("status", "completed").limit(1).maybeSingle();
+      const { data: c2 } = await supabase.from("project_stage_artifacts").select("computed_json").eq("project_id", request.params.projectId).eq("artifact_code", "FORMULARIO_CONSOLIDADO_CAMADA2").eq("status", "completed").limit(1).maybeSingle();
+
+      if (c1?.computed_json) {
+         const c1Data = parseJsonRecord(c1.computed_json);
+         if (c1Data.maturidade_camada_1 === "Iniciante") {
+            computed_suggestions.push("URGENTE: Empresa em estágio INICIANTE. A Estruturação deve focar excessivamente na padronização básica antes de escalar budget.");
+         } else if (c1Data.maturidade_camada_1 === "Básico") {
+            computed_suggestions.push("ATENÇÃO: Empresa em estágio BÁSICO. Foque em fechar gargalos operacionais no Produto e Atendimento.");
+         }
+      }
+      
+      if (c2?.computed_json) {
+         const c2Data = parseJsonRecord(c2.computed_json);
+         Object.entries(c2Data).forEach(([k, val]) => {
+            if (k.startsWith("score_") && typeof val === "number" && val <= 4) {
+               const eixo = k.replace("score_", "").toUpperCase().replace(/_/g, " ");
+               computed_suggestions.push(`DEFASAGEM ESTRATÉGICA (${eixo}): A nota do diagnóstico foi crítica (${val}/10). Inclua ações corretivas imediatas.`);
+            }
+         });
+      }
+    }
+
     return {
       ok: true,
       stage,
       artifact,
+      computed_suggestions,
       state: {
         ...state,
         completion_ratio: completion.artifactCompletionRatio
@@ -873,6 +902,98 @@ app.get<{
     };
   } catch (error) {
     return reply.status(500).send({ ok: false, message: toUserMessage((error as Error).message) });
+  }
+});
+
+const SHARE_SECRET = process.env.SHARE_SECRET || "ideal_liquid_secret_default_key";
+
+app.post<{ Params: { projectId: string } }>("/m1/projects/:projectId/share", async (request, reply) => {
+  try {
+    const payload = Buffer.from(JSON.stringify({ p: request.params.projectId, exp: Date.now() + 1000 * 60 * 60 * 24 * 30 })).toString("base64");
+    const signature = crypto.createHmac("sha256", SHARE_SECRET).update(payload).digest("hex");
+    const token = `${payload}.${signature}`;
+    
+    return { ok: true, token, shareUrl: `/shared/${token}` };
+  } catch (error) {
+    return reply.status(500).send({ ok: false, message: "Erro ao gerar link de compartilhamento." });
+  }
+});
+
+app.get<{ Params: { token: string } }>("/m1/shared/:token", async (request, reply) => {
+  try {
+    const [payload, signature] = request.params.token.split(".");
+    if (!payload || !signature) return reply.status(401).send({ ok: false, message: "Token invalido ou corrompido." });
+    
+    const expectedSignature = crypto.createHmac("sha256", SHARE_SECRET).update(payload).digest("hex");
+    if (signature !== expectedSignature) return reply.status(401).send({ ok: false, message: "Assinatura digital rejeitada." });
+    
+    const data = JSON.parse(Buffer.from(payload, "base64").toString("utf8"));
+    if (data.exp < Date.now()) return reply.status(401).send({ ok: false, message: "Link de compartilhamento expirou." });
+    
+    const projectId = data.p;
+    
+    // Fetch Project Data
+    const supabase = createSupabaseAdminClient();
+    const { data: project } = await supabase.from("projects").select("id, name, created_at").eq("id", projectId).maybeSingle();
+    if (!project) return reply.status(404).send({ ok: false, message: "Projeto não encontrado." });
+
+    // Fetch Only Client-Visible Artifacts Data
+    const clientArtifacts: any[] = [];
+    for (const stageObj of methodologyStages) {
+      const stageCode = stageObj.code as MethodologyStageCode;
+      const artifacts = getArtifactsByStage(stageCode).filter(a => a.visibility === "client");
+      for (const artifact of artifacts) {
+        const state = await ensureArtifactState(projectId, stageCode, artifact);
+        if (state.status === "completed") {
+           const answers = toFlatAnswers(await loadArtifactAnswers(state.id));
+           clientArtifacts.push({
+             stage: stageCode,
+             code: artifact.code,
+             name: artifact.name,
+             sections: artifact.sections,
+             answers,
+             computed_json: parseJsonRecord(state.computed_json)
+           });
+        }
+      }
+    }
+
+    return {
+      ok: true,
+      project,
+      clientArtifacts
+    };
+  } catch (error) {
+    return reply.status(500).send({ ok: false, message: "Erro grave ao decodificar pacote seguro." });
+  }
+});
+
+app.get<{ Querystring: { url: string } }>("/m1/scrape", async (request, reply) => {
+  const targetUrl = request.query.url;
+  if (!targetUrl) return reply.status(400).send({ ok: false, message: "URL is required" });
+
+  try {
+    const res = await fetch(targetUrl, { headers: { "User-Agent": "MKT-Real-IDEAL/2.0 B2B-Bot" } });
+    if (!res.ok) throw new Error("Request rejected");
+    const html = await res.text();
+    
+    const titleMatch = html.match(/<title[^>]*>([^<]+)<\/title>/i);
+    const descMatch = html.match(/<meta[^>]*name=["']description["'][^>]*content=["']([^"']+)["'][^>]*>/i) 
+                   || html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*name=["']description["'][^>]*>/i);
+                   
+    const keywordsMatch = html.match(/<meta[^>]*name=["']keywords["'][^>]*content=["']([^"']+)["'][^>]*>/i)
+                       || html.match(/<meta[^>]*content=["']([^"']+)["'][^>]*name=["']keywords["'][^>]*>/i);
+
+    return {
+      ok: true,
+      data: {
+        title: titleMatch?.[1]?.trim() ?? null,
+        description: descMatch?.[1]?.trim() ?? null,
+        keywords: keywordsMatch?.[1]?.trim() ?? null
+      }
+    };
+  } catch (error) {
+    return reply.status(500).send({ ok: false, message: "Falha na raspagem da URL. Pode estar bloqueado por WAF." });
   }
 });
 

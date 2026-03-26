@@ -26,8 +26,9 @@ import {
   Printer
 } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
+import { FileUploadDropzone } from "../../../../components/FileUploadDropzone";
 
-type FieldType = "text" | "textarea" | "number" | "date" | "checkbox" | "select" | "json";
+type FieldType = "text" | "textarea" | "number" | "date" | "checkbox" | "select" | "json" | "file";
 
 type ArtifactSchema = {
   code: string;
@@ -111,6 +112,7 @@ export default function StageMethodologyPage() {
   const [answers, setAnswers] = useState<Record<string, unknown>>({});
   const [validation, setValidation] = useState<ValidationPayload | null>(null);
   const [reportPreview, setReportPreview] = useState<string>("");
+  const [suggestions, setSuggestions] = useState<string[]>([]);
   const [auditEntries, setAuditEntries] = useState<AuditEntry[]>([]);
   const [activeHelpField, setActiveHelpField] = useState<string | null>(null);
 
@@ -174,6 +176,7 @@ export default function StageMethodologyPage() {
     setArtifact(payload.artifact);
     setArtifactState(payload.state);
     setAnswers(payload.answers || {});
+    setSuggestions(payload.computed_suggestions || []);
     setLoading(false);
     setValidation(null);
   }
@@ -245,6 +248,16 @@ export default function StageMethodologyPage() {
             </option>
           ))}
         </select>
+      );
+    }
+
+    if (field.type === "file") {
+      return (
+        <FileUploadDropzone 
+          projectId={params.projectId}
+          currentValue={currentValue as string}
+          onUploadSuccess={(url: string) => setAnswers((current) => ({ ...current, [field.code]: url }))}
+        />
       );
     }
 
@@ -451,6 +464,22 @@ export default function StageMethodologyPage() {
                    exit={{ opacity: 0, x: -10 }}
                    className="space-y-8 pb-24"
                 >
+                   {suggestions.length > 0 && (
+                      <div className="mb-8 bg-mkt-dark p-6 rounded-2xl border-l-4 border-mkt-accent shadow-xl relative overflow-hidden">
+                         <div className="absolute -top-10 -right-10 w-32 h-32 bg-mkt-accent/10 blur-2xl rounded-full pointer-events-none" />
+                         <h3 className="text-sm font-black uppercase tracking-widest text-mkt-accent mb-4 flex items-center gap-2 relative z-10 transition-colors">
+                            <AlertCircle size={16} />
+                            Pontos de Fuga Identificados no Diagnóstico
+                         </h3>
+                         <ul className="space-y-3 relative z-10">
+                            {suggestions.map((sug, i) => (
+                               <li key={i} className="text-xs font-bold text-white/90 bg-white/5 p-3 rounded-lg border border-white/10 leading-relaxed shadow-sm">
+                                  {sug}
+                               </li>
+                            ))}
+                         </ul>
+                      </div>
+                   )}
                    <div>
                       <h2 className="text-3xl font-black text-mkt-dark tracking-tight mb-2 italic">
                          {artifact.name}
