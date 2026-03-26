@@ -16,4 +16,10 @@ coverage
 *.webp
 *.png
 *.jpg
+
+# Allow production image assets
+!apps/web/public/**/*.png
+!apps/web/public/**/*.jpg
+!apps/web/public/**/*.svg
+!apps/web/public/**/*.webp
 brain/
