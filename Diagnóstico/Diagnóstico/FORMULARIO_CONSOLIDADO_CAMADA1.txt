@@ -1,0 +1,1682 @@
+DOCUMENTO: FORMULARIO_CONSOLIDADO_CAMADA1
+CAMADA: CAMADA_1_MATURIDADE_ESTRUTURAL_DO_MARKETING
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0 (DEFINITIVA)
+
+TOTAL DE EIXOS: 4
+TOTAL DE BLOCOS: 10
+TOTAL DE PERGUNTAS: 80
+
+ESCALA: Reativo (1) | Operacional (2) | Estruturado (3) | Estratégico (4)
+
+
+INSTRUÇÃO GERAL
+
+Este formulário é preenchido exclusivamente pelo consultor, com base em evidências coletadas na Imersão (Dossiê), análise documental, verificação prática e análise técnica.
+
+Nenhuma pergunta deve ser respondida por opinião ou suposição.
+Toda resposta deve ser fundamentada em evidência concreta.
+
+ARQUITETURA DE CADA BLOCO:
+• CABEÇALHO: Pergunta central, peso, fronteira conceitual, cenários de nível
+• SEÇÃO A: Perguntas estruturais (escala 1-4 — pontuam)
+• SEÇÃO B: Perguntas de evidência (checklist — não pontuam, registram rastreabilidade)
+• SEÇÃO C: Perguntas de critério absoluto (alertas de divergência/bloqueio)
+• REGRAS CONDICIONAIS: Embutidas no bloco
+• CAMPOS DO CONSULTOR: Observação, nota atribuída, justificativa
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 1 — PODER E PRIORIDADE ESTRATÉGICA DO MARKETING       ║
+║  Pergunta do eixo: O marketing é tratado como setor          ║
+║  estratégico ou como apoio operacional?                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 1 — MENTALIDADE ESTRATÉGICA   │
+│ DA LIDERANÇA                         │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: SIM          │
+│ TOTAL DE PERGUNTAS: 7                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+A alta liderança reconhece o marketing como alavanca estratégica de crescimento ou apenas como área operacional de apoio?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE a visão da alta liderança (CEO e diretores) sobre o papel do marketing.
+NÃO mede: engajamento do time (Bloco 2), autonomia formal (Bloco 3), existência de orçamento (Bloco 4), qualidade de campanhas, eficiência de execução, estrutura de processos ou performance comercial.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_HISTORIA + ROT_MKTVENDAS — entrevista com CEO, triangulação com responsável por marketing)
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): A liderança enxerga o marketing como custo ou suporte operacional. As decisões são circunstanciais. O marketing não participa da estratégia.
+
+OPERACIONAL (2): A liderança reconhece a importância do marketing, mas o posiciona como executor. Existe valorização parcial, porém sem influência estratégica real.
+
+ESTRUTURADO (3): A liderança compreende o marketing como parte do crescimento do negócio. Há participação em decisões estratégicas, porém ainda com limitações de influência.
+
+ESTRATÉGICO (4): A liderança trata o marketing como ativo determinante para vantagem competitiva. O marketing está estruturado como setor. Participa da formulação estratégica. Existe coerência entre discurso, investimento e decisão.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=1.1>
+PERGUNTA 1.1 — Grau de importância atribuída ao marketing pela liderança
+
+Com base na entrevista com CEO/diretores e cruzamento com a percepção do time, qual o grau de importância que a alta liderança atribui ao marketing?
+
+ALTERNATIVAS
+(1) A liderança trata o marketing como custo ou área de suporte operacional dispensável.
+(2) A liderança reconhece alguma importância do marketing, mas o posiciona como executor de demandas.
+(3) A liderança compreende o marketing como parte relevante do crescimento do negócio.
+(4) A liderança trata o marketing como ativo determinante para a vantagem competitiva da empresa.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=1.2>
+PERGUNTA 1.2 — Participação do marketing nas decisões estratégicas do negócio
+
+O marketing é envolvido nas discussões e decisões estratégicas da empresa (planejamento anual, definição de mercado, posicionamento, expansão)?
+
+ALTERNATIVAS
+(1) O marketing não participa de nenhuma discussão estratégica.
+(2) O marketing é informado após as decisões, mas não participa da formulação.
+(3) O marketing participa de discussões estratégicas, porém com influência limitada.
+(4) O marketing participa ativamente da formulação estratégica do negócio.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=1.3>
+PERGUNTA 1.3 — Compreensão do marketing como setor estruturado
+
+A alta liderança compreende o marketing como setor que exige estrutura própria (equipe, processos, orçamento, governança)?
+
+ALTERNATIVAS
+(1) A liderança não reconhece o marketing como setor que necessita de estrutura própria.
+(2) A liderança reconhece parcialmente, mas não demonstra isso em decisões práticas.
+(3) A liderança compreende a necessidade de estrutura e tem tomado providências consistentes.
+(4) A liderança trata o marketing como setor estruturado, com equipe, processos e governança formalizados.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=1.4>
+PERGUNTA 1.4 — Percepção do marketing como investimento versus custo
+
+A alta liderança demonstra, em decisões práticas (não apenas em discurso), que trata o marketing como investimento estratégico?
+
+ALTERNATIVAS
+(1) O marketing é tratado como despesa a ser minimizada.
+(2) O marketing é visto como gasto necessário, mas sem lógica clara de retorno.
+(3) A liderança reconhece o marketing como investimento, com alocações consistentes.
+(4) A liderança trata o marketing como investimento estratégico de crescimento, com coerência entre discurso e decisão financeira.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=1.5>
+PERGUNTA 1.5 — Coerência entre discurso da liderança e decisões práticas
+
+Há coerência entre o que a liderança declara sobre o valor do marketing e as decisões que efetivamente toma?
+
+ALTERNATIVAS
+(1) Discurso e prática são completamente desconectados.
+(2) O discurso é parcialmente favorável, mas as decisões práticas não o sustentam.
+(3) Há coerência na maioria das situações, com exceções pontuais.
+(4) Há coerência plena e consistente entre discurso e decisão prática.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=1.6>
+PERGUNTA 1.6 — Evidências observadas na avaliação deste bloco
+
+Marque todas as evidências identificadas:
+
+● Entrevista com CEO realizada
+● Entrevista com diretores realizada
+● Percepção do time de marketing coletada
+● Divergência identificada entre discurso da liderança e percepção do time
+● Liderança demonstra envolvimento em decisões de marketing
+● Marketing participa de reuniões estratégicas do negócio
+● Liderança cita o marketing espontaneamente ao falar de crescimento
+● Liderança demonstra compreensão técnica mínima sobre o papel do marketing
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=1.7>
+PERGUNTA 1.7 — Alerta de divergência estrutural
+
+Há divergência significativa entre o discurso da liderança sobre o marketing e a percepção do time operacional?
+
+ALTERNATIVAS
+Não há divergência relevante
+Há divergência moderada, mas explicável pelo contexto
+Há divergência significativa — o discurso da liderança não se reflete na percepção do time
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 1:
+• Se 1.2 = (1) → BLOCO automaticamente REATIVO
+• Se 1.5 = (1) ou (2) → BLOCO não pode ultrapassar OPERACIONAL
+• Se 1.7 = divergência significativa → reduzir nota do bloco
+
+
+CAMPOS DO CONSULTOR — BLOCO 1:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 2 — ENGAJAMENTO               │
+│ ORGANIZACIONAL COM MARKETING         │
+│ PESO: 1 (Bloco Não Crítico)         │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 7                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O marketing é reconhecido, respeitado e apoiado pelas demais áreas como parceiro estratégico ou é percebido apenas como área de apoio operacional?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE o clima organizacional e a cultura colaborativa em relação ao marketing.
+NÃO mede: visão estratégica da alta liderança (Bloco 1), processos formais de integração (Bloco 7), autonomia decisória, orçamento, performance de campanhas ou accountability.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_HISTORIA — cultura; ROT_MKTVENDAS — colaboração entre áreas). Complementar: entrevistas com colaboradores.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Marketing é visto como área periférica. Há resistência explícita. Colaboradores não reconhecem importância.
+
+OPERACIONAL (2): Marketing é respeitado funcionalmente, mas sem reconhecimento estratégico. Colaboração existe apenas quando solicitada.
+
+ESTRUTURADO (3): Marketing é percebido como área relevante. Áreas colaboram com frequência. Engajamento é recorrente.
+
+ESTRATÉGICO (4): Marketing é reconhecido como parceiro estratégico. Cooperação proativa. Engajamento integrado à cultura.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=2.1>
+PERGUNTA 2.1 — Grau de colaboração espontânea entre áreas e marketing
+
+As demais áreas da organização colaboram espontaneamente com o marketing (compartilham informações, participam de iniciativas, oferecem apoio sem solicitação formal)?
+
+ALTERNATIVAS
+(1) Não há colaboração espontânea. O marketing é visto como área periférica.
+(2) Existe colaboração quando formalmente solicitada, mas sem iniciativa própria das áreas.
+(3) As áreas colaboram de forma recorrente e voluntária.
+(4) Existe cooperação proativa e consistente entre áreas e marketing.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=2.2>
+PERGUNTA 2.2 — Nível de confiança interna no setor de marketing
+
+As demais áreas e colaboradores demonstram confiança no trabalho e na contribuição do marketing para o negócio?
+
+ALTERNATIVAS
+(1) Há desconfiança ou descrédito explícito em relação ao marketing.
+(2) O marketing é respeitado funcionalmente, mas não é visto como área que gera impacto estratégico.
+(3) Há confiança interna demonstrada — o marketing é percebido como área relevante.
+(4) O marketing é reconhecido como parceiro estratégico do negócio pelas demais áreas.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=2.3>
+PERGUNTA 2.3 — Resistência cultural à atuação do marketing
+
+Há resistência explícita ou implícita de outras áreas em relação à atuação do marketing?
+
+ALTERNATIVAS
+(1) Há resistência explícita e recorrente.
+(2) Há resistência implícita — as áreas não boicotam, mas não cooperam efetivamente.
+(3) Resistência pontual e não sistêmica.
+(4) Não há resistência relevante — o marketing é culturalmente legitimado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=2.4>
+PERGUNTA 2.4 — Participação ativa de outras áreas em iniciativas de marketing
+
+As demais áreas participam ativamente de iniciativas lideradas pelo marketing?
+
+ALTERNATIVAS
+(1) Não há participação de outras áreas.
+(2) Participação funcional e limitada, apenas quando obrigatória.
+(3) Participação ativa e recorrente.
+(4) Participação estratégica — as áreas contribuem com insumos relevantes para o marketing.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=2.5>
+PERGUNTA 2.5 — Engajamento do time interno com campanhas, conteúdos e posicionamento
+
+Os colaboradores da organização (fora do time de marketing) se engajam com o posicionamento, campanhas e conteúdos da empresa?
+
+ALTERNATIVAS
+(1) Não há engajamento interno relevante.
+(2) Engajamento pontual e superficial.
+(3) Engajamento recorrente — colaboradores compartilham e apoiam ativamente.
+(4) Engajamento integrado à cultura organizacional.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=2.6>
+PERGUNTA 2.6 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Formulários aplicados a colaboradores de outras áreas
+● Entrevista com equipe de vendas
+● Entrevista com equipe de operação
+● Cruzamento entre percepção interna e discurso da liderança
+● Identificação de divergência significativa entre liderança e colaboradores
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=2.7>
+PERGUNTA 2.7 — Divergência entre liderança e colaboradores
+
+Há divergência significativa entre o que a liderança afirma sobre o engajamento organizacional com o marketing e o que os colaboradores relatam?
+
+ALTERNATIVAS
+Não há divergência relevante
+Há divergência moderada
+Há divergência significativa — alerta estrutural
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 2:
+• Se 2.1 = (1) E 2.3 = (1) → BLOCO automaticamente REATIVO
+• Se 2.7 = divergência significativa → percepção dos colaboradores prevalece sobre discurso da liderança
+
+
+CAMPOS DO CONSULTOR — BLOCO 2:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 3 — AUTONOMIA E ESTRUTURA     │
+│ DECISÓRIA                            │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: SIM          │
+│ TOTAL DE PERGUNTAS: 7                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O marketing possui autonomia real para tomar decisões ou depende da alta liderança para cada ação?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE a capacidade decisória e a autoridade formal do marketing.
+NÃO mede: visão da liderança sobre marketing (Bloco 1), engajamento organizacional (Bloco 2), orçamento (Bloco 4), processos operacionais (Bloco 6).
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS — quem decide, nível de autonomia). Triangulação CEO vs responsável por marketing.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Todas as decisões dependem da liderança. Não há autoridade formal. Marketing é gerido informalmente.
+
+OPERACIONAL (2): Autonomia existe para decisões operacionais, mas decisões táticas e estratégicas travam. Autoridade é limitada.
+
+ESTRUTURADO (3): Autonomia clara para decisões táticas e parte das estratégicas. Responsável tem autoridade reconhecida com escopo definido.
+
+ESTRATÉGICO (4): Autonomia institucional plena. Mapa decisório claro. Total autonomia operacional com processos de escalação definidos.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=3.1>
+PERGUNTA 3.1 — Grau de autonomia para tomada de decisão estratégica
+
+O setor de marketing possui capacidade real de tomar decisões estratégicas (posicionamento, canais, investimento em mídia, parcerias) sem depender de validação da alta liderança para cada decisão?
+
+ALTERNATIVAS
+(1) Todas as decisões estratégicas dependem integralmente da alta liderança.
+(2) O setor possui autonomia apenas para decisões operacionais; decisões estratégicas exigem aprovação.
+(3) Existe autonomia clara para decisões táticas e parte das decisões estratégicas.
+(4) O marketing possui autonomia institucional para decisões estratégicas, com confiança e delegação formal.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=3.2>
+PERGUNTA 3.2 — Velocidade decisória do setor
+
+Qual a velocidade com que o marketing consegue tomar e implementar decisões no dia a dia?
+
+ALTERNATIVAS
+(1) Velocidade decisória muito baixa — tudo depende de aprovações demoradas.
+(2) Decisões operacionais são razoavelmente rápidas, mas decisões táticas e estratégicas travam.
+(3) A maioria das decisões é tomada com velocidade adequada; gargalos são pontuais.
+(4) O setor opera com velocidade decisória alta e consistente.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=3.3>
+PERGUNTA 3.3 — Clareza sobre quem decide o quê dentro do marketing
+
+Está claro, formalmente, quem decide o quê dentro do setor de marketing?
+
+ALTERNATIVAS
+(1) Não há clareza — qualquer decisão pode ser centralizada ou contestada.
+(2) Há clareza parcial — as pessoas sabem informalmente, mas não há formalização.
+(3) Há clareza definida para a maioria das decisões, com exceções pontuais.
+(4) Existe mapa decisório claro e formalizado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=3.4>
+PERGUNTA 3.4 — Existência de autoridade formal do responsável pelo marketing
+
+O responsável pelo marketing possui autoridade formal reconhecida pela organização (cargo, escopo de decisão, alçada)?
+
+ALTERNATIVAS
+(1) Não há responsável com autoridade formal — o marketing é gerido informalmente.
+(2) Existe responsável, mas com autoridade limitada e frequentemente sobreposta.
+(3) O responsável possui autoridade reconhecida, com escopo claro, porém com limitações em decisões maiores.
+(4) O responsável possui autoridade institucional plena, com alçada definida e respeitada.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=3.5>
+PERGUNTA 3.5 — Dependência excessiva da liderança para decisões operacionais
+
+O setor consegue operar decisões do dia a dia sem depender da alta liderança?
+
+ALTERNATIVAS
+(1) Mesmo decisões operacionais básicas exigem aprovação da liderança.
+(2) A maioria das decisões operacionais é autônoma, mas há microgerenciamento frequente.
+(3) Decisões operacionais são autônomas; a liderança intervém apenas em exceções.
+(4) Total autonomia operacional, com processos claros de escalação apenas quando necessário.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=3.6>
+PERGUNTA 3.6 — Evidências e gargalos identificados
+
+Marque todas as situações identificadas:
+
+● Entrevista com liderança realizada
+● Entrevista com responsável pelo marketing realizada
+● Análise da estrutura formal de decisão realizada
+● Gargalos burocráticos identificados
+● Divergência entre discurso da liderança e percepção do setor
+● Responsável pelo marketing possui cargo formal com escopo decisório definido
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=3.7>
+PERGUNTA 3.7 — Divergência entre discurso de autonomia e percepção do setor
+
+Há divergência entre o que a liderança afirma sobre a autonomia do marketing e o que o setor efetivamente percebe?
+
+ALTERNATIVAS
+Não há divergência relevante
+Há divergência moderada
+Há divergência significativa — a autonomia declarada não se confirma na prática
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 3:
+• Se 3.1 = (1) → BLOCO automaticamente REATIVO
+• Se 3.4 = (1) → BLOCO não pode ultrapassar REATIVO
+• Se 3.7 = divergência significativa → BLOCO não pode ultrapassar OPERACIONAL
+
+
+CAMPOS DO CONSULTOR — BLOCO 3:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 4 — CULTURA ORÇAMENTÁRIA E    │
+│ INVESTIMENTO                         │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: SIM          │
+│ TOTAL DE PERGUNTAS: 8                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O marketing possui sustentação financeira real ou opera na informalidade orçamentária?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE a existência, previsibilidade, estabilidade e natureza do orçamento de marketing.
+NÃO mede: visão da liderança (Bloco 1), autonomia decisória (Bloco 3), qualidade das campanhas, ROI de marketing.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS — orçamento; ROT_MODELO — tratamento financeiro). Complementar: verificação com diretor financeiro.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Não há orçamento formal. Recursos são liberados pontualmente. Marketing é tratado como despesa.
+
+OPERACIONAL (2): Recursos existem mas são instáveis. Liberados sob justificativa. Sem previsibilidade. Marketing não participa da definição.
+
+ESTRUTURADO (3): Orçamento previamente definido. Razoavelmente estável. Critérios existem. Marketing participa com voz ativa.
+
+ESTRATÉGICO (4): Orçamento estratégico, estável, vinculado a metas. Marketing co-constrói o orçamento. Tratado como investimento de crescimento.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=4.1>
+PERGUNTA 4.1 — Existência de orçamento formal de marketing
+
+O setor de marketing possui orçamento formalmente definido e previamente estabelecido?
+
+ALTERNATIVAS
+(1) Não há orçamento formal. Recursos são liberados pontualmente quando surgem demandas.
+(2) Recursos são liberados sob solicitação e justificativa, sem planejamento prévio.
+(3) Existe orçamento previamente definido que permite planejamento anual ou semestral.
+(4) O orçamento é definido estrategicamente, com previsibilidade, estabilidade e coerência com metas do negócio.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=4.2>
+PERGUNTA 4.2 — Previsibilidade financeira para o setor
+
+O marketing consegue planejar ações e investimentos com base em recursos previamente conhecidos?
+
+ALTERNATIVAS
+(1) Não há previsibilidade — o setor não sabe quanto terá disponível.
+(2) Há alguma previsibilidade para o curto prazo, mas sem garantia de continuidade.
+(3) O setor consegue planejar com base em recursos definidos, com boa previsibilidade.
+(4) Previsibilidade total — o orçamento é estável, definido com antecedência e protegido de cortes arbitrários.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=4.3>
+PERGUNTA 4.3 — Critério utilizado para definição do orçamento
+
+Qual o critério predominante para definir o orçamento de marketing?
+
+ALTERNATIVAS
+(1) Não há critério — liberações são ad hoc e circunstanciais.
+(2) O critério é baseado em demandas pontuais justificadas caso a caso.
+(3) Existe critério definido (percentual sobre receita, meta de crescimento ou similar), aplicado regularmente.
+(4) O critério é estratégico, vinculado a metas do negócio, e o marketing participa da construção do próprio orçamento.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=4.4>
+PERGUNTA 4.4 — Tratamento do marketing como investimento ou despesa
+
+Na prática, como a organização trata financeiramente o marketing?
+
+ALTERNATIVAS
+(1) Como despesa eventual a ser minimizada.
+(2) Como gasto necessário, mas sem lógica de retorno ou proteção contra cortes.
+(3) Como investimento reconhecido, com alocações consistentes e razoavelmente protegidas.
+(4) Como investimento estratégico de crescimento, com estabilidade e coerência plena com os objetivos do negócio.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=4.5>
+PERGUNTA 4.5 — Estabilidade do orçamento ao longo do tempo
+
+O orçamento de marketing se mantém estável ao longo dos ciclos?
+
+ALTERNATIVAS
+(1) O orçamento é inexistente ou completamente instável.
+(2) Existe algum recurso, mas sofre cortes frequentes e imprevisíveis.
+(3) O orçamento é razoavelmente estável, com ajustes justificados e previsíveis.
+(4) O orçamento é estável, protegido e ajustado apenas de forma estratégica e planejada.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=4.6>
+PERGUNTA 4.6 — Participação do marketing na definição do próprio orçamento
+
+O setor de marketing participa ativamente do processo de definição do seu próprio orçamento?
+
+ALTERNATIVAS
+(1) O marketing não participa — o valor é imposto ou inexistente.
+(2) O marketing pode sugerir, mas não tem influência real sobre a decisão.
+(3) O marketing participa do processo com voz ativa, embora a decisão final seja da diretoria.
+(4) O marketing co-constrói o orçamento em conjunto com a diretoria, com base em metas e estratégia.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=4.7>
+PERGUNTA 4.7 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com liderança sobre orçamento
+● Análise de histórico orçamentário (últimos 2+ anos)
+● Verificação de previsibilidade anual
+● Cruzamento com planejamento estratégico
+● Divergência entre discurso ("investimos em marketing") e ausência de orçamento formal
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=4.8>
+PERGUNTA 4.8 — Inconsistência discurso versus prática orçamentária
+
+Há inconsistência entre o que a liderança declara sobre investimento em marketing e a realidade orçamentária verificada?
+
+ALTERNATIVAS
+Não há inconsistência relevante
+Há inconsistência moderada
+Há inconsistência significativa — discurso não corresponde à prática
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 4:
+• Se 4.1 = (1) → BLOCO automaticamente REATIVO
+• Se 4.1 = (1) ou (2) → BLOCO não pode ultrapassar OPERACIONAL
+• Sem orçamento formal → maturidade máxima = OPERACIONAL
+
+
+CAMPOS DO CONSULTOR — BLOCO 4:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 2 — DIRECIONAMENTO E COERÊNCIA ESTRATÉGICA            ║
+║  Pergunta do eixo: O marketing sabe para onde está indo      ║
+║  e por quê?                                                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 5 — CULTURA DE PLANEJAMENTO   │
+│ E ALINHAMENTO COM A ESTRATÉGIA       │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 9                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O marketing opera com direção estratégica clara ou navega sem rumo?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE se existe CULTURA de planejamento e se há alinhamento entre marketing e estratégia do negócio.
+NÃO mede: existência concreta de norteadores (Camada 2, Eixo 1), qualidade da estratégia, capacidade de execução (Bloco 9), accountability (Bloco 10).
+
+NOTA DE FRONTEIRA COM CAMADA 2: Este bloco avalia se a empresa TEM O HÁBITO de planejar e alinhar. O Eixo 1 da Camada 2 avalia se os planos EXISTEM concretamente.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MODELO — planejamento estratégico; ROT_MKTVENDAS — planejamento de marketing). Complementar: verificação documental.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Não há planejamento formal do negócio nem do marketing. Ações são reativas e desconectadas.
+
+OPERACIONAL (2): Existe algum planejamento, mas informal ou de curto prazo. Alinhamento é parcial. O time de marketing não conhece as prioridades do negócio.
+
+ESTRUTURADO (3): Planejamento formal existe para o negócio e para o marketing. Há alinhamento claro. Revisões periódicas acontecem.
+
+ESTRATÉGICO (4): Planejamento é completo, integrado e amplamente comunicado. Marketing participa da formulação. Coerência plena entre prioridades e ações.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=5.1>
+PERGUNTA 5.1 — Existência de planejamento estratégico formal do negócio
+
+A empresa possui planejamento estratégico formal do negócio (visão, metas anuais, prioridades institucionais documentadas)?
+
+ALTERNATIVAS
+(1) Não há planejamento estratégico formal do negócio.
+(2) Existe planejamento, porém restrito ao curto prazo ou informal.
+(3) Há planejamento formal com metas e prioridades definidas.
+(4) Há planejamento estratégico completo, revisado periodicamente e amplamente comunicado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.2>
+PERGUNTA 5.2 — Existência de planejamento formal de marketing
+
+O setor de marketing possui planejamento próprio formalizado (objetivos, metas, iniciativas, cronograma)?
+
+ALTERNATIVAS
+(1) Não há planejamento formal de marketing.
+(2) Existe planejamento informal ou restrito ao curto prazo (mensal/trimestral reativo).
+(3) Há planejamento formal com metas e iniciativas definidas para o ano ou semestre.
+(4) O planejamento de marketing está integrado ao planejamento estratégico corporativo.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.3>
+PERGUNTA 5.3 — Grau de alinhamento entre marketing e objetivos estratégicos
+
+As ações e prioridades do marketing estão efetivamente conectadas aos objetivos estratégicos do negócio?
+
+ALTERNATIVAS
+(1) As ações do marketing são desconectadas da estratégia do negócio.
+(2) Há alinhamento parcial ou informal — algumas ações conectam, outras não.
+(3) Há alinhamento claro e consistente entre marketing e objetivos do negócio.
+(4) O marketing participa da formulação dos objetivos estratégicos e suas ações derivam diretamente deles.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.4>
+PERGUNTA 5.4 — Clareza da visão e dos objetivos anuais entre marketing e vendas
+
+Marketing e vendas possuem clareza compartilhada sobre a visão, os objetivos e as prioridades anuais da empresa?
+
+ALTERNATIVAS
+(1) Não há clareza compartilhada — cada área opera com sua própria interpretação.
+(2) Há conhecimento superficial, mas sem alinhamento estruturado.
+(3) Ambas as áreas compreendem e compartilham os mesmos objetivos com clareza.
+(4) Há alinhamento total — marketing e vendas co-constroem metas e prioridades.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.5>
+PERGUNTA 5.5 — Grau de compartilhamento da estratégia com o time de marketing
+
+O time de marketing compreende as prioridades estratégicas do negócio e sabe como seu trabalho se conecta a elas?
+
+ALTERNATIVAS
+(1) O time desconhece as prioridades estratégicas da empresa.
+(2) O time tem conhecimento superficial, sem clareza de conexão com seu trabalho.
+(3) O time compreende as prioridades e consegue conectá-las ao seu trabalho.
+(4) O time tem domínio claro da estratégia e suas entregas são diretamente derivadas dela.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.6>
+PERGUNTA 5.6 — Coerência entre prioridades declaradas e ações executadas
+
+As ações efetivamente executadas pelo marketing são coerentes com as prioridades estratégicas declaradas pela liderança?
+
+ALTERNATIVAS
+(1) Não há coerência — ações são reativas e desconectadas.
+(2) Coerência parcial — algumas ações se conectam, mas há dispersão significativa.
+(3) Boa coerência — a maioria das ações é consistente com a estratégia declarada.
+(4) Coerência plena — todas as ações derivam claramente das prioridades estratégicas.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=5.7>
+PERGUNTA 5.7 — Existência de revisões estratégicas periódicas
+
+Existem rituais formais de revisão periódica do planejamento e da estratégia de marketing?
+
+ALTERNATIVAS
+(1) Não há revisões estratégicas periódicas.
+(2) Revisões acontecem de forma irregular e informal.
+(3) Existem revisões periódicas estruturadas.
+(4) Revisões periódicas são institucionalizadas e geram ajustes formais no planejamento.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=5.8>
+PERGUNTA 5.8 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com CEO/diretores sobre visão, objetivos e prioridades
+● Entrevista com marketing e vendas sobre entendimento da estratégia
+● Verificação de evidência documental (planejamento estratégico do negócio)
+● Verificação de evidência documental (planejamento de marketing)
+● Análise de coerência entre prioridades declaradas e ações executadas
+● Fragilidade identificada: liderança declara objetivos, mas marketing/vendas não os descrevem com clareza
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=5.9>
+PERGUNTA 5.9 — Fragilidade de alinhamento
+
+A liderança declara objetivos e prioridades que o marketing e vendas não conseguem descrever com clareza?
+
+ALTERNATIVAS
+Não — há alinhamento confirmado
+Parcialmente — há conhecimento superficial mas sem clareza
+Sim — há fragilidade significativa de alinhamento
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 5:
+• Se 5.1 = (1) E 5.2 = (1) → BLOCO automaticamente REATIVO
+• Se 5.9 = fragilidade significativa → BLOCO não pode ultrapassar OPERACIONAL
+
+
+CAMPOS DO CONSULTOR — BLOCO 5:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+════════════════════════════════════════
+CONTINUA NO ARQUIVO PARTE 2
+(Eixos 3 e 4 — Blocos 6 a 10)
+════════════════════════════════════════
+════════════════════════════════════════════════════════════════
+FORMULARIO_CONSOLIDADO_CAMADA1 — PARTE 2
+Eixos 3 e 4 (Blocos 6 a 10)
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 3 — ARQUITETURA OPERACIONAL E INFRAESTRUTURA          ║
+║  Pergunta do eixo: O marketing opera com organização e       ║
+║  infraestrutura adequada?                                    ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 6 — ESTRUTURA E PROCESSOS     │
+│ OPERACIONAIS                         │
+│ PESO: 1 (Bloco Não Crítico)         │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 8                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O setor de marketing opera com estrutura organizada e processos definidos ou depende de improviso e esforço individual?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE disciplina operacional — organização funcional do trabalho.
+NÃO mede: ferramentas tecnológicas (Camada 2, Eixo 6), propriedade de ativos (Bloco 8), planejamento estratégico (Bloco 5), autonomia decisória (Bloco 3), accountability (Bloco 10).
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS). Complementar: verificação prática do fluxo de trabalho.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Tudo é improvisado. Papéis confusos. Sem rituais. Sem critérios de priorização. Modo "apagar incêndios".
+
+OPERACIONAL (2): Processos parciais e informais. Alguma previsibilidade. Padronização depende de quem executa.
+
+ESTRUTURADO (3): Processos definidos e documentados. Rituais recorrentes. Critérios claros. Previsibilidade na maioria das atividades.
+
+ESTRATÉGICO (4): Processos consolidados e continuamente aprimorados. Rituais institucionalizados. Alta previsibilidade. Padrão de qualidade documentado.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=6.1>
+PERGUNTA 6.1 — Existência de processos formais de execução
+
+O setor de marketing possui processos formais e documentados para a execução das atividades recorrentes?
+
+ALTERNATIVAS
+(1) Não há processos definidos — tudo é improvisado.
+(2) Existem processos parciais e informais — as pessoas sabem "como se faz", mas não está formalizado.
+(3) Processos estão definidos, documentados e conhecidos pelo time.
+(4) Processos são consolidados, eficientes e continuamente aprimorados.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=6.2>
+PERGUNTA 6.2 — Clareza de papéis e responsabilidades dentro do setor
+
+Os papéis e responsabilidades de cada membro do setor de marketing são claros e formalizados?
+
+ALTERNATIVAS
+(1) Papéis são confusos — não há definição clara de quem faz o quê.
+(2) Papéis são parcialmente definidos, mas há sobreposições e lacunas frequentes.
+(3) Papéis são claros e conhecidos pelo time.
+(4) Papéis são formalizados, com escopo definido e sem sobreposição.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=6.3>
+PERGUNTA 6.3 — Existência de rotinas e rituais recorrentes
+
+O setor possui rituais recorrentes estruturados (reuniões de planejamento, checkpoints semanais, reviews mensais)?
+
+ALTERNATIVAS
+(1) Não há rituais recorrentes — reuniões são circunstanciais.
+(2) Existem algumas rotinas básicas, mas sem regularidade ou estrutura clara.
+(3) Existem rituais recorrentes, estruturados e com pauta definida.
+(4) Rituais são institucionalizados, geram decisões documentadas e sustentam o fluxo operacional.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=6.4>
+PERGUNTA 6.4 — Critérios objetivos de priorização de demandas
+
+Existem critérios objetivos e conhecidos pelo time para priorizar demandas no setor de marketing?
+
+ALTERNATIVAS
+(1) Não há critérios — a priorização é por urgência percebida ou pressão.
+(2) Há critérios informais, mas não padronizados.
+(3) Existem critérios definidos e aplicados consistentemente.
+(4) Critérios de priorização são formalizados, integrados ao planejamento e revisados periodicamente.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=6.5>
+PERGUNTA 6.5 — Previsibilidade das atividades do setor
+
+O setor consegue operar com previsibilidade sobre suas atividades e entregas?
+
+ALTERNATIVAS
+(1) Não há previsibilidade — o setor opera no modo "apagar incêndios".
+(2) Alguma previsibilidade para atividades rotineiras, mas alta imprevisibilidade geral.
+(3) A maioria das atividades é previsível e planejada com antecedência.
+(4) O setor opera com alta previsibilidade, fluxo de trabalho organizado e capacidade de absorver exceções.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=6.6>
+PERGUNTA 6.6 — Padronização mínima das entregas
+
+As entregas do setor possuem padrão mínimo de qualidade e formato?
+
+ALTERNATIVAS
+(1) Não há padronização — cada entrega é diferente.
+(2) Padronização parcial, dependente de quem executa.
+(3) Existe padrão definido para as principais entregas.
+(4) Entregas são padronizadas, com critérios de qualidade documentados.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=6.7>
+PERGUNTA 6.7 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com responsável pelo marketing
+● Entrevista com membros do time
+● Análise prática do fluxo de trabalho
+● Verificação de rituais recorrentes (evidência concreta)
+● Evidência concreta de organização (não apenas discurso)
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=6.8>
+PERGUNTA 6.8 — Dependência de pessoas específicas
+
+O funcionamento do setor depende excessivamente de pessoas específicas (e não de processos estruturados)?
+
+ALTERNATIVAS
+Não — o setor funciona independentemente de indivíduos específicos
+Parcialmente — há alguma dependência, mas com processos que mitigam o risco
+Sim — o funcionamento depende criticamente de pessoas específicas
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 6:
+• Se 6.1 = (1) E 6.2 = (1) → BLOCO automaticamente REATIVO
+• Se 6.8 = dependência crítica → BLOCO não pode ultrapassar OPERACIONAL
+
+
+CAMPOS DO CONSULTOR — BLOCO 6:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 7 — INTEGRAÇÃO INTERSETORIAL  │
+│ PESO: 1 (Bloco Não Crítico)         │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 7                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+Marketing e vendas operam de forma integrada ou como silos isolados?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE a INFRAESTRUTURA de integração: rituais, passagem de bastão, fluxo de informações, feedback.
+NÃO mede: se a integração GERA RESULTADOS (Camada 2, Eixo 8), engajamento cultural (Bloco 2), processos operacionais internos do marketing (Bloco 6).
+
+NOTA DE FRONTEIRA COM CAMADA 2: Este bloco avalia se os MECANISMOS de integração existem. O Eixo 8 da Camada 2 avalia se a integração GERA RESULTADOS práticos.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS). Complementar: verificação de rituais formais.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Não existem rituais de integração. Leads passados sem critério. Informações circulam aleatoriamente. Conflitos sem resolução.
+
+OPERACIONAL (2): Comunicação pontual e informal. Algum entendimento sobre passagem de bastão, mas sem critérios claros. Feedback esporádico.
+
+ESTRUTURADO (3): Rituais formais e recorrentes. Passagem de bastão com critérios claros. Fluxo de informação previsível. Feedback recorrente.
+
+ESTRATÉGICO (4): Integração contínua e institucionalizada. Acordos operacionais formais. Feedback que gera ajustes. Alinhamento com governança institucional.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=7.1>
+PERGUNTA 7.1 — Existência de rituais formais de integração entre marketing e vendas
+
+Existem rituais formais e recorrentes de alinhamento entre marketing e vendas?
+
+ALTERNATIVAS
+(1) Não existem rituais formais de integração.
+(2) Existe comunicação pontual e informal quando necessário.
+(3) Existem rituais formais e recorrentes de integração.
+(4) Marketing e vendas atuam de forma integrada, com alinhamento contínuo institucionalizado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=7.2>
+PERGUNTA 7.2 — Existência de rituais de alinhamento com diretoria
+
+Existem rituais formais de alinhamento entre marketing e diretoria?
+
+ALTERNATIVAS
+(1) Não há rituais formais de alinhamento com a diretoria.
+(2) Alinhamento acontece de forma irregular e sob demanda.
+(3) Existem rituais periódicos e estruturados de alinhamento.
+(4) O alinhamento é contínuo, bidirecional e integrado à governança institucional.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=7.3>
+PERGUNTA 7.3 — Clareza na passagem de bastão entre marketing e vendas
+
+A passagem de bastão entre marketing e vendas está claramente definida?
+
+ALTERNATIVAS
+(1) Não há definição — leads são passados sem critério.
+(2) Existe algum entendimento informal, mas sem critérios claros e padronizados.
+(3) A passagem de bastão está definida com critérios claros e conhecidos por ambas as áreas.
+(4) Existem acordos operacionais formais documentados, com critérios de qualificação, SLAs e feedback estruturado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=7.4>
+PERGUNTA 7.4 — Fluxo estruturado de informações entre áreas
+
+Existe fluxo estruturado de informações relevantes entre marketing e demais áreas?
+
+ALTERNATIVAS
+(1) Não existe fluxo estruturado — informações circulam de forma aleatória.
+(2) Informações são compartilhadas quando solicitadas, sem estrutura.
+(3) O fluxo de informação é previsível e tem canais definidos.
+(4) Existe fluxo de informação institucional, bidirecional e integrado aos processos de decisão.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=7.5>
+PERGUNTA 7.5 — Existência de feedback estruturado entre áreas
+
+Existe mecanismo formal de feedback entre marketing e vendas/operação?
+
+ALTERNATIVAS
+(1) Não existe feedback estruturado.
+(2) Feedback é informal e esporádico.
+(3) Existe feedback recorrente e estruturado.
+(4) Feedback é institucionalizado, gera ajustes e faz parte da governança operacional.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=7.6>
+PERGUNTA 7.6 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com marketing
+● Entrevista com vendas
+● Entrevista com diretoria
+● Verificação de rituais formais de integração (evidência concreta)
+● Análise da clareza do fluxo de passagem de bastão
+● Verificação de acordos operacionais formais
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=7.7>
+PERGUNTA 7.7 — Conflito recorrente sem mecanismo de resolução
+
+Existe conflito recorrente entre marketing e vendas sem mecanismo formal de resolução?
+
+ALTERNATIVAS
+Não há conflito recorrente relevante
+Há conflito pontual, com mecanismos informais de resolução
+Há conflito recorrente sem mecanismo formal de resolução
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 7:
+• Se 7.1 = (1) E 7.3 = (1) → BLOCO automaticamente REATIVO
+• Se 7.7 = conflito recorrente sem resolução → BLOCO não pode ultrapassar OPERACIONAL
+
+
+CAMPOS DO CONSULTOR — BLOCO 7:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 8 — GOVERNANÇA DE ATIVOS      │
+│ ESTRATÉGICOS                         │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 9                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+Os ativos digitais do marketing estão protegidos, sob propriedade institucional e com governança formal?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE governança, propriedade, segurança e proteção jurídica dos ativos de marketing.
+NÃO mede: existência e uso de ferramentas (Camada 2, Eixo 6), qualidade da estratégia, processos operacionais (Bloco 6).
+
+NOTA DE FRONTEIRA COM CAMADA 2: Este bloco avalia se os ativos SÃO DA EMPRESA e estão PROTEGIDOS. O Eixo 6 da Camada 2 avalia se ferramentas e documentos EXISTEM e são USADOS.
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Verificação prática (propriedade das contas, domínio, 2FA, registro de marca). Este é o bloco que MAIS exige verificação prática.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Ativos em nome de terceiros. Sem controle de acessos. Sem segurança digital. Sem proteção jurídica. Risco elevado.
+
+OPERACIONAL (2): Alguns ativos institucionalizados, outros não. Controle parcial. Segurança parcial. Proteção informal.
+
+ESTRUTURADO (3): Todos os ativos essenciais sob propriedade institucional. Controle estruturado. 2FA ativa. Autorização de uso de imagem. Protocolo de registro de marca ativo.
+
+ESTRATÉGICO (4): Governança completa. Registro de marca concedido. Política de acessos documentada. Procedimentos de desligamento e transição. Backup e auditoria periódica.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=8.1>
+PERGUNTA 8.1 — Propriedade institucional dos ativos digitais
+
+Os ativos digitais do marketing estão sob propriedade institucional da empresa?
+
+ALTERNATIVAS
+(1) Ativos estão no nome de pessoas físicas ou fornecedores.
+(2) Alguns ativos estão institucionalizados, outros ainda em posse de terceiros.
+(3) Todos os ativos essenciais estão sob propriedade institucional.
+(4) Todos os ativos estão institucionalizados, com registro formal e atualizado.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.2>
+PERGUNTA 8.2 — Controle formal de acessos
+
+Existe controle formal sobre quem tem acesso a quais plataformas e com quais permissões?
+
+ALTERNATIVAS
+(1) Não há controle formal de acessos.
+(2) Controle parcial e informal.
+(3) Controle estruturado com permissões definidas.
+(4) Política documentada de gestão de acessos com auditoria periódica.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.3>
+PERGUNTA 8.3 — Segurança digital
+
+Existe segurança digital mínima (2FA ativa em contas críticas, independência de ex-colaboradores e fornecedores)?
+
+ALTERNATIVAS
+(1) Sem segurança digital estruturada — contas vulneráveis.
+(2) Segurança parcial — 2FA em algumas contas, mas sem política formal.
+(3) 2FA ativa nas contas críticas, independência de ex-colaboradores e fornecedores assegurada.
+(4) Política de segurança completa com procedimentos formais de desligamento e transição.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.4>
+PERGUNTA 8.4 — Proteção jurídica e propriedade intelectual
+
+A empresa possui proteção jurídica estruturada sobre seus ativos de marketing?
+
+ALTERNATIVAS
+(1) Não há proteção jurídica — risco elevado.
+(2) Proteção parcial e informal.
+(3) Autorização formal de uso de imagem quando aplicável e protocolo de registro de marca ativo.
+(4) Proteção jurídica consolidada — registro de marca concedido, cessão de direitos formalizada, arquivamento organizado.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklists — não pontuam)
+
+<PERGUNTA_ID=8.5>
+PERGUNTA 8.5 — Existência dos ativos essenciais (obrigatório para Nível Estruturado)
+
+Marque TODOS os itens que estão sob controle institucional formal:
+
+● Domínio sob propriedade institucional
+● Contas de mídia sob propriedade institucional
+● CRMs sob propriedade institucional
+● Ferramentas de analytics sob propriedade institucional
+● E-mail institucional centralizador
+● Controle formal de acessos
+● Autenticação de dois fatores ativa nas contas críticas
+● Autorização formal de uso de imagem (quando aplicável)
+● Protocolo formal de registro de marca
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.6>
+PERGUNTA 8.6 — Existência de itens de maturidade avançada (requisito para Nível Estratégico)
+
+Marque TODOS os itens de maturidade avançada existentes:
+
+● Registro de marca concedido
+● Registro formal e atualizado dos ativos digitais
+● Política documentada de gestão de acessos
+● Procedimento formal de desligamento de colaboradores (ativos digitais)
+● Procedimento formal de transição com fornecedores
+● Backup estruturado dos ativos críticos
+● Auditoria periódica de acessos
+● Estrutura formal de proteção de propriedade intelectual
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.7>
+PERGUNTA 8.7 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Verificação prática de propriedade das contas
+● Consulta de registro de domínio
+● Verificação da situação do registro de marca
+● Solicitação de evidências de autorização de uso de imagem
+● Verificação de 2FA ativa
+● Análise de política de acessos
+● Evidência de backup e auditoria
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIOS ABSOLUTOS
+
+<PERGUNTA_ID=8.8>
+PERGUNTA 8.8 — Contas no CPF de colaboradores ou fornecedores
+
+Existem contas ou ativos estratégicos cadastrados no CPF de colaboradores ou fornecedores?
+
+ALTERNATIVAS
+Não — todos os ativos estão sob propriedade institucional
+Parcialmente — alguns ativos ainda estão em nome de terceiros
+Sim — ativos críticos estão em nome de colaboradores ou fornecedores
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=8.9>
+PERGUNTA 8.9 — Uso de imagem sem autorização formal
+
+O marketing utiliza imagens de colaboradores ou clientes em materiais sem autorização formal documentada?
+
+ALTERNATIVAS
+Não — todas as imagens utilizadas possuem autorização formal
+Parcialmente — há casos sem autorização formal
+Sim — não há política de autorização de uso de imagem
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 8:
+• Se qualquer item essencial da pergunta 8.5 estiver ausente → BLOCO não pode atingir ESTRUTURADO
+• Se qualquer item da pergunta 8.6 estiver ausente → BLOCO não pode atingir ESTRATÉGICO
+• Se 8.8 = ativos em nome de terceiros → bloquear maturidade superior
+• Registro de marca concedido → obrigatório para nível Estratégico
+
+
+CAMPOS DO CONSULTOR — BLOCO 8:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 4 — CAPACIDADE E RESPONSABILIDADE POR IMPACTO         ║
+║  Pergunta do eixo: O marketing tem músculo técnico e         ║
+║  responde por impacto real no negócio?                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 9 — CAPACIDADE TÉCNICA E      │
+│ OPERACIONAL                          │
+│ PESO: 1 (Bloco Não Crítico)         │
+│ ESTRUTURAL OBRIGATÓRIO: NÃO          │
+│ TOTAL DE PERGUNTAS: 8                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O setor possui competência técnica e capacidade operacional para sustentar a estratégia de marketing?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE competência técnica, capacidade de produção, análise de dados e execução.
+NÃO mede: processos operacionais (Bloco 6), autonomia (Bloco 3), accountability (Bloco 10), qualidade do conteúdo (Camada 2, Eixo 3).
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS). Complementar: análise técnica do consultor.
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Equipe insuficiente ou não qualificada. Papéis confusos. Alta improvisação. Sem capacidade analítica.
+
+OPERACIONAL (2): Equipe mínima com limitações. Papéis parciais. Capacidade limitada. Análise superficial.
+
+ESTRUTURADO (3): Equipe qualificada. Papéis claros. Capacidade adequada. Capacidade analítica funcional. Entregas dentro do prazo.
+
+ESTRATÉGICO (4): Equipe especializada com desenvolvimento contínuo. Papéis formalizados. Capacidade escalável. Análise sofisticada. Entregas consistentemente pontuais.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=9.1>
+PERGUNTA 9.1 — Existência de profissionais com competência técnica adequada
+
+O setor possui profissionais com competência técnica compatível com as demandas estratégicas do marketing?
+
+ALTERNATIVAS
+(1) Equipe insuficiente ou não qualificada para as demandas.
+(2) Existe equipe mínima, mas com limitações técnicas relevantes.
+(3) Equipe qualificada com competências técnicas adequadas.
+(4) Equipe especializada, com competências avançadas e desenvolvimento contínuo.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=9.2>
+PERGUNTA 9.2 — Clareza de papéis técnicos dentro do setor
+
+Os papéis técnicos dentro do setor estão definidos?
+
+ALTERNATIVAS
+(1) Não há definição de papéis técnicos — todos fazem tudo.
+(2) Papéis parcialmente definidos, com sobreposições e lacunas.
+(3) Papéis claros e conhecidos.
+(4) Papéis formalizados com escopo técnico definido e especialização.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=9.3>
+PERGUNTA 9.3 — Capacidade de produção
+
+O setor possui capacidade de produção suficiente para atender as demandas com qualidade?
+
+ALTERNATIVAS
+(1) Capacidade de produção insuficiente — alta improvisação.
+(2) Capacidade limitada — entregas irregulares e inconsistentes.
+(3) Capacidade adequada — entregas consistentes e previsíveis.
+(4) Capacidade robusta e escalável — com margem para absorver demandas adicionais.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=9.4>
+PERGUNTA 9.4 — Capacidade de análise de dados
+
+O setor possui capacidade técnica de analisar dados de marketing para orientar decisões?
+
+ALTERNATIVAS
+(1) Não há capacidade de análise de dados no setor.
+(2) Análise de dados limitada e superficial.
+(3) Capacidade analítica funcional — o setor analisa os principais indicadores.
+(4) Capacidade analítica forte — análises sofisticadas que sustentam decisões estratégicas.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=9.5>
+PERGUNTA 9.5 — Capacidade de execução dentro dos prazos
+
+O setor consegue entregar dentro dos prazos definidos de forma consistente?
+
+ALTERNATIVAS
+(1) Prazos são frequentemente descumpridos.
+(2) Entregas dentro do prazo são irregulares.
+(3) A maioria das entregas acontece dentro do prazo.
+(4) Entregas são consistentemente pontuais, com gestão de prazos institucionalizada.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=9.6>
+PERGUNTA 9.6 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com liderança
+● Entrevista com membros do time
+● Análise de estrutura organizacional do setor
+● Verificação de especialização técnica
+● Verificação de carga de trabalho versus capacidade
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIOS ABSOLUTOS
+
+<PERGUNTA_ID=9.7>
+PERGUNTA 9.7 — Dependência excessiva de um único profissional
+
+O setor depende excessivamente de um único profissional para sua operação?
+
+ALTERNATIVAS
+Não — as competências estão distribuídas
+Parcialmente — há concentração, mas com alguma redundância
+Sim — a saída de uma pessoa comprometeria criticamente a operação
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=9.8>
+PERGUNTA 9.8 — Ausência de especialização técnica
+
+O setor carece de especialização técnica nas áreas centrais do marketing?
+
+ALTERNATIVAS
+Não — há especialização adequada
+Parcialmente — há lacunas em áreas específicas
+Sim — não há especialização técnica relevante
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 9:
+• Se 9.1 = (1) → BLOCO automaticamente REATIVO
+• Se 9.7 = dependência crítica → BLOCO não pode atingir Estratégico
+• Se 9.8 = ausência de especialização → BLOCO não pode atingir Estratégico
+
+
+CAMPOS DO CONSULTOR — BLOCO 9:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 10 — CULTURA DE               │
+│ RESPONSABILIDADE E ACCOUNTABILITY    │
+│ PESO: 2 (Bloco Crítico)             │
+│ ESTRUTURAL OBRIGATÓRIO: SIM          │
+│ TOTAL DE PERGUNTAS: 7                │
+└──────────────────────────────────────┘
+
+PERGUNTA CENTRAL
+O marketing responde por resultados com metas claras, indicadores e responsabilização formal?
+
+FRONTEIRA CONCEITUAL
+Mede EXCLUSIVAMENTE a cultura de responsabilização por resultados: metas, KPIs, acompanhamento e reação quando metas não são atingidas.
+NÃO mede: qualidade da estratégia, capacidade técnica (Bloco 9), planejamento (Bloco 5), processos (Bloco 6).
+
+FONTE DE EVIDÊNCIA PRIMÁRIA: Imersão (ROT_MKTVENDAS — metas, KPIs; ROT_MODELO — metas do negócio). Complementar: verificação documental (metas documentadas? dashboards existem?).
+
+CENÁRIOS DE NÍVEL:
+
+REATIVO (1): Não existem metas formais nem KPIs. Resultados não são acompanhados. Não há responsabilização.
+
+OPERACIONAL (2): Metas genéricas. Alguns indicadores, mas sem estrutura. Acompanhamento esporádico. Responsabilidade difusa.
+
+ESTRUTURADO (3): Metas claras. KPIs definidos e acompanhados. Acompanhamento periódico. Responsabilidade definida. Análise quando metas não são atingidas.
+
+ESTRATÉGICO (4): Metas formalizadas e conectadas ao negócio. KPIs estruturados. Acompanhamento contínuo com dashboards. Responsabilidade institucionalizada. Processo formal de aprendizado e ajuste.
+
+
+SEÇÃO A — PERGUNTAS ESTRUTURAIS (escala 1-4)
+
+<PERGUNTA_ID=10.1>
+PERGUNTA 10.1 — Existência de metas formais de marketing
+
+O setor de marketing possui metas formais definidas?
+
+ALTERNATIVAS
+(1) Não existem metas formais para o marketing.
+(2) Existem metas genéricas ou pouco estruturadas.
+(3) Existem metas claras definidas para o marketing.
+(4) Metas estão formalizadas, documentadas e conectadas aos objetivos estratégicos do negócio.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=10.2>
+PERGUNTA 10.2 — Existência de KPIs definidos
+
+Existem indicadores de desempenho (KPIs) claros para acompanhar os resultados do marketing?
+
+ALTERNATIVAS
+(1) Não existem KPIs definidos.
+(2) Existem alguns indicadores, mas sem estrutura consistente.
+(3) KPIs principais estão definidos e acompanhados.
+(4) KPIs são estruturados, documentados e conectados ao desempenho do negócio.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=10.3>
+PERGUNTA 10.3 — Frequência de acompanhamento de resultados
+
+Com que frequência os resultados do marketing são acompanhados?
+
+ALTERNATIVAS
+(1) Resultados não são acompanhados regularmente.
+(2) Acompanhamento eventual ou esporádico.
+(3) Acompanhamento periódico (mensal ou trimestral).
+(4) Acompanhamento contínuo com dashboards e rituais de análise.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=10.4>
+PERGUNTA 10.4 — Responsabilidade clara por resultados
+
+Existe responsabilidade clara por resultados dentro do setor de marketing?
+
+ALTERNATIVAS
+(1) Não há responsabilização clara por resultados.
+(2) Responsabilidade difusa — difícil identificar quem responde pelo resultado.
+(3) Responsabilidade definida para as principais metas.
+(4) Responsabilidade institucionalizada com metas individuais ou por área.
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=10.5>
+PERGUNTA 10.5 — Reação institucional quando metas não são atingidas
+
+Quando metas de marketing não são atingidas, existe reação estruturada da empresa?
+
+ALTERNATIVAS
+(1) Não há reação estruturada.
+(2) Discussões pontuais sem plano formal.
+(3) Existe análise e revisão das ações.
+(4) Existe processo formal de aprendizado, ajuste de estratégia e plano de ação.
+</PERGUNTA_ID>
+
+
+SEÇÃO B — EVIDÊNCIAS (checklist — não pontua)
+
+<PERGUNTA_ID=10.6>
+PERGUNTA 10.6 — Fontes de evidência utilizadas
+
+Marque todas as fontes de evidência utilizadas:
+
+● Entrevista com liderança
+● Entrevista com time de marketing
+● Verificação de metas documentadas
+● Verificação de KPIs utilizados
+● Análise de dashboards ou relatórios
+● Evidência de reuniões de análise de resultados
+</PERGUNTA_ID>
+
+
+SEÇÃO C — CRITÉRIO ABSOLUTO
+
+<PERGUNTA_ID=10.7>
+PERGUNTA 10.7 — Ausência de responsabilização por desempenho
+
+Quando resultados não são atingidos, não existe responsabilização clara ou plano de correção?
+
+ALTERNATIVAS
+Não — há responsabilização e revisão estruturada
+Parcialmente — responsabilização informal ou irregular
+Sim — não existe responsabilização clara
+</PERGUNTA_ID>
+
+
+REGRAS CONDICIONAIS DO BLOCO 10:
+• Se 10.1 = (1) E 10.2 = (1) → BLOCO automaticamente REATIVO
+• Predominância de métricas de vaidade → BLOCO não pode ultrapassar OPERACIONAL
+• Ausência de metas, indicadores e responsáveis → BLOCO não pode atingir ESTRUTURADO
+
+
+CAMPOS DO CONSULTOR — BLOCO 10:
+
+Nota atribuída ao bloco: ___
+Justificativa da nota:
+Observação do consultor:
+
+
+════════════════════════════════════════════════════════════════
+SEÇÃO FINAL — CÁLCULO E CLASSIFICAÇÃO DA CAMADA 1
+════════════════════════════════════════════════════════════════
+
+
+QUADRO DE NOTAS
+
+BLOCO | NOME                              | PESO | NOTA | PONTUAÇÃO
+──────|───────────────────────────────────|──────|──────|──────────
+1     | Mentalidade da Liderança           | 2    |      |
+2     | Engajamento Organizacional         | 1    |      |
+3     | Autonomia e Estrutura Decisória    | 2    |      |
+4     | Cultura Orçamentária               | 2    |      |
+5     | Planejamento e Alinhamento         | 2    |      |
+6     | Estrutura e Processos              | 1    |      |
+7     | Integração Intersetorial           | 1    |      |
+8     | Governança de Ativos               | 2    |      |
+9     | Capacidade Técnica                 | 1    |      |
+10    | Accountability                     | 2    |      |
+──────|───────────────────────────────────|──────|──────|──────────
+      | PONTUAÇÃO TOTAL                    |      |      |
+
+
+FAIXAS DE CLASSIFICAÇÃO
+
+REATIVO: 16 a 25 pontos (até 40%)
+OPERACIONAL: 26 a 41 pontos (41% a 65%)
+ESTRUTURADO: 42 a 53 pontos (66% a 84%)
+ESTRATÉGICO: 54 a 64 pontos (85% a 100%)
+
+
+VERIFICAÇÃO DE CRITÉRIOS OBRIGATÓRIOS
+
+Para ESTRUTURADO:
+( ) Nenhum bloco está classificado como Reativo?
+( ) Blocos estruturais obrigatórios (1, 3, 4, 10) estão no mínimo em Estruturado?
+( ) Ativos essenciais institucionalizados (Bloco 8)?
+
+Para ESTRATÉGICO:
+( ) Nenhum bloco está abaixo de Estruturado?
+( ) Blocos estruturais obrigatórios (1, 3, 4, 10) estão no nível Estratégico?
+( ) No máximo 2 blocos estão em Estruturado?
+( ) Registro de marca concedido?
+( ) Governança formal de ativos implementada?
+
+
+REGRA DE BLOQUEIO
+
+Se critérios obrigatórios não forem atendidos:
+1. Rebaixar para o nível inferior
+2. Verificar critérios do nível inferior
+3. Repetir até encontrar nível válido
+
+
+CLASSIFICAÇÃO FINAL DA CAMADA 1:
+
+Pontuação total: ___
+Faixa inicial: ___
+Critérios obrigatórios atendidos: ( ) Sim  ( ) Não
+Rebaixamento aplicado: ( ) Sim  ( ) Não
+CLASSIFICAÇÃO FINAL: ___
+
+Justificativa do consultor:
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

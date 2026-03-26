@@ -1,0 +1,703 @@
+DOCUMENTO: MANUAL_METODOLOGICO_IMERSAO
+ETAPA: ETAPA_I_IMERSAO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 2.0
+
+
+════════════════════════════════════════
+SEÇÃO 1 — PROPÓSITO DA ETAPA
+════════════════════════════════════════
+
+
+OBJETIVO
+
+
+A Imersão é a primeira etapa da metodologia IDEAL.
+
+Seu propósito é construir uma compreensão profunda, estruturada e baseada em evidências sobre o cenário real da empresa — sua história, cultura, modelo de negócio, mercado, portfólio, público, estrutura comercial, estrutura de marketing, objetivos e os gargalos que limitam seu crescimento.
+
+A Imersão NÃO é uma coleta passiva de informações. É uma investigação estratégica conduzida pelo consultor para:
+
+1. Compreender o negócio com profundidade suficiente para que o diagnóstico seja preciso.
+2. Identificar premissas, narrativas e contradições que o cliente não percebe.
+3. Gerar os insumos necessários para alimentar todas as etapas subsequentes da metodologia IDEAL (Diagnóstico, Estrutura, Arquitetura e Loop).
+4. Produzir um relatório que comunique ao cliente o cenário atual do seu negócio com clareza e valor estratégico.
+
+
+VALOR PARA O CLIENTE
+
+
+O cliente deve sair da Imersão sentindo que foi compreendido com uma profundidade que nunca experimentou antes. O relatório de imersão deve funcionar como um espelho estratégico — mostrando ao cliente como seu negócio realmente opera, não como ele imagina que opera.
+
+Para empresas B2B de mercados técnicos com maturidade de marketing baixa (perfil predominante dos clientes MKT Real), a Imersão frequentemente é o primeiro momento em que alguém organiza e conecta as informações do negócio de forma estratégica. Esse valor não pode ser desperdiçado com processos burocráticos ou superficiais.
+
+
+════════════════════════════════════════
+SEÇÃO 2 — ESTRUTURA DA ETAPA
+════════════════════════════════════════
+
+
+A Imersão é composta por 3 momentos sequenciais. Cada momento possui um entregável obrigatório.
+
+
+────────────────────────────────
+MOMENTO 1 — PLANEJAMENTO DA IMERSÃO
+────────────────────────────────
+
+OBJETIVO DO MOMENTO
+Analisar o perfil do cliente e definir o plano de entrevistas antes de iniciar a coleta.
+
+ATIVIDADES
+• Levantar dados cadastrais e contextuais da empresa (informações públicas, briefing comercial, material recebido).
+• Realizar pesquisa preliminar de mercado e concorrência (fontes públicas, sites, redes sociais, notícias do setor).
+• Mapear os stakeholders que precisam ser entrevistados.
+• Definir quais roteiros e temas serão abordados com cada stakeholder.
+• Montar agenda de entrevistas com datas, formato (presencial ou remoto) e duração estimada.
+• Adaptar guias de perguntas conforme perfil do cliente e restrições de acesso.
+
+ENTREGÁVEL
+PLANO_DE_IMERSAO — documento interno com dados cadastrais, pesquisa preliminar, mapa de stakeholders, agenda de entrevistas e guias de perguntas selecionados.
+
+CRITÉRIO DE CONCLUSÃO
+O Momento 1 está concluído quando o Plano de Imersão está preenchido, a pesquisa preliminar foi realizada, as entrevistas estão agendadas e os roteiros estão definidos para cada stakeholder.
+
+
+────────────────────────────────
+MOMENTO 2 — EXECUÇÃO E CONSOLIDAÇÃO
+────────────────────────────────
+
+OBJETIVO DO MOMENTO
+Conduzir as entrevistas, registrar as respostas e consolidar todas as informações em um documento interno estruturado que servirá como base para o diagnóstico e demais etapas.
+
+ATIVIDADES
+• Conduzir as entrevistas conforme os roteiros definidos no Momento 1.
+• Registrar as respostas de forma fiel.
+• Triangular respostas divergentes entre stakeholders.
+• Consolidar todas as informações em um único documento, eliminando redundâncias.
+• Produzir síntese interpretativa integrada (não por roteiro, mas por dimensão estratégica).
+• Registrar premissas estratégicas com rastreabilidade.
+• Registrar lacunas de informação e seus impactos.
+• Organizar insumos para as etapas subsequentes.
+
+ENTREGÁVEL
+DOSSIE_DE_IMERSAO — documento interno de trabalho com todas as respostas consolidadas, sínteses, premissas, lacunas e insumos estruturados por etapa de destino.
+
+CRITÉRIO DE CONCLUSÃO
+O Momento 2 está concluído quando todas as entrevistas foram realizadas (ou lacunas de acesso foram documentadas), as respostas estão consolidadas sem redundâncias, a síntese interpretativa está produzida, as premissas estão documentadas com rastreabilidade, e os insumos para as etapas subsequentes estão organizados.
+
+
+────────────────────────────────
+MOMENTO 3 — RELATÓRIOS FINAIS
+────────────────────────────────
+
+OBJETIVO DO MOMENTO
+Transformar o Dossiê em dois relatórios: um interno (para uso da equipe MKT Real) e um externo (para apresentação ao cliente).
+
+ATIVIDADES
+• Produzir o Relatório Interno de Imersão (versão completa com insumos para diagnóstico).
+• Produzir o Relatório do Cliente (versão executiva com cenário estratégico, achados e próximos passos).
+• Validar que ambos os relatórios estão coerentes entre si.
+
+ENTREGÁVEIS
+RELATORIO_INTERNO_IMERSAO — documento interno completo, que alimenta diretamente o trabalho do consultor nas etapas subsequentes. Contém tudo do Dossiê mais a organização dos insumos por etapa de destino.
+
+RELATORIO_CLIENTE_IMERSAO — documento executivo apresentável ao cliente, com cenário atual, principais achados, pontos de atenção e indicação dos próximos passos. Deve seguir obrigatoriamente a estrutura definida na Seção 10 deste manual.
+
+CRITÉRIO DE CONCLUSÃO
+O Momento 3 está concluído quando ambos os relatórios estão finalizados e o consultor confirma que possui todos os insumos necessários para iniciar o Diagnóstico.
+
+
+════════════════════════════════════════
+SEÇÃO 3 — ROTEIROS DE ENTREVISTA
+════════════════════════════════════════
+
+
+A Imersão utiliza 6 roteiros de entrevista, cada um com escopo e fronteira conceitual definidos.
+
+
+────────────────────────────────
+ROTEIRO 1 — HISTÓRIA, CULTURA E MARCA
+────────────────────────────────
+
+CÓDIGO: ROT_HISTORIA
+ESCOPO: Compreender a origem, a trajetória, a cultura organizacional e a essência da marca.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• História (Fundação e Origem, Momentos Decisivos, DNA Histórico, Aprendizados Estratégicos)
+• Cultura Organizacional (Valores Inegociáveis, Manifestação dos Valores, Cultura de Inovação, Cultura Comercial, Cultura de Marketing, Estilo de Liderança)
+
+LIMITE CONCEITUAL: NÃO investiga modelo de negócio, portfólio, mercado, objetivos, marketing operacional ou vendas.
+
+ENTREVISTADO IDEAL: Sócio-fundador ou CEO.
+ENTREVISTADO COMPLEMENTAR: Colaborador com mais tempo de casa.
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 1, Bloco 1 — Mentalidade Estratégica da Liderança
+• Camada 1, Bloco 2 — Engajamento Organizacional
+• Camada 2, Eixo 2 — Branding (identidade, personalidade, valores, propósito)
+• Camada 2, Eixo 3, Bloco 1 — Narrativa de marca
+• Camada 2, Eixo 7 — Endomarketing
+
+NOTA DE ESCOPO AMPLIADO (v2.0):
+O roteiro original coleta cultura geral. Deve ser ampliado para investigar especificamente: Cultura de Inovação (como a empresa lida com mudanças, novas tecnologias, experimentação), Cultura Comercial (como a empresa enxerga a atividade de venda, se é valorizada, se é estruturada) e Cultura de Marketing (como a empresa historicamente tratou o marketing, percepções internas).
+
+
+────────────────────────────────
+ROTEIRO 2 — MODELO DE NEGÓCIO E CONTEXTO
+────────────────────────────────
+
+CÓDIGO: ROT_MODELO
+ESCOPO: Compreender como a empresa opera e gera valor — proposta de valor, público, canais, recursos, custos, receita, estrutura organizacional e ativos estratégicos.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• Contexto de Negócio (Identificação, Quem é a empresa, Estrutura Organizacional Resumida, Papéis Estratégicos, Ativos Estratégicos, Segmentos mais Atendidos, Contexto Estratégico, Gargalos e Restrições, Modelo de Negócio Atual, Cenário Atual, Evolução Planejada, Principal Desafio)
+
+LIMITE CONCEITUAL: NÃO investiga história, cultura, portfólio detalhado (JTBD), mercado competitivo, objetivos de marketing nem estrutura de marketing e vendas.
+
+ENTREVISTADO IDEAL: CEO ou diretor de operações.
+ENTREVISTADO COMPLEMENTAR: Diretor financeiro (quando aplicável).
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 2, Eixo 1, Bloco 2 — Proposta de Valor
+• Camada 2, Eixo 1, Bloco 6 — Ecossistema de Stakeholders
+• Camada 2, Eixo 4 — Canais e Mídias
+• Etapa E — Estrutura
+
+NOTA DE ESCOPO AMPLIADO (v2.0):
+O roteiro original foca no Business Model Canvas. Deve ser ampliado para investigar: Estrutura Organizacional Resumida (áreas, hierarquia, número de colaboradores por área), Papéis Estratégicos (quem decide o quê), Ativos Estratégicos tangíveis e intangíveis (patentes, certificações, base de clientes, know-how proprietário, contratos-chave), Evolução Planejada do Modelo (como o cliente enxerga o modelo daqui a 2-3 anos), e o Principal Desafio do negócio como um todo (não apenas de marketing).
+
+
+────────────────────────────────
+ROTEIRO 3 — SERVIÇOS E PRODUTOS
+────────────────────────────────
+
+CÓDIGO: ROT_PORTFOLIO
+ESCOPO: Compreender o portfólio, o papel estratégico de cada solução, o JTBD, os diferenciais e as oportunidades de priorização.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• Proposta de Valor e Posicionamento Estratégico (Proposta de Valor, Dimensões Estruturais, Tese Central do Negócio, Diferenciais Competitivos, Por Que o Cliente Escolhe, Posicionamento Estratégico, Pilares Estratégicos)
+• Serviços e Produtos (Estrutura Atual das Ofertas)
+
+LIMITE CONCEITUAL: NÃO investiga modelo de negócio como estrutura, cultura, mercado competitivo, objetivos de marketing, nem estrutura de marketing e vendas.
+
+ENTREVISTADO IDEAL: CEO ou diretor comercial.
+ENTREVISTADO COMPLEMENTAR: Responsável técnico pelas soluções.
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 2, Eixo 1, Bloco 3 — Posicionamento Estratégico
+• Camada 2, Eixo 1, Bloco 4 — Diferenciais Competitivos
+• Camada 2, Eixo 1, Bloco 5 — Portfólio de Soluções
+• Camada 2, Eixo 8 — Marketing e Vendas
+• Etapa A — Arquitetura
+
+NOTA DE ESCOPO AMPLIADO (v2.0):
+O roteiro original coleta portfólio e diferenciais. Deve ser ampliado para consolidar: Proposta de Valor com suas Dimensões Estruturais (o que entrega tangível e intangível, para quem, por que é diferente), Tese Central do Negócio (a crença fundamental que orienta a empresa), e Posicionamento Estratégico com seus Pilares (como a empresa quer ser percebida e por quê).
+
+
+────────────────────────────────
+ROTEIRO 4 — MERCADO E COMPETITIVIDADE
+────────────────────────────────
+
+CÓDIGO: ROT_MERCADO
+ESCOPO: Compreender o mercado de atuação, a dinâmica competitiva, tendências, oportunidades, ameaças e os principais concorrentes.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• Mercado (Forças Influenciadoras, Estrutura do Mercado, Tendência Estrutural, Oportunidades e Lacunas, Principais Concorrentes)
+
+LIMITE CONCEITUAL: NÃO investiga a empresa internamente (história, cultura, operação, marketing, vendas). Foco exclusivo no ambiente externo e competitivo.
+
+ENTREVISTADO IDEAL: CEO ou diretor comercial.
+ENTREVISTADO COMPLEMENTAR: Responsável por inteligência de mercado (quando existir).
+
+FONTE COMPLEMENTAR OBRIGATÓRIA: Pesquisa preliminar do consultor (Momento 1) — dados públicos, análise de concorrentes, tendências setoriais.
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 2, Eixo 1, Bloco 3 — Posicionamento Estratégico (contexto competitivo)
+• Camada 2, Eixo 1, Bloco 4 — Diferenciais (sustentabilidade frente à concorrência)
+• Etapa A — Arquitetura (oportunidades de mercado para o plano)
+
+NOTA: Este é um ROTEIRO NOVO (v2.0). Não existia na versão anterior da metodologia. A ausência de investigação de mercado era uma lacuna crítica — impossível fazer diagnóstico e planejamento estratégico sem compreender o ambiente competitivo.
+
+
+────────────────────────────────
+ROTEIRO 5 — PÚBLICO-ALVO, STAKEHOLDERS E JORNADA
+────────────────────────────────
+
+CÓDIGO: ROT_PUBLICO
+ESCOPO: Compreender em profundidade quem é o público da empresa — ICP, decisores, influenciadores, jornada de compra, dores, motivações e gatilhos de contratação.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• Público-Alvo, Stakeholders e ICP (Mapa do ICP, Perfil Ideal de Cliente, Setores Industriais Mais Aderentes, Grau de Maturidade das Empresas, Gatilho Econômico de Contratação, Mapa dos Decisores, Jornada de Compra, Clientes, Dores Principais, Principais Motivações)
+
+LIMITE CONCEITUAL: NÃO investiga o portfólio da empresa (isso é ROT_PORTFOLIO), a operação interna de marketing e vendas (isso é ROT_MKTVENDAS), nem o mercado como ambiente competitivo (isso é ROT_MERCADO). Foco exclusivo no público e na jornada.
+
+ENTREVISTADO IDEAL: Diretor comercial ou responsável por vendas.
+ENTREVISTADO COMPLEMENTAR 1: CEO (visão estratégica do público).
+ENTREVISTADO COMPLEMENTAR 2: Profissional de atendimento/sucesso do cliente (quando existir).
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 2, Eixo 1, Bloco 6 — Ecossistema de Stakeholders
+• Camada 2, Eixo 3 — Comunicação (adequação ao público)
+• Camada 2, Eixo 4 — Canais (adequação ao público)
+• Camada 2, Eixo 8, Bloco 1 — Integração Marketing e Vendas (qualificação de leads)
+• Etapa A — Arquitetura (personas e jornada para o plano)
+
+NOTA: Este é um ROTEIRO NOVO (v2.0). Na versão anterior, perguntas sobre público estavam dispersas entre ROT_MODELO e ROT_PORTFOLIO, gerando redundância e falta de profundidade. A investigação de público em empresas B2B técnicas é complexa (múltiplos decisores, ciclo longo, gatilhos específicos) e merece roteiro próprio.
+
+
+────────────────────────────────
+ROTEIRO 6 — MARKETING, VENDAS E PROBLEMA CENTRAL
+────────────────────────────────
+
+CÓDIGO: ROT_MKTVENDAS
+ESCOPO: Compreender o desempenho e estrutura atuais de marketing e vendas, identificar forças, fragilidades, oportunidades e o problema central.
+
+TÓPICOS DO RELATÓRIO QUE ESTE ROTEIRO ALIMENTA:
+• Comercial (Processo Comercial Atual, Pessoas Envolvidas, Características Principais, Estrutura Típica de Decisão no Cliente, Natureza da Venda, CRM e Gestão do Pipeline, Funil de Vendas, Principais Desafios)
+• Marketing (Canais Utilizados, Geração de Oportunidades)
+
+LIMITE CONCEITUAL: NÃO investiga história, cultura, modelo de negócio operacional, portfólio detalhado, mercado competitivo nem público em profundidade.
+
+ENTREVISTADO IDEAL (PRIMÁRIO): Responsável por marketing e/ou vendas.
+ENTREVISTADO COMPLEMENTAR 1: CEO (para triangulação).
+ENTREVISTADO COMPLEMENTAR 2: Membros do time comercial (quando acessíveis).
+
+TRIANGULAÇÃO OBRIGATÓRIA: As percepções do responsável por marketing/vendas DEVEM ser cruzadas com as percepções do CEO. Divergências significativas devem ser registradas como ALERTA_ESTRUTURAL.
+
+CONEXÕES COM ETAPAS SUBSEQUENTES:
+• Camada 1 — Todos os 10 blocos
+• Camada 2 — Todos os 8 eixos
+• Etapa E — Estrutura (equipe, ferramentas, documentos, integrações, rastreamentos)
+• Etapa A — Arquitetura (gargalos e oportunidades para o plano)
+
+NOTA DE ESCOPO AMPLIADO (v2.0):
+O roteiro original coleta forças, fragilidades e problema central. Deve ser ampliado para investigar especificamente: Processo Comercial detalhado (etapas, responsáveis, tempo médio), CRM e Gestão do Pipeline (existe? é utilizado? está configurado?), Natureza da Venda (complexidade, número de decisores, ticket médio, ciclo), Funil de Vendas (etapas, taxas de conversão se disponíveis), Canais de Marketing ativos com nível de esforço percebido, e Geração de Oportunidades (como chegam os clientes hoje, fontes, proporção estimada).
+
+
+────────────────────────────────
+ROTEIRO DESCONTINUADO — OBJETIVOS E EXPECTATIVAS
+────────────────────────────────
+
+CÓDIGO ANTERIOR: ROT_OBJETIVOS
+DECISÃO: ABSORVIDO por outros roteiros.
+
+Os tópicos de objetivos e expectativas NÃO justificam um roteiro próprio. As perguntas sobre metas, expectativas e horizontes temporais devem ser incorporadas como seção final nos roteiros ROT_MODELO (objetivos de negócio) e ROT_MKTVENDAS (objetivos e expectativas de marketing). Isso elimina uma entrevista inteira sem perda de conteúdo, reduz o tempo exigido do CEO, e posiciona as perguntas no contexto correto (objetivos de negócio junto ao modelo, objetivos de marketing junto à estrutura atual).
+
+REGRA DE ABSORÇÃO:
+• Perguntas sobre resultados esperados do negócio, definição de sucesso e metas organizacionais → ROT_MODELO (seção final: OBJETIVOS_E_CONTEXTO_ESTRATEGICO)
+• Perguntas sobre expectativas de marketing, papel do marketing no crescimento, indicadores → ROT_MKTVENDAS (seção final: OBJETIVOS_E_EXPECTATIVAS_DE_MARKETING)
+• Perguntas sobre horizontes temporais (curto, médio, longo prazo) → ROT_MODELO
+
+
+════════════════════════════════════════
+SEÇÃO 4 — MAPA DE INSUMOS POR ETAPA
+════════════════════════════════════════
+
+
+Este mapa define quais informações da Imersão alimentam cada etapa subsequente da metodologia IDEAL. O consultor deve garantir que esses insumos estejam completos antes de avançar.
+
+
+────────────────────────────────
+INSUMOS PARA O DIAGNÓSTICO (ETAPA D)
+────────────────────────────────
+
+CAMADA 1 — MATURIDADE ESTRUTURAL
+
+Bloco 1 (Mentalidade da Liderança):
+← ROT_HISTORIA: como liderança descreve papel do marketing, cultura de marketing
+← ROT_MODELO: se marketing é mencionado nos objetivos estratégicos
+← ROT_MKTVENDAS: percepção sobre marketing x realidade observada
+
+Bloco 2 (Engajamento Organizacional):
+← ROT_HISTORIA: cultura e comportamento organizacional
+← ROT_MKTVENDAS: colaboração entre áreas e marketing
+
+Bloco 3 (Autonomia e Estrutura Decisória):
+← ROT_MKTVENDAS: quem toma decisões de marketing, nível de autonomia
+
+Bloco 4 (Cultura Orçamentária):
+← ROT_MKTVENDAS: existência e estabilidade do orçamento
+← ROT_MODELO: tratamento financeiro do marketing (objetivos)
+
+Bloco 5 (Planejamento e Alinhamento):
+← ROT_MODELO: existência de planejamento estratégico, objetivos
+← ROT_MKTVENDAS: existência de planejamento de marketing
+
+Bloco 6 (Estrutura e Processos):
+← ROT_MKTVENDAS: processos, rituais, papéis do setor
+
+Bloco 7 (Integração Intersetorial):
+← ROT_MKTVENDAS: integração marketing-vendas, passagem de bastão
+
+Bloco 8 (Governança de Ativos):
+← ROT_MKTVENDAS: propriedade de ativos, acessos, segurança digital
+
+Bloco 9 (Capacidade Técnica):
+← ROT_MKTVENDAS: competências do time, capacidade de produção
+
+Bloco 10 (Accountability):
+← ROT_MKTVENDAS: metas, KPIs, acompanhamento de resultados
+← ROT_MODELO: metas e indicadores existentes (objetivos)
+
+
+CAMADA 2 — AVALIAÇÃO REAL DO MARKETING
+
+Eixo 1 (Estratégia Competitiva):
+← ROT_MODELO: proposta de valor, público, canais, norteadores
+← ROT_PORTFOLIO: portfólio, diferenciais, JTBD, posicionamento
+← ROT_MERCADO: concorrentes, dinâmica competitiva
+← ROT_PUBLICO: ICP, stakeholders, qualificação
+
+Eixo 2 (Branding):
+← ROT_HISTORIA: identidade, valores, propósito, cultura
+← ROT_PORTFOLIO: como a empresa se diferencia
+
+Eixo 3 (Comunicação):
+← ROT_HISTORIA: narrativa, essência da marca
+← ROT_MKTVENDAS: materiais existentes, consistência percebida
+
+Eixo 4 (Canais e Mídias):
+← ROT_MODELO: canais de venda e relacionamento
+← ROT_MKTVENDAS: canais de marketing ativos
+← ROT_PUBLICO: onde o público está
+
+Eixo 5 (Aplicações Estratégicas):
+← ROT_MKTVENDAS: estratégias de marketing executadas
+← ROT_PORTFOLIO: prioridades de comunicação por solução
+
+Eixo 6 (Setup):
+← ROT_MKTVENDAS: ferramentas, documentos, processos existentes
+
+Eixo 7 (Endomarketing):
+← ROT_HISTORIA: cultura organizacional, rituais internos
+← ROT_MKTVENDAS: comunicação interna, engajamento
+
+Eixo 8 (Vendas):
+← ROT_MKTVENDAS: funil, processo comercial, CRM, pipeline
+← ROT_PUBLICO: jornada de compra, decisores
+
+
+────────────────────────────────
+INSUMOS PARA A ESTRUTURA (ETAPA E)
+────────────────────────────────
+
+← ROT_MKTVENDAS: equipe atual, ferramentas, documentos, integrações, rastreamentos, CRM
+← ROT_MODELO: modelo de negócio e complexidade operacional
+← ROT_MODELO: ambição e metas (para dimensionar estrutura necessária)
+
+
+────────────────────────────────
+INSUMOS PARA A ARQUITETURA (ETAPA A)
+────────────────────────────────
+
+← ROT_MODELO: metas tangíveis e intangíveis, horizonte temporal, critérios de sucesso
+← ROT_PORTFOLIO: prioridades estratégicas de soluções
+← ROT_MKTVENDAS: gargalos, oportunidades, problema central, expectativas de marketing
+← ROT_MODELO: modelo de receita e canais (para calibrar verba)
+← ROT_MERCADO: oportunidades de mercado
+← ROT_PUBLICO: personas e jornada para o plano
+
+
+────────────────────────────────
+INSUMOS PARA O LOOP (ETAPA L)
+────────────────────────────────
+
+← ROT_MODELO: horizontes temporais (curto, médio, longo prazo), expectativas de resultado
+← ROT_MKTVENDAS: capacidade de execução atual (para calibrar marcos realistas)
+
+
+════════════════════════════════════════
+SEÇÃO 5 — REGRAS DE PRIORIZAÇÃO
+════════════════════════════════════════
+
+
+Para empresas B2B de mercados técnicos com maturidade de marketing baixa, o consultor frequentemente enfrenta restrições de tempo e acesso a stakeholders. As regras abaixo orientam a priorização.
+
+
+────────────────────────────────
+PRIORIDADE DAS ENTREVISTAS
+────────────────────────────────
+
+OBRIGATÓRIAS (sem elas a imersão é inválida):
+1. ROT_MKTVENDAS — com responsável de marketing/vendas E com CEO
+2. ROT_HISTORIA — com sócio-fundador ou CEO
+3. ROT_MODELO — com CEO ou diretor de operações
+
+ALTAMENTE RECOMENDADAS:
+4. ROT_PORTFOLIO — com CEO ou diretor comercial
+5. ROT_PUBLICO — com diretor comercial ou responsável por vendas
+6. ROT_MERCADO — com CEO ou diretor comercial
+
+Se houver restrição severa de acesso, os roteiros 4, 5 e 6 podem ser parcialmente incorporados às entrevistas obrigatórias, utilizando as perguntas marcadas como NUCLEO_ESSENCIAL nos roteiros.
+
+NOTA: O ROT_MERCADO pode ser parcialmente suprido pela pesquisa preliminar do consultor (Momento 1). Nesse caso, as perguntas de entrevista do ROT_MERCADO focam em validar e complementar a pesquisa, não em coletar do zero.
+
+
+────────────────────────────────
+PRIORIDADE DAS PERGUNTAS
+────────────────────────────────
+
+Cada roteiro deve conter marcação de prioridade em suas perguntas:
+
+NUCLEO_ESSENCIAL — perguntas que não podem ser cortadas em nenhuma circunstância.
+COMPLEMENTAR — perguntas que aprofundam a compreensão, mas podem ser cortadas em caso de restrição de tempo.
+
+
+════════════════════════════════════════
+SEÇÃO 6 — REGRAS DE GOVERNANÇA
+════════════════════════════════════════
+
+
+────────────────────────────────
+CRITÉRIOS DE QUALIDADE DA IMERSÃO
+────────────────────────────────
+
+A imersão é considerada COMPLETA quando:
+• Todas as entrevistas obrigatórias foram realizadas.
+• As respostas foram consolidadas no Dossiê sem redundâncias.
+• A síntese interpretativa foi produzida por dimensão estratégica.
+• As premissas estratégicas foram documentadas com rastreabilidade.
+• As lacunas de informação foram registradas com impacto e ação necessária.
+• Os insumos para cada etapa subsequente foram organizados.
+• Todos os tópicos obrigatórios do Relatório do Cliente (Seção 10) possuem conteúdo suficiente.
+
+A imersão é considerada PARCIAL quando:
+• Uma ou mais entrevistas obrigatórias não puderam ser realizadas.
+• Lacunas de informação críticas não foram preenchidas.
+• Tópicos obrigatórios do Relatório do Cliente estão vazios.
+• Neste caso, o consultor deve registrar as lacunas no Dossiê e avaliar se é possível avançar para o Diagnóstico com os insumos disponíveis, ou se é necessário buscar alternativas.
+
+
+────────────────────────────────
+TRATAMENTO DE DIVERGÊNCIAS
+────────────────────────────────
+
+Quando respostas de stakeholders diferentes divergem sobre o mesmo tema:
+1. Registrar ambas as versões no Dossiê.
+2. Classificar a divergência como: MODERADA (diferença de ênfase) ou SIGNIFICATIVA (contradição factual ou de percepção).
+3. Divergências significativas devem ser sinalizadas como ALERTA_ESTRUTURAL no Dossiê e no Relatório Interno.
+4. A versão que prevalece na síntese deve ser justificada pelo consultor com base em evidências, não em hierarquia.
+
+
+────────────────────────────────
+TRATAMENTO DE LACUNAS
+────────────────────────────────
+
+Quando uma informação não foi obtida:
+1. Registrar a lacuna no Dossiê com: qual informação falta, por que não foi obtida, qual o impacto para as etapas subsequentes, e qual ação é necessária (investigar no diagnóstico, solicitar ao cliente, ou registrar como premissa a validar).
+
+
+════════════════════════════════════════
+SEÇÃO 7 — SÍNTESE INTERPRETATIVA
+════════════════════════════════════════
+
+
+A síntese interpretativa da Imersão deve ser produzida uma única vez, no Dossiê de Imersão, organizada por dimensões estratégicas e não por roteiro.
+
+
+DIMENSÕES DA SÍNTESE
+
+
+DIM_1 — QUEM A EMPRESA É
+Integra informações de: ROT_HISTORIA
+Responde: Qual é a história, a cultura, os valores vividos, a essência, o estilo de liderança e a identidade da marca.
+
+DIM_2 — COMO A EMPRESA OPERA E GERA VALOR
+Integra informações de: ROT_MODELO + ROT_PORTFOLIO
+Responde: Qual é o modelo de negócio, a estrutura organizacional, os ativos estratégicos, a proposta de valor, como o portfólio está estruturado, o posicionamento, os diferenciais e quais soluções são prioritárias.
+
+DIM_3 — ONDE A EMPRESA COMPETE
+Integra informações de: ROT_MERCADO + ROT_PUBLICO
+Responde: Qual é a dinâmica do mercado, quem são os concorrentes, quais são as tendências e oportunidades, quem é o público, como é a jornada de compra, quais são os gatilhos de contratação e como os decisores atuam.
+
+DIM_4 — COMO A EMPRESA VENDE E SE COMUNICA
+Integra informações de: ROT_MKTVENDAS
+Responde: Como marketing e vendas operam, qual é o processo comercial, o funil, o CRM, os canais ativos, como as oportunidades são geradas, quais são as forças, fragilidades e o problema central.
+
+DIM_5 — PARA ONDE A EMPRESA QUER IR
+Integra informações de: ROT_MODELO (objetivos) + ROT_MKTVENDAS (expectativas de marketing)
+Responde: Quais são os objetivos, metas, expectativas e critérios de sucesso.
+
+DIM_6 — GARGALOS, CONTRADIÇÕES E LACUNAS
+Integra informações de: TODOS OS ROTEIROS
+Responde: Quais são as contradições entre discurso e prática, entre stakeholders, e entre ambição e capacidade. Quais gargalos limitam o crescimento. Quais informações estão ausentes e qual seu impacto.
+
+
+════════════════════════════════════════
+SEÇÃO 8 — PREMISSAS ESTRATÉGICAS
+════════════════════════════════════════
+
+
+As premissas estratégicas são as conclusões-chave da Imersão que orientarão o Diagnóstico e as demais etapas.
+
+Cada premissa deve conter:
+• CÓDIGO: identificador único (ex: PREM_01)
+• DESCRIÇÃO: a premissa em si
+• ORIGEM: de qual roteiro e pergunta surgiu (rastreabilidade)
+• GRAU_DE_CONFIANÇA: ALTO (baseado em múltiplas evidências convergentes), MÉDIO (baseado em evidência parcial), BAIXO (baseado em percepção ou hipótese a validar)
+• IMPACTO: quais etapas ou blocos do diagnóstico essa premissa afeta
+• AÇÃO: se a premissa precisa ser validada no diagnóstico, registrar aqui
+
+
+════════════════════════════════════════
+SEÇÃO 9 — CONEXÃO COM AS DEMAIS ETAPAS
+════════════════════════════════════════
+
+
+A Imersão alimenta TODAS as etapas subsequentes. O consultor deve verificar, ao final da Imersão, que possui insumos suficientes para:
+
+DIAGNÓSTICO (ETAPA D):
+• Responder os 10 blocos da Camada 1 com base em evidências (não opinião).
+• Responder os 8 eixos da Camada 2 com base em evidências.
+• Toda pergunta da Camada 1 que depende de entrevistas já deveria ter seu insumo coletado na Imersão.
+
+ESTRUTURA (ETAPA E):
+• Mapear a equipe atual de marketing.
+• Mapear as ferramentas e tecnologias em uso.
+• Mapear os documentos existentes.
+• Mapear as integrações entre sistemas.
+• Mapear os rastreamentos ativos.
+
+ARQUITETURA (ETAPA A):
+• Ter clareza sobre metas, prazos e expectativas do cliente.
+• Ter identificado o problema central e os gargalos prioritários.
+• Ter compreendido o modelo de receita para calibrar recomendações de verba.
+• Ter mapeado o público e a jornada para orientar o plano.
+• Ter compreendido o mercado para identificar oportunidades.
+
+LOOP (ETAPA L):
+• Ter definido horizontes temporais com o cliente.
+• Ter avaliado a capacidade de execução para calibrar marcos realistas.
+
+Se qualquer insumo crítico estiver ausente ao final da Imersão, o consultor deve registrar a lacuna e buscar preenchê-la antes de avançar para o Diagnóstico.
+
+
+════════════════════════════════════════
+SEÇÃO 10 — ESTRUTURA DO RELATÓRIO DO CLIENTE
+════════════════════════════════════════
+
+
+O Relatório do Cliente (RELATORIO_CLIENTE_IMERSAO) deve seguir obrigatoriamente a estrutura abaixo. Cada seção deve conter conteúdo substantivo. Seções sem conteúdo devem ser sinalizadas como lacuna no Relatório Interno.
+
+
+────────────────────────────────
+CAPÍTULO 1 — HISTÓRIA
+────────────────────────────────
+1.1 Fundação e Origem
+1.2 Momentos Decisivos
+1.3 DNA Histórico
+1.4 Aprendizados Estratégicos da Trajetória
+
+FONTE PRIMÁRIA: ROT_HISTORIA
+
+
+────────────────────────────────
+CAPÍTULO 2 — CULTURA ORGANIZACIONAL
+────────────────────────────────
+2.1 Valores Inegociáveis
+2.2 Manifestação dos Valores na Prática
+2.3 Cultura de Inovação
+2.4 Cultura Comercial
+2.5 Cultura de Marketing
+2.6 Estilo de Liderança
+
+FONTE PRIMÁRIA: ROT_HISTORIA
+
+
+────────────────────────────────
+CAPÍTULO 3 — CONTEXTO DE NEGÓCIO
+────────────────────────────────
+3.1 Identificação (dados cadastrais)
+3.2 Quem é a Empresa (síntese executiva)
+3.3 Estrutura Organizacional Resumida
+3.4 Papéis Estratégicos
+3.5 Ativos Estratégicos da Empresa
+3.6 Segmentos Mais Atendidos
+3.7 Contexto Estratégico
+3.8 Gargalos e Restrições do Negócio
+3.9 Modelo de Negócio Atual
+3.10 Cenário Atual
+3.11 Evolução Planejada do Modelo
+3.12 Principal Desafio
+
+FONTE PRIMÁRIA: ROT_MODELO
+
+
+────────────────────────────────
+CAPÍTULO 4 — PROPOSTA DE VALOR E POSICIONAMENTO
+────────────────────────────────
+4.1 Proposta de Valor
+4.2 Dimensões Estruturais
+4.3 Tese Central do Negócio
+4.4 Diferenciais Competitivos
+4.5 Por Que o Cliente Escolhe a Empresa
+4.6 Posicionamento Estratégico
+4.7 Síntese do Posicionamento: Pilares Estratégicos
+
+FONTE PRIMÁRIA: ROT_PORTFOLIO
+
+
+────────────────────────────────
+CAPÍTULO 5 — SERVIÇOS E PRODUTOS
+────────────────────────────────
+5.1 Estrutura Atual das Ofertas
+
+FONTE PRIMÁRIA: ROT_PORTFOLIO
+
+
+────────────────────────────────
+CAPÍTULO 6 — MERCADO
+────────────────────────────────
+6.1 Forças Influenciadoras
+6.2 Estrutura do Mercado
+6.3 Tendência Estrutural do Mercado
+6.4 Oportunidades e Lacunas
+6.5 Principais Concorrentes
+
+FONTE PRIMÁRIA: ROT_MERCADO + Pesquisa Preliminar do Consultor
+
+
+────────────────────────────────
+CAPÍTULO 7 — PÚBLICO-ALVO, STAKEHOLDERS E ICP
+────────────────────────────────
+7.1 Mapa do ICP
+7.2 Perfil Ideal de Cliente (ICP)
+7.3 Setores Industriais Mais Aderentes
+7.4 Grau de Maturidade das Empresas
+7.5 Gatilho Econômico de Contratação
+7.6 Mapa dos Decisores
+7.7 Jornada de Compra
+7.8 Clientes (base atual)
+7.9 Dores Principais
+7.10 Principais Motivações
+
+FONTE PRIMÁRIA: ROT_PUBLICO
+
+
+────────────────────────────────
+CAPÍTULO 8 — COMERCIAL
+────────────────────────────────
+8.1 Processo Comercial Atual
+8.2 Pessoas Envolvidas no Processo Comercial
+8.3 Características Principais
+8.4 Estrutura Típica de Decisão no Cliente
+8.5 Natureza da Venda
+8.6 CRM e Gestão do Pipeline
+8.7 Funil de Vendas
+8.8 Principais Desafios Comerciais
+
+FONTE PRIMÁRIA: ROT_MKTVENDAS
+
+
+────────────────────────────────
+CAPÍTULO 9 — MARKETING
+────────────────────────────────
+9.1 Canais Utilizados
+9.2 Geração de Oportunidades
+
+FONTE PRIMÁRIA: ROT_MKTVENDAS
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

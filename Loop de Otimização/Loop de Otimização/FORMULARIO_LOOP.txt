@@ -1,0 +1,269 @@
+DOCUMENTO: FORMULARIO_LOOP
+ETAPA: ETAPA_L_LOOP_DE_OTIMIZACOES
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este formulário é o instrumento de trabalho do consultor para operar o Loop. Contém o calendário, os registros de rituais, os marcos de aprendizado e o controle dos rediagnósticos.
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 1 — CONFIGURAÇÃO DO LOOP                             ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+EMPRESA:
+CONSULTOR RESPONSÁVEL:
+DATA DE INÍCIO DO LOOP:
+HORIZONTE DO PLANO: ___ meses
+NÚMERO DE FASES: ___
+
+FREQUÊNCIA DOS RITUAIS:
+• Alinhamento operacional: ( ) Semanal  ( ) Quinzenal
+• Review de KPIs: ( ) Mensal
+• Review de fase: ( ) Ao final de cada fase
+• Review estratégico: ( ) Trimestral  ( ) Semestral
+
+FREQUÊNCIA DO REDIAGNÓSTICO: ( ) A cada 6 meses  ( ) A cada 12 meses
+
+MODELO DE EXECUÇÃO: ( ) MKT Real executa  ( ) Cliente executa  ( ) Híbrido
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 2 — CALENDÁRIO DO LOOP                               ║
+╚══════════════════════════════════════════════════════════════╝
+
+Instrução: Preencher com as datas planejadas de cada ritual e marco.
+
+MÊS | RITUAIS PLANEJADOS                                    | DATA    | STATUS
+────|────────────────────────────────────────────────────────|─────────|────────
+1   | Alinhamento 1, Alinhamento 2, Alinhamento 3, Alin. 4  |         |
+2   | Alinhamentos + Review de KPIs #1                       |         |
+3   | Alinhamentos + Review KPIs #2 + Review Fase 1 + Marco 1|        |
+4   | Alinhamentos                                           |         |
+5   | Alinhamentos + Review de KPIs #3                       |         |
+6   | Alinhamentos + Review KPIs #4 + Review Fase 2 + Marco 2 + Rediagnóstico #1 + Review Estratégico |  |
+7   | Alinhamentos                                           |         |
+8   | Alinhamentos + Review de KPIs #5                       |         |
+9   | Alinhamentos + Review KPIs #6 + Review Fase 3 + Marco 3|        |
+10  | Alinhamentos                                           |         |
+11  | Alinhamentos + Review de KPIs #7                       |         |
+12  | Alinhamentos + Review KPIs #8 + Review Fase 4 + Marco 4 + Rediagnóstico #2 + Review Estratégico Final |  |
+
+NOTA: Adaptar conforme número de fases e horizonte do projeto.
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 3 — REGISTRO DE REVIEWS DE KPIs                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+Instrução: Registrar os resultados de cada review mensal.
+
+
+────────────────────────────────
+REVIEW DE KPIs #___
+Data: ___
+Participantes: ___
+────────────────────────────────
+
+KPIs ESTRATÉGICOS:
+
+KPI | META | RESULTADO | STATUS | TENDÊNCIA
+    |      |           | ( ) Acima  ( ) Na meta  ( ) Abaixo | ( ) ↑  ( ) →  ( ) ↓
+
+KPIs TÁTICOS:
+
+KPI | META | RESULTADO | STATUS | TENDÊNCIA
+
+KPIs OPERACIONAIS:
+
+KPI | META | RESULTADO | STATUS | TENDÊNCIA
+
+ANÁLISE DO CONSULTOR:
+
+DECISÕES TOMADAS:
+
+AJUSTES NO PLANO (se houver):
+
+
+[Repetir para cada review mensal]
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 4 — REGISTRO DE REVIEWS DE FASE                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+REVIEW DE FASE ___
+Data: ___
+Participantes: ___
+────────────────────────────────
+
+FASE AVALIADA: Fase ___ — [nome]
+DURAÇÃO PLANEJADA: ___
+DURAÇÃO REAL: ___
+
+AÇÕES PLANEJADAS: ___
+AÇÕES EXECUTADAS: ___
+AÇÕES NÃO EXECUTADAS: ___
+
+CRITÉRIO DE CONCLUSÃO ATENDIDO: ( ) Sim  ( ) Parcialmente  ( ) Não
+
+KPIs DA FASE:
+
+KPI | META | RESULTADO | STATUS
+
+AVALIAÇÃO GERAL DA FASE: ( ) Excelente  ( ) Boa  ( ) Regular  ( ) Insatisfatória
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+[Repetir para cada fase]
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 5 — MARCOS DE APRENDIZADO                            ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+MARCO DE APRENDIZADO #___
+Data: ___
+Referente a: ( ) Fase ___  ( ) Rediagnóstico ___  ( ) Evento específico: ___
+────────────────────────────────
+
+1. O QUE FOI PLANEJADO:
+
+
+2. O QUE ACONTECEU:
+
+
+3. O QUE FUNCIONOU (e por quê):
+•
+•
+•
+
+4. O QUE NÃO FUNCIONOU (e por quê):
+•
+•
+•
+
+5. O QUE APRENDEMOS:
+•
+•
+•
+
+6. O QUE AJUSTAMOS NO PLANO:
+•
+•
+•
+
+
+[Repetir para cada marco]
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 6 — CONTROLE DE REDIAGNÓSTICOS                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+REDIAGNÓSTICO #___
+Data: ___
+────────────────────────────────
+
+CAMADA 1 — COMPARATIVO:
+
+BLOCO                              | ANTERIOR | ATUAL | EVOLUÇÃO
+──────────────────────────────────|──────────|───────|──────────
+1. Mentalidade da Liderança        |          |       | ( ) ↑  ( ) →  ( ) ↓
+2. Engajamento Organizacional      |          |       | ( ) ↑  ( ) →  ( ) ↓
+3. Autonomia e Estrutura Decisória |          |       | ( ) ↑  ( ) →  ( ) ↓
+4. Cultura Orçamentária            |          |       | ( ) ↑  ( ) →  ( ) ↓
+5. Planejamento e Alinhamento      |          |       | ( ) ↑  ( ) →  ( ) ↓
+6. Estrutura e Processos           |          |       | ( ) ↑  ( ) →  ( ) ↓
+7. Integração Intersetorial        |          |       | ( ) ↑  ( ) →  ( ) ↓
+8. Governança de Ativos            |          |       | ( ) ↑  ( ) →  ( ) ↓
+9. Capacidade Técnica              |          |       | ( ) ↑  ( ) →  ( ) ↓
+10. Accountability                 |          |       | ( ) ↑  ( ) →  ( ) ↓
+──────────────────────────────────|──────────|───────|──────────
+CLASSIFICAÇÃO GERAL               |          |       | ( ) ↑  ( ) →  ( ) ↓
+
+
+CAMADA 2 — COMPARATIVO:
+
+EIXO                          | ANTERIOR | ATUAL | EVOLUÇÃO
+─────────────────────────────|──────────|───────|──────────
+1. Estratégia Competitiva     |          |       | ( ) ↑  ( ) →  ( ) ↓
+2. Branding                   |          |       | ( ) ↑  ( ) →  ( ) ↓
+3. Comunicação                |          |       | ( ) ↑  ( ) →  ( ) ↓
+4. Canais e Mídias            |          |       | ( ) ↑  ( ) →  ( ) ↓
+5. Aplicações Estratégicas    |          |       | ( ) ↑  ( ) →  ( ) ↓
+6. Setup de Marketing         |          |       | ( ) ↑  ( ) →  ( ) ↓
+7. Endomarketing              |          |       | ( ) ↑  ( ) →  ( ) ↓
+8. Vendas                     |          |       | ( ) ↑  ( ) →  ( ) ↓
+─────────────────────────────|──────────|───────|──────────
+CLASSIFICAÇÃO GERAL           |          |       | ( ) ↑  ( ) →  ( ) ↓
+
+
+MATRIZ DE MATURIDADE CRUZADA ATUALIZADA:
+• Posição anterior: [Camada 1: ___] × [Camada 2: ___]
+• Posição atual: [Camada 1: ___] × [Camada 2: ___]
+• Evolução: ___
+
+BLOCOS/EIXOS QUE EVOLUÍRAM (análise do que causou):
+•
+•
+
+BLOCOS/EIXOS QUE ESTAGNARAM (análise do que impediu):
+•
+•
+
+NOVAS RECOMENDAÇÕES:
+•
+•
+
+AJUSTES NO PLANO:
+•
+•
+
+
+[Repetir para cada rediagnóstico]
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO 7 — ENCERRAMENTO DO CICLO                            ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+DATA DE ENCERRAMENTO:
+
+HORIZONTE CUMPRIDO: ( ) Sim  ( ) Parcialmente  ( ) Não
+
+EVOLUÇÃO GERAL:
+• Maturidade Estrutural: de ___ para ___
+• Maturidade Prática: de ___ para ___
+
+FASES COMPLETADAS: ___ de ___
+
+LIÇÕES DO PROJETO COMPLETO:
+1.
+2.
+3.
+4.
+5.
+
+DECISÃO SOBRE CONTINUIDADE:
+( ) Novo ciclo IDEAL (nova Imersão + Diagnóstico completo)
+( ) Renovação do Loop (manter acompanhamento + rediagnósticos)
+( ) Encerramento (cliente segue de forma autônoma)
+
+OBSERVAÇÕES FINAIS DO CONSULTOR:
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

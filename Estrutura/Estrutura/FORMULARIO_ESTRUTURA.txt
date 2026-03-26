@@ -1,0 +1,554 @@
+DOCUMENTO: FORMULARIO_ESTRUTURA
+ETAPA: ETAPA_E_ESTRUTURA
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este formulário é o instrumento de trabalho do consultor para a Etapa E. Para cada dimensão, o consultor mapeia o cenário atual, define o cenário ideal, identifica gaps e formula recomendações em 3 cenários.
+
+As informações devem ser extraídas do Dossiê de Imersão e dos Formulários do Diagnóstico. Não é necessária nova coleta de dados, salvo verificação pontual.
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  DIMENSÃO 1 — EQUIPE                                        ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+1.1 — CENÁRIO ATUAL
+────────────────────────────────
+
+Fonte: Imersão (ROT_MKTVENDAS) + Diagnóstico (Camada 1, Blocos 6 e 9)
+
+PESSOAS NO SETOR DE MARKETING HOJE:
+
+PESSOA 1:
+• Nome/cargo:
+• Função principal:
+• Dedicação ao marketing: ( ) Integral  ( ) Parcial (__%)
+• Competências principais:
+• Lacunas técnicas identificadas:
+
+PESSOA 2:
+• Nome/cargo:
+• Função principal:
+• Dedicação ao marketing: ( ) Integral  ( ) Parcial (__%)
+• Competências principais:
+• Lacunas técnicas identificadas:
+
+PESSOA 3:
+• Nome/cargo:
+• Função principal:
+• Dedicação ao marketing: ( ) Integral  ( ) Parcial (__%)
+• Competências principais:
+• Lacunas técnicas identificadas:
+
+(Adicionar mais pessoas conforme necessário)
+
+MODELO ATUAL: ( ) Equipe interna  ( ) Terceirizado  ( ) Híbrido  ( ) Não há equipe dedicada
+
+PARCEIROS/FORNECEDORES ATUAIS:
+• Agência:
+• Freelancers:
+• Outros:
+
+OBSERVAÇÕES DO CONSULTOR SOBRE A EQUIPE ATUAL:
+
+
+────────────────────────────────
+1.2 — CENÁRIO IDEAL (definido pelo consultor)
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+
+CARGO/FUNÇÃO | PERFIL | MODELO (interno/terceiro) | DEDICAÇÃO | JUSTIFICATIVA
+
+
+CENÁRIO RECOMENDADO:
+
+CARGO/FUNÇÃO | PERFIL | MODELO (interno/terceiro) | DEDICAÇÃO | JUSTIFICATIVA
+
+
+CENÁRIO IDEAL:
+
+CARGO/FUNÇÃO | PERFIL | MODELO (interno/terceiro) | DEDICAÇÃO | JUSTIFICATIVA
+
+
+────────────────────────────────
+1.3 — GAPS IDENTIFICADOS
+────────────────────────────────
+
+FUNÇÕES AUSENTES (não existem hoje e deveriam existir):
+•
+•
+•
+
+COMPETÊNCIAS AUSENTES (existem pessoas, mas faltam competências):
+•
+•
+
+CAPACIDADE INSUFICIENTE (funções existem, mas com dedicação ou capacidade abaixo do necessário):
+•
+•
+
+DEPENDÊNCIAS CRÍTICAS (operação depende de uma pessoa):
+•
+
+
+────────────────────────────────
+1.4 — RECOMENDAÇÃO DO CONSULTOR
+────────────────────────────────
+
+PRIORIDADE DE CONTRATAÇÃO/TERCEIRIZAÇÃO (o que fazer primeiro):
+1.
+2.
+3.
+
+MODELO RECOMENDADO (interno, terceirizado ou híbrido — com justificativa):
+
+ESTIMATIVA DE INVESTIMENTO MENSAL POR CENÁRIO:
+• Mínimo viável: R$ ___
+• Recomendado: R$ ___
+• Ideal: R$ ___
+
+OBSERVAÇÕES:
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  DIMENSÃO 2 — DOCUMENTOS                                    ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+2.1 — CENÁRIO ATUAL
+────────────────────────────────
+
+Fonte: Diagnóstico (Camada 2, Eixo 6, Bloco 4 — checklists já preenchidos)
+
+DOCUMENTOS ESTRUTURANTES:
+
+DOCUMENTO                              | EXISTE? | FORMALIZADO? | ATUALIZADO? | ACESSÍVEL?
+───────────────────────────────────────|─────────|──────────────|─────────────|──────────
+Planejamento estratégico de marketing   |         |              |             |
+Posicionamento de marca documentado     |         |              |             |
+Manual de identidade visual (Brand Book)|         |              |             |
+Definição de ICP documentada            |         |              |             |
+Documento de metas e KPIs               |         |              |             |
+
+DOCUMENTOS OPERACIONAIS E AVANÇADOS:
+
+DOCUMENTO                              | EXISTE? | FORMALIZADO? | ATUALIZADO? | ACESSÍVEL?
+───────────────────────────────────────|─────────|──────────────|─────────────|──────────
+Planejamento de comunicação             |         |              |             |
+Proposta de valor documentada           |         |              |             |
+Guia de tom de voz                      |         |              |             |
+Documento de personas                   |         |              |             |
+Mapa da jornada do cliente              |         |              |             |
+Manual de processos de marketing        |         |              |             |
+Calendário editorial                    |         |              |             |
+Guia de produção de conteúdo            |         |              |             |
+Procedimentos de campanhas              |         |              |             |
+Procedimentos de gestão de leads        |         |              |             |
+Procedimentos de CRM                    |         |              |             |
+Procedimentos de relatórios             |         |              |             |
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+2.2 — CENÁRIO IDEAL
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL (documentos indispensáveis):
+1.
+2.
+3.
+4.
+5.
+
+CENÁRIO RECOMENDADO (documentos para operação consistente):
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+CENÁRIO IDEAL (documentação completa):
+Todos os documentos listados acima.
+
+
+────────────────────────────────
+2.3 — GAPS IDENTIFICADOS
+────────────────────────────────
+
+DOCUMENTOS QUE NÃO EXISTEM E DEVERIAM EXISTIR:
+•
+•
+•
+
+DOCUMENTOS QUE EXISTEM MAS ESTÃO DESATUALIZADOS:
+•
+•
+
+DOCUMENTOS QUE EXISTEM MAS NÃO ESTÃO ACESSÍVEIS:
+•
+•
+
+
+────────────────────────────────
+2.4 — RECOMENDAÇÃO DO CONSULTOR
+────────────────────────────────
+
+PRIORIDADE DE CRIAÇÃO (o que criar primeiro):
+1.
+2.
+3.
+4.
+5.
+
+RESPONSÁVEL RECOMENDADO PELA CRIAÇÃO: ( ) Consultor MKT Real  ( ) Equipe do cliente  ( ) Conjunto
+
+ESTIMATIVA DE ESFORÇO:
+
+OBSERVAÇÕES:
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  DIMENSÃO 3 — TECNOLOGIA                                    ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+3.1 — CENÁRIO ATUAL
+────────────────────────────────
+
+Fonte: Diagnóstico (Camada 2, Eixo 6, Bloco 3 — checklists já preenchidos)
+
+FERRAMENTA                        | EXISTE? | CONFIGURADA? | UTILIZADA? | ADEQUADA?
+──────────────────────────────────|─────────|──────────────|────────────|──────────
+CRM de vendas                      |         |              |            |
+Automação de marketing             |         |              |            |
+E-mail marketing                   |         |              |            |
+Gestão de redes sociais            |         |              |            |
+Gestão de projetos e tarefas       |         |              |            |
+Analytics                          |         |              |            |
+SEO                                |         |              |            |
+Gestão de anúncios                 |         |              |            |
+BI / dashboards                    |         |              |            |
+Landing pages                      |         |              |            |
+Ferramentas de IA                  |         |              |            |
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+3.2 — CENÁRIO IDEAL (stack tecnológico recomendado)
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+
+FERRAMENTA | RECOMENDAÇÃO ESPECÍFICA | INVESTIMENTO ESTIMADO | JUSTIFICATIVA
+
+
+CENÁRIO RECOMENDADO:
+
+FERRAMENTA | RECOMENDAÇÃO ESPECÍFICA | INVESTIMENTO ESTIMADO | JUSTIFICATIVA
+
+
+CENÁRIO IDEAL:
+
+FERRAMENTA | RECOMENDAÇÃO ESPECÍFICA | INVESTIMENTO ESTIMADO | JUSTIFICATIVA
+
+
+────────────────────────────────
+3.3 — GAPS IDENTIFICADOS
+────────────────────────────────
+
+FERRAMENTAS AUSENTES:
+•
+•
+
+FERRAMENTAS MAL CONFIGURADAS:
+•
+•
+
+FERRAMENTAS SUBUTILIZADAS:
+•
+•
+
+FERRAMENTAS INADEQUADAS (superdimensionadas ou subdimensionadas):
+•
+•
+
+
+────────────────────────────────
+3.4 — RECOMENDAÇÃO DO CONSULTOR
+────────────────────────────────
+
+PRIORIDADE DE IMPLEMENTAÇÃO:
+1.
+2.
+3.
+
+ESTIMATIVA DE INVESTIMENTO MENSAL POR CENÁRIO:
+• Mínimo viável: R$ ___
+• Recomendado: R$ ___
+• Ideal: R$ ___
+
+OBSERVAÇÕES:
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  DIMENSÃO 4 — INTEGRAÇÕES                                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+4.1 — CENÁRIO ATUAL
+────────────────────────────────
+
+Fonte: Diagnóstico (Camada 2, Eixo 6, Bloco 2 — checklist já preenchido)
+
+PONTO DE INTEGRAÇÃO                              | STATUS
+──────────────────────────────────────────────────|────────────────────
+CRM ↔ Automação/E-mail marketing                  | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+CRM ↔ Site (captura de leads)                     | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Analytics ↔ CRM (rastreamento de origem)          | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Anúncios ↔ Analytics                              | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Automação ↔ CRM                                   | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+WhatsApp ↔ CRM ou gestão                          | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Redes sociais ↔ Gestão                            | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Formulários ↔ CRM ou automação                    | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Dashboard consolidado ↔ Múltiplas fontes          | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+Landing pages ↔ CRM ou automação                  | ( ) Ativa  ( ) Parcial  ( ) Inexistente
+
+FLUXO DE DADOS: ( ) Automatizado  ( ) Parcialmente manual  ( ) Totalmente manual
+
+RASTREABILIDADE LEAD-TO-REVENUE: ( ) Completa  ( ) Parcial  ( ) Inexistente
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+4.2 — CENÁRIO IDEAL (mapa de integrações recomendado)
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL (integrações críticas):
+1.
+2.
+3.
+
+CENÁRIO RECOMENDADO:
+1.
+2.
+3.
+4.
+5.
+
+CENÁRIO IDEAL (ecossistema integrado):
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+
+────────────────────────────────
+4.3 — GAPS IDENTIFICADOS
+────────────────────────────────
+
+INTEGRAÇÕES AUSENTES E CRÍTICAS:
+•
+•
+
+INTEGRAÇÕES INSTÁVEIS OU QUEBRADAS:
+•
+•
+
+DADOS QUE NÃO FLUEM ENTRE SISTEMAS:
+•
+•
+
+
+────────────────────────────────
+4.4 — RECOMENDAÇÃO DO CONSULTOR
+────────────────────────────────
+
+PRIORIDADE DE IMPLEMENTAÇÃO:
+1.
+2.
+3.
+
+ESTIMATIVA DE INVESTIMENTO (setup + manutenção):
+
+OBSERVAÇÕES:
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  DIMENSÃO 5 — RASTREAMENTOS                                 ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+5.1 — CENÁRIO ATUAL
+────────────────────────────────
+
+Fonte: Diagnóstico (Camada 2, Eixos 4 e 6) + Análise técnica do consultor
+
+RASTREAMENTO                                     | STATUS
+─────────────────────────────────────────────────|─────────────────
+Google Analytics configurado e funcionando        | ( ) Sim  ( ) Parcial  ( ) Não
+Google Search Console configurado                 | ( ) Sim  ( ) Não
+Pixel do Meta (Facebook/Instagram) instalado      | ( ) Sim  ( ) Não
+Tag do Google Ads instalada                       | ( ) Sim  ( ) Não  ( ) N/A
+Pixel do LinkedIn instalado                       | ( ) Sim  ( ) Não  ( ) N/A
+Eventos de conversão configurados no site         | ( ) Sim  ( ) Parcial  ( ) Não
+UTMs utilizados em campanhas e links              | ( ) Sim  ( ) Parcial  ( ) Não
+Acompanhamento de origem dos leads no CRM         | ( ) Sim  ( ) Parcial  ( ) Não
+Rastreamento de telefone (call tracking)          | ( ) Sim  ( ) Não  ( ) N/A
+Rastreamento de WhatsApp                          | ( ) Sim  ( ) Parcial  ( ) Não  ( ) N/A
+Heatmaps ou gravação de sessões no site           | ( ) Sim  ( ) Não
+Tag Manager configurado                           | ( ) Sim  ( ) Não
+Dashboards de acompanhamento montados             | ( ) Sim  ( ) Parcial  ( ) Não
+
+CAPACIDADE ATUAL DE ATRIBUIÇÃO:
+( ) Consigo rastrear de onde vem cada lead (origem até conversão)
+( ) Rastreamento parcial — sei a origem mas perco no meio do caminho
+( ) Não consigo rastrear a origem dos leads
+( ) Não há geração digital de leads
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+5.2 — CENÁRIO IDEAL (plano de rastreamento)
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+
+ITEM | O QUE IMPLEMENTAR | PRIORIDADE
+
+
+CENÁRIO RECOMENDADO:
+
+ITEM | O QUE IMPLEMENTAR | PRIORIDADE
+
+
+CENÁRIO IDEAL:
+
+ITEM | O QUE IMPLEMENTAR | PRIORIDADE
+
+
+────────────────────────────────
+5.3 — GAPS IDENTIFICADOS
+────────────────────────────────
+
+O QUE NÃO ESTÁ SENDO RASTREADO E DEVERIA:
+•
+•
+•
+
+RASTREAMENTOS CONFIGURADOS MAS NÃO FUNCIONAM:
+•
+•
+
+DADOS QUE EXISTEM MAS NÃO SÃO ANALISADOS:
+•
+•
+
+
+────────────────────────────────
+5.4 — RECOMENDAÇÃO DO CONSULTOR
+────────────────────────────────
+
+PRIORIDADE DE IMPLEMENTAÇÃO:
+1.
+2.
+3.
+
+ESTIMATIVA DE INVESTIMENTO:
+
+OBSERVAÇÕES:
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  SEÇÃO FINAL — CONSOLIDAÇÃO E PRIORIZAÇÃO                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+DASHBOARD DE GAPS POR DIMENSÃO
+────────────────────────────────
+
+DIMENSÃO       | GAPS CRÍTICOS | GAPS MODERADOS | STATUS GERAL
+───────────────|───────────────|────────────────|─────────────
+Equipe         |               |                |
+Documentos     |               |                |
+Tecnologia     |               |                |
+Integrações    |               |                |
+Rastreamentos  |               |                |
+
+
+────────────────────────────────
+PRIORIZAÇÃO GERAL (CROSS-DIMENSÃO)
+────────────────────────────────
+
+Instrução: Listar as 10 ações mais importantes considerando todas as 5 dimensões, ordenadas por impacto × urgência.
+
+PRIORIDADE | AÇÃO | DIMENSÃO | CENÁRIO | IMPACTO | URGÊNCIA
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+
+────────────────────────────────
+ESTIMATIVA TOTAL DE INVESTIMENTO
+────────────────────────────────
+
+DIMENSÃO       | MÍNIMO VIÁVEL | RECOMENDADO | IDEAL
+───────────────|───────────────|─────────────|──────
+Equipe         | R$            | R$          | R$
+Documentos     | —             | —           | —
+Tecnologia     | R$            | R$          | R$
+Integrações    | R$            | R$          | R$
+Rastreamentos  | R$            | R$          | R$
+───────────────|───────────────|─────────────|──────
+TOTAL MENSAL   | R$            | R$          | R$
+
+NOTA: Documentos geralmente não têm custo direto (são produzidos pelo consultor ou equipe), mas exigem esforço/tempo.
+
+
+────────────────────────────────
+CENÁRIO ESCOLHIDO PELO CLIENTE
+────────────────────────────────
+
+Instrução: Após apresentação ao cliente, registrar a escolha por dimensão.
+
+DIMENSÃO       | CENÁRIO ESCOLHIDO
+───────────────|──────────────────────
+Equipe         | ( ) Mínimo  ( ) Recomendado  ( ) Ideal
+Documentos     | ( ) Mínimo  ( ) Recomendado  ( ) Ideal
+Tecnologia     | ( ) Mínimo  ( ) Recomendado  ( ) Ideal
+Integrações    | ( ) Mínimo  ( ) Recomendado  ( ) Ideal
+Rastreamentos  | ( ) Mínimo  ( ) Recomendado  ( ) Ideal
+
+OBSERVAÇÕES SOBRE A ESCOLHA DO CLIENTE:
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

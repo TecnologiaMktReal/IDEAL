@@ -1,0 +1,451 @@
+DOCUMENTO: TEMPLATE_PLANO_DE_IMERSAO
+ETAPA: ETAPA_I_IMERSAO — MOMENTO 1
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+INSTRUÇÃO
+
+Este documento é preenchido pelo consultor ANTES de iniciar as entrevistas. Ele organiza o planejamento da imersão e garante que o consultor entre na primeira entrevista já com contexto, agenda e roteiros definidos.
+
+O Plano de Imersão é um documento interno da MKT Real. Não é entregue ao cliente.
+
+O Momento 1 está concluído quando todas as seções deste documento estiverem preenchidas.
+
+
+════════════════════════════════════════
+SEÇÃO 1 — DADOS CADASTRAIS E CONTEXTUAIS
+════════════════════════════════════════
+
+Instrução: Preencher com informações disponíveis antes da primeira entrevista (briefing comercial, site da empresa, LinkedIn, redes sociais, materiais recebidos). Campos sem informação devem ser marcados como "A LEVANTAR NA IMERSÃO".
+
+
+EMPRESA:
+
+CNPJ:
+
+ANO DE FUNDAÇÃO:
+
+FUNDADOR:
+
+SEGMENTO DE ATUAÇÃO:
+
+FOCO DO NEGÓCIO:
+
+TIPO DE NEGÓCIO: (B2B / B2C / Híbrido)
+
+MODELO DE RECEITA:
+
+COMPLEXIDADE DO CICLO DE VENDAS:
+
+LOCALIZAÇÃO DA SEDE:
+
+OUTRAS UNIDADES:
+
+NÚMERO DE COLABORADORES:
+
+TAMANHO DA EMPRESA:
+
+PRINCIPAIS CLIENTES:
+
+PRINCIPAIS CONCORRENTES:
+
+LOCAIS DE ATENDIMENTO:
+
+SITE:
+
+REDES SOCIAIS ATIVAS:
+• LinkedIn:
+• Instagram:
+• Facebook:
+• YouTube:
+• Outras:
+
+PRINCIPAL CONTATO DO PROJETO:
+• Nome:
+• Cargo:
+• E-mail:
+• Telefone:
+
+COMO O CLIENTE CHEGOU À MKT REAL:
+
+CONTEXTO INICIAL (resumo do briefing comercial — por que o cliente procurou a MKT Real, o que espera, o que motivou a contratação):
+
+
+════════════════════════════════════════
+SEÇÃO 2 — PESQUISA PRELIMINAR DO CONSULTOR
+════════════════════════════════════════
+
+Instrução: O consultor deve realizar pesquisa preliminar antes das entrevistas usando fontes públicas. Esta seção registra os achados e serve como base para o ROT_MERCADO e para calibrar as demais entrevistas.
+
+
+────────────────────────────────
+2.1 — ANÁLISE DO SITE E PRESENÇA DIGITAL
+────────────────────────────────
+
+IMPRESSÃO GERAL DO SITE (profissionalismo, clareza, atualização):
+
+PROPOSTA DE VALOR COMUNICADA NO SITE:
+
+PRODUTOS/SERVIÇOS LISTADOS:
+
+PRESENÇA E QUALIDADE NAS REDES SOCIAIS (frequência, tipo de conteúdo, engajamento percebido):
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+2.2 — PESQUISA DE MERCADO E CONCORRÊNCIA
+────────────────────────────────
+
+PRINCIPAIS CONCORRENTES IDENTIFICADOS:
+
+CONCORRENTE 1:
+• Nome:
+• Site:
+• Posicionamento percebido:
+• Ponto forte observado:
+
+CONCORRENTE 2:
+• Nome:
+• Site:
+• Posicionamento percebido:
+• Ponto forte observado:
+
+CONCORRENTE 3:
+• Nome:
+• Site:
+• Posicionamento percebido:
+• Ponto forte observado:
+
+TENDÊNCIAS DO SETOR IDENTIFICADAS:
+
+NOTÍCIAS RELEVANTES DO MERCADO:
+
+OBSERVAÇÕES DO CONSULTOR:
+
+
+────────────────────────────────
+2.3 — ANÁLISE PRELIMINAR DO CLIENTE
+────────────────────────────────
+
+PORTE APARENTE DA EMPRESA:
+
+NÍVEL DE MATURIDADE DE MARKETING PERCEBIDO (inicial / básico / intermediário):
+
+HIPÓTESES INICIAIS DO CONSULTOR (o que parece ser verdade antes de confirmar nas entrevistas):
+• Hipótese 1:
+• Hipótese 2:
+• Hipótese 3:
+
+PONTOS DE ATENÇÃO PARA AS ENTREVISTAS (o que o consultor quer investigar com mais cuidado):
+• Ponto 1:
+• Ponto 2:
+• Ponto 3:
+
+
+════════════════════════════════════════
+SEÇÃO 3 — MAPA DE STAKEHOLDERS
+════════════════════════════════════════
+
+Instrução: Listar todos os stakeholders que serão entrevistados, com base no Guia de Perguntas por Stakeholder. Definir o cenário de aplicação (A, B ou C) conforme disponibilidade.
+
+
+CENÁRIO DE APLICAÇÃO DEFINIDO: ( ) A — Mínimo Viável  ( ) B — Padrão  ( ) C — Ideal
+
+
+────────────────────────────────
+STAKEHOLDER 1
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDER 2
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDER 3
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDER 4
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDER 5
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDER 6
+────────────────────────────────
+
+NOME:
+CARGO:
+ÁREA:
+PAPEL NO NEGÓCIO:
+PERFIL (conforme Guia): ( ) CEO  ( ) Dir. Comercial  ( ) Resp. Marketing  ( ) Dir. Operações  ( ) Dir. Financeiro  ( ) Colaborador/RH
+ROTEIROS ATRIBUÍDOS:
+FORMATO DA ENTREVISTA: ( ) Presencial  ( ) Remoto
+DURAÇÃO ESTIMADA:
+DISPONIBILIDADE / RESTRIÇÕES:
+
+
+────────────────────────────────
+STAKEHOLDERS NÃO DISPONÍVEIS E REGRAS DE ABSORÇÃO
+────────────────────────────────
+
+STAKEHOLDER NÃO DISPONÍVEL 1:
+• Perfil:
+• Motivo da indisponibilidade:
+• Perguntas absorvidas por:
+• Lacuna resultante:
+
+STAKEHOLDER NÃO DISPONÍVEL 2:
+• Perfil:
+• Motivo da indisponibilidade:
+• Perguntas absorvidas por:
+• Lacuna resultante:
+
+
+════════════════════════════════════════
+SEÇÃO 4 — AGENDA DE ENTREVISTAS
+════════════════════════════════════════
+
+Instrução: Montar a agenda com datas, horários e sequência das entrevistas. A ordem recomendada é: CEO primeiro (visão geral), depois Comercial (público e portfólio), depois Marketing (operação e expectativas), depois complementares.
+
+
+ORDEM RECOMENDADA:
+1º CEO / Fundador — visão geral, história, modelo, objetivos
+2º Diretor Comercial — portfólio, público, mercado
+3º Responsável por Marketing — marketing, vendas, problema central
+4º Diretor de Operações — operação (se disponível)
+5º Diretor Financeiro — finanças (se disponível)
+6º Colaborador / RH — triangulação de cultura (se disponível)
+
+
+────────────────────────────────
+ENTREVISTA 1
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 2
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 3
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 4
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 5
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 6
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+────────────────────────────────
+ENTREVISTA 7 (se necessário)
+────────────────────────────────
+
+DATA:
+HORÁRIO:
+STAKEHOLDER:
+FORMATO: ( ) Presencial  ( ) Remoto
+LOCAL / LINK:
+ROTEIROS A APLICAR:
+DURAÇÃO ESTIMADA:
+OBJETIVO DA SESSÃO:
+OBSERVAÇÕES:
+
+
+════════════════════════════════════════
+SEÇÃO 5 — ADAPTAÇÕES DOS ROTEIROS
+════════════════════════════════════════
+
+Instrução: Se o consultor decidir cortar perguntas COMPLEMENTAR por restrição de tempo, ou adicionar perguntas específicas para o perfil do cliente, registrar aqui.
+
+
+────────────────────────────────
+5.1 — PERGUNTAS COMPLEMENTAR CORTADAS
+────────────────────────────────
+
+ROTEIRO | ID DA PERGUNTA | JUSTIFICATIVA DO CORTE
+
+
+────────────────────────────────
+5.2 — PERGUNTAS ADICIONAIS
+────────────────────────────────
+
+ROTEIRO | PERGUNTA ADICIONAL | JUSTIFICATIVA
+
+
+────────────────────────────────
+5.3 — TEMAS ESPECÍFICOS A INVESTIGAR
+────────────────────────────────
+
+Com base na pesquisa preliminar e no briefing comercial, o consultor pode identificar temas que merecem investigação mais profunda. Registrar aqui para não esquecer durante as entrevistas.
+
+TEMA 1:
+• O que investigar:
+• Em qual entrevista:
+• Com qual stakeholder:
+
+TEMA 2:
+• O que investigar:
+• Em qual entrevista:
+• Com qual stakeholder:
+
+TEMA 3:
+• O que investigar:
+• Em qual entrevista:
+• Com qual stakeholder:
+
+
+════════════════════════════════════════
+SEÇÃO 6 — CHECKLIST DE CONCLUSÃO DO MOMENTO 1
+════════════════════════════════════════
+
+O consultor deve verificar todos os itens antes de considerar o Momento 1 concluído.
+
+( ) Dados cadastrais preenchidos
+( ) Pesquisa preliminar realizada (site, redes, concorrentes, mercado)
+( ) Hipóteses iniciais registradas
+( ) Cenário de aplicação definido (A, B ou C)
+( ) Stakeholders mapeados com roteiros atribuídos
+( ) Regras de absorção registradas (se stakeholders indisponíveis)
+( ) Agenda de entrevistas montada com datas e formatos
+( ) Roteiros revisados e adaptações registradas (se aplicável)
+( ) Temas específicos a investigar registrados (se aplicável)
+( ) Invites/convites enviados aos stakeholders
+
+STATUS DO MOMENTO 1: ( ) CONCLUÍDO  ( ) PENDENTE
+
+PENDÊNCIAS (se houver):
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

@@ -1,0 +1,1792 @@
+DOCUMENTO: ROTEIROS_CONSOLIDADOS_IMERSAO
+ETAPA: ETAPA_I_IMERSAO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 2.0
+
+TOTAL DE ROTEIROS: 6
+TOTAL DE PERGUNTAS: 152
+
+
+REGRAS GERAIS PARA O CONSULTOR
+
+• Apresentar as perguntas exatamente como estão neste documento.
+• Não reformular perguntas durante a entrevista.
+• Registrar as respostas de forma fiel ao que o entrevistado disse.
+• Respeitar a ordem das seções dentro de cada roteiro.
+• Perguntas marcadas como NUCLEO_ESSENCIAL não podem ser cortadas em nenhuma circunstância.
+• Perguntas marcadas como COMPLEMENTAR podem ser cortadas se houver restrição severa de tempo.
+• Seções de Síntese Interpretativa e Premissas NÃO existem nos roteiros individuais. A consolidação é feita exclusivamente no Dossiê de Imersão (Momento 2).
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 1 — HISTÓRIA, CULTURA E MARCA                      ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_HISTORIA
+TOTAL DE PERGUNTAS: 41
+
+ESCOPO
+Compreender a origem, a trajetória, a cultura organizacional e a essência da marca.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga: modelo de negócio, portfólio de soluções, mercado competitivo, objetivos de negócio ou marketing, estrutura de marketing e vendas.
+
+ENTREVISTADO IDEAL: Sócio-fundador ou CEO
+ENTREVISTADO COMPLEMENTAR: Colaborador com mais tempo de casa
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 1 — História
+• Capítulo 2 — Cultura Organizacional
+
+DURAÇÃO ESTIMADA: 60 a 90 minutos
+
+
+────────────────────────────────
+SEÇÃO A — HISTÓRIA E ORIGEM
+────────────────────────────────
+
+<PERGUNTA_ID=R1_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como e por que a empresa nasceu?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual era o principal problema ou necessidade que vocês queriam resolver no mercado?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_03>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem fundou a empresa e qual era a visão inicial?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Houve algum momento decisivo na trajetória da empresa — uma virada, desafio ou conquista marcante?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_05>
+PRIORIDADE: COMPLEMENTAR
+
+O que mais mudou desde o início até hoje?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_06>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais foram os maiores aprendizados ou transformações que a empresa viveu ao longo da sua história?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_07>
+PRIORIDADE: COMPLEMENTAR
+
+Há algum marco, projeto ou cliente que simbolize o início de uma nova fase na empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_08>
+PRIORIDADE: COMPLEMENTAR
+
+Como vocês descrevem o momento atual da empresa em comparação com o passado?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_09>
+PRIORIDADE: COMPLEMENTAR
+
+Se vocês pudessem descrever a trajetória da empresa em três palavras, quais seriam?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_10>
+PRIORIDADE: COMPLEMENTAR
+
+O que a empresa aprendeu com sua própria história?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_11>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Há alguma história, frase ou valor interno que representa tudo o que a marca é?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_12>
+PRIORIDADE: COMPLEMENTAR
+
+Como vocês imaginam essa empresa daqui a 10 anos, mantendo sua essência, mas evoluída?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_13>
+PRIORIDADE: COMPLEMENTAR
+
+Se fossem escrever o manifesto da marca, qual seria a primeira frase?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — CULTURA E ESSÊNCIA ORGANIZACIONAL
+────────────────────────────────
+
+<PERGUNTA_ID=R1_14>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os valores que vocês consideram inegociáveis dentro da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_15>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como esses valores se manifestam no dia a dia — em atitudes, decisões e relacionamentos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_16>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês tomam decisões difíceis? Há algum princípio que sempre orienta o time?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_17>
+PRIORIDADE: COMPLEMENTAR
+
+Que tipo de comportamento é valorizado dentro da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_18>
+PRIORIDADE: COMPLEMENTAR
+
+O que não é tolerado de forma alguma?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_19>
+PRIORIDADE: COMPLEMENTAR
+
+Como é o clima e a rotina de trabalho — mais leve, formal, colaborativo, criativo?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_20>
+PRIORIDADE: COMPLEMENTAR
+
+Como vocês reconhecem e celebram conquistas (individuais ou coletivas)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_21>
+PRIORIDADE: COMPLEMENTAR
+
+Como novos colaboradores percebem a cultura da empresa nos primeiros meses?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_22>
+PRIORIDADE: COMPLEMENTAR
+
+Quais atitudes ou práticas do time refletem a identidade da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_23>
+PRIORIDADE: COMPLEMENTAR
+
+Há rituais, tradições ou hábitos que fazem parte da rotina da equipe?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_24>
+PRIORIDADE: COMPLEMENTAR
+
+Como vocês lidam com erros e aprendizados dentro da equipe?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_25>
+PRIORIDADE: COMPLEMENTAR
+
+O que mais orgulha vocês na forma como a empresa atua internamente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_26>
+PRIORIDADE: COMPLEMENTAR
+
+Se a cultura da empresa fosse uma pessoa, como ela se comportaria no dia a dia?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — SUBCULTURAS ESTRATÉGICAS
+────────────────────────────────
+
+<PERGUNTA_ID=R1_27>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como a empresa lida com mudanças, novas tecnologias e experimentação? Existe abertura para inovação ou há resistência ao novo?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_28>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como a empresa enxerga a atividade de venda? É valorizada internamente? É estruturada ou depende de esforço individual?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_29>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Historicamente, como a empresa tratou o marketing? Houve investimentos anteriores? Qual a percepção interna sobre marketing?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO D — SÍMBOLOS, IDENTIDADE E MEMÓRIA COLETIVA
+────────────────────────────────
+
+<PERGUNTA_ID=R1_30>
+PRIORIDADE: COMPLEMENTAR
+
+Existe alguma história interna que sempre é contada e representa o espírito da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_31>
+PRIORIDADE: COMPLEMENTAR
+
+Há frases, expressões ou manias que fazem parte da linguagem interna da equipe?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_32>
+PRIORIDADE: COMPLEMENTAR
+
+Se a empresa tivesse uma cor, uma música ou um símbolo, qual seria e por quê?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_33>
+PRIORIDADE: COMPLEMENTAR
+
+Qual emoção define melhor a empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_34>
+PRIORIDADE: COMPLEMENTAR
+
+Como vocês gostariam que colaboradores e parceiros descrevessem a cultura da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_35>
+PRIORIDADE: COMPLEMENTAR
+
+Quais são os elementos que tornam essa empresa única?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_36>
+PRIORIDADE: COMPLEMENTAR
+
+Que tipo de impressão vocês querem deixar nas pessoas após o primeiro contato com a marca?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO E — ESSÊNCIA E PROPÓSITO DA MARCA
+────────────────────────────────
+
+<PERGUNTA_ID=R1_37>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é o propósito da empresa — por que ela existe, além do lucro?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_38>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Se a marca deixasse de existir, o que o mercado perderia?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_39>
+PRIORIDADE: COMPLEMENTAR
+
+Que palavras ou sentimentos resumem a essência dessa marca?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_40>
+PRIORIDADE: COMPLEMENTAR
+
+O que nunca deve mudar na essência da empresa, mesmo com o passar dos anos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R1_41>
+PRIORIDADE: COMPLEMENTAR
+
+Qual seria o legado que a marca quer deixar — internamente e externamente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 2 — MODELO DE NEGÓCIO E CONTEXTO                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_MODELO
+TOTAL DE PERGUNTAS: 28
+
+ESCOPO
+Compreender como a empresa opera e gera valor — estrutura organizacional, ativos estratégicos, proposta de valor, canais, recursos, custos, receita, objetivos e cenário atual.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga: história e cultura (ROT_HISTORIA), portfólio detalhado com JTBD (ROT_PORTFOLIO), mercado competitivo (ROT_MERCADO), público e jornada (ROT_PUBLICO), estrutura de marketing e vendas (ROT_MKTVENDAS).
+
+ENTREVISTADO IDEAL: CEO ou diretor de operações
+ENTREVISTADO COMPLEMENTAR: Diretor financeiro (quando aplicável)
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 3 — Contexto de Negócio
+
+DURAÇÃO ESTIMADA: 60 a 90 minutos
+
+
+────────────────────────────────
+SEÇÃO A — IDENTIFICAÇÃO E ESTRUTURA
+────────────────────────────────
+
+<PERGUNTA_ID=R2_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é a estrutura organizacional da empresa? Quais são as principais áreas e quantos colaboradores existem em cada uma?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem são as pessoas-chave da empresa e qual o papel estratégico de cada uma nas decisões?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_03>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os ativos estratégicos mais valiosos da empresa (patentes, certificações, base de clientes, know-how proprietário, contratos-chave)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — PROPOSTA DE VALOR E OPERAÇÃO
+────────────────────────────────
+
+<PERGUNTA_ID=R2_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é o principal produto ou serviço que vocês oferecem?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_05>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são as principais atividades realizadas diariamente que mantêm o negócio funcionando?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_06>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que é absolutamente essencial para a entrega do produto ou serviço?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_07>
+PRIORIDADE: COMPLEMENTAR
+
+Que parte do processo exige mais tempo, energia ou especialização?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_08>
+PRIORIDADE: COMPLEMENTAR
+
+Há processos automatizados? Quais ainda dependem 100% de pessoas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_09>
+PRIORIDADE: COMPLEMENTAR
+
+Existem canais de entrega digital ou física?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — RECURSOS, PARCERIAS E CUSTOS
+────────────────────────────────
+
+<PERGUNTA_ID=R2_10>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os principais recursos e ativos da empresa (humanos, tecnológicos, intelectuais, físicos)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_11>
+PRIORIDADE: COMPLEMENTAR
+
+O que diferencia o time ou estrutura de vocês da concorrência?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_12>
+PRIORIDADE: COMPLEMENTAR
+
+Há recursos críticos que precisam ser fortalecidos ou atualizados?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_13>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os principais parceiros, fornecedores ou aliados estratégicos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_14>
+PRIORIDADE: COMPLEMENTAR
+
+Que papel cada parceiro desempenha no negócio?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_15>
+PRIORIDADE: COMPLEMENTAR
+
+Há dependências críticas desses parceiros?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_16>
+PRIORIDADE: COMPLEMENTAR
+
+Existem parcerias em potencial que poderiam fortalecer o negócio?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_17>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os principais custos e investimentos para manter o negócio operando?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO D — RECEITA E RELACIONAMENTO
+────────────────────────────────
+
+<PERGUNTA_ID=R2_18>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são as principais fontes de receita da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_19>
+PRIORIDADE: COMPLEMENTAR
+
+Como a empresa se relaciona com seus clientes após a venda?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_20>
+PRIORIDADE: COMPLEMENTAR
+
+Há um processo de acompanhamento, suporte ou fidelização?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_21>
+PRIORIDADE: COMPLEMENTAR
+
+Há exemplos de boas práticas de atendimento que expressam o "jeito da empresa"?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO E — CENÁRIO E EVOLUÇÃO
+────────────────────────────────
+
+<PERGUNTA_ID=R2_22>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês descrevem o cenário atual da empresa? Momento de crescimento, estabilidade, crise ou transição?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_23>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é o principal desafio do negócio como um todo neste momento?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_24>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês enxergam o modelo de negócio daqui a 2-3 anos? Há planos de evolução, diversificação ou transformação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO F — OBJETIVOS ESTRATÉGICOS DO NEGÓCIO
+(Absorvido do antigo ROT_OBJETIVOS)
+────────────────────────────────
+
+<PERGUNTA_ID=R2_25>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os principais resultados que a empresa deseja alcançar nos próximos 12 meses?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_26>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que é considerado sucesso para o negócio?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_27>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Há metas tangíveis já definidas (faturamento, leads, vendas, expansão, etc.)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R2_28>
+PRIORIDADE: COMPLEMENTAR
+
+Há objetivos intangíveis (reputação, fortalecimento da marca, engajamento, inovação)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 3 — SERVIÇOS, PRODUTOS E POSICIONAMENTO            ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_PORTFOLIO
+TOTAL DE PERGUNTAS: 24
+
+ESCOPO
+Compreender o portfólio, o papel estratégico de cada solução, o JTBD, os diferenciais, a proposta de valor, o posicionamento e as oportunidades de priorização.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga: modelo de negócio como estrutura (ROT_MODELO), história e cultura (ROT_HISTORIA), mercado competitivo (ROT_MERCADO), público e jornada (ROT_PUBLICO), estrutura de marketing e vendas (ROT_MKTVENDAS).
+
+ENTREVISTADO IDEAL: CEO ou diretor comercial
+ENTREVISTADO COMPLEMENTAR: Responsável técnico pelas soluções
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 4 — Proposta de Valor e Posicionamento
+• Capítulo 5 — Serviços e Produtos
+
+DURAÇÃO ESTIMADA: 60 a 90 minutos
+
+
+────────────────────────────────
+SEÇÃO A — ESTRUTURA DO PORTFÓLIO
+────────────────────────────────
+
+<PERGUNTA_ID=R3_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são todos os produtos ou serviços atualmente oferecidos pela empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como cada um deles é posicionado (principal, complementar, sazonal, novo, etc.)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_03>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais produtos ou serviços representam maior parte do faturamento e qual a margem aproximada de cada um?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os mais estratégicos, mesmo que não sejam os mais lucrativos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_05>
+PRIORIDADE: COMPLEMENTAR
+
+Quais produtos estão sendo descontinuados ou reformulados?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — VALOR E DIFERENCIAÇÃO
+────────────────────────────────
+
+<PERGUNTA_ID=R3_06>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é a principal dor que cada produto ou serviço resolve para o cliente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_07>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que benefícios tangíveis e intangíveis cada solução entrega?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_08>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é o diferencial competitivo em relação à concorrência?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_09>
+PRIORIDADE: COMPLEMENTAR
+
+Que tipo de cliente é mais propenso a comprar cada produto?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_10>
+PRIORIDADE: COMPLEMENTAR
+
+Há produtos que precisam de reposicionamento ou reformulação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_11>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que barreiras impedem novos concorrentes de fazer o mesmo que vocês fazem?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_12>
+PRIORIDADE: COMPLEMENTAR
+
+O que vocês acreditam que é "inimitável" na forma como operam?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — JOBS TO BE DONE (JTBD)
+────────────────────────────────
+
+<PERGUNTA_ID=R3_13>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é a situação que o cliente vive antes de procurar esse produto?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_14>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que emoção ou motivação leva o cliente a buscar a solução?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_15>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que o cliente espera mudar depois de usar o produto?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_16>
+PRIORIDADE: COMPLEMENTAR
+
+Quais alternativas o cliente teria se não escolhesse essa solução?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_17>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que barreiras ou objeções impedem o cliente de contratar?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO D — POSICIONAMENTO E TESE CENTRAL
+────────────────────────────────
+
+<PERGUNTA_ID=R3_18>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Se vocês tivessem que explicar em uma frase por que um cliente deveria contratar vocês, o que diriam?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_19>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é a crença fundamental que orienta o negócio de vocês? A tese central?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_20>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Se o posicionamento da empresa pudesse ser resumido em 3 pilares, quais seriam?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO E — PRIORIZAÇÃO ESTRATÉGICA
+────────────────────────────────
+
+<PERGUNTA_ID=R3_21>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais soluções devem ser priorizadas no marketing e nas campanhas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_22>
+PRIORIDADE: COMPLEMENTAR
+
+Quais demandam reposicionamento de comunicação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_23>
+PRIORIDADE: COMPLEMENTAR
+
+Quais produtos são candidatos a novas estratégias de lançamento ou reformulação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R3_24>
+PRIORIDADE: COMPLEMENTAR
+
+Quais oportunidades de cross-sell ou up-sell podem ser exploradas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 4 — MERCADO E COMPETITIVIDADE                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_MERCADO
+TOTAL DE PERGUNTAS: 9
+ROTEIRO NOVO (v2.0)
+
+ESCOPO
+Compreender o mercado de atuação, a dinâmica competitiva, tendências, oportunidades, ameaças e os principais concorrentes.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga a empresa internamente. Foco exclusivo no ambiente externo e competitivo. NÃO investiga: história e cultura (ROT_HISTORIA), operação e modelo de negócio (ROT_MODELO), portfólio detalhado (ROT_PORTFOLIO), público e jornada (ROT_PUBLICO), marketing e vendas (ROT_MKTVENDAS).
+
+FONTE COMPLEMENTAR OBRIGATÓRIA: Pesquisa preliminar do consultor (Momento 1). As perguntas de entrevista focam em validar e complementar a pesquisa, não em coletar do zero.
+
+ENTREVISTADO IDEAL: CEO ou diretor comercial
+ENTREVISTADO COMPLEMENTAR: Responsável por inteligência de mercado (quando existir)
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 6 — Mercado
+
+DURAÇÃO ESTIMADA: 30 a 45 minutos
+
+NOTA: Este roteiro pode ser conduzido na mesma sessão do ROT_PORTFOLIO ou ROT_PUBLICO, se houver restrição de agendas.
+
+
+────────────────────────────────
+SEÇÃO A — DINÂMICA DO MERCADO
+────────────────────────────────
+
+<PERGUNTA_ID=R4_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são as principais forças que influenciam o mercado de vocês (regulações, tecnologia, economia, comportamento do consumidor)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês descrevem a estrutura desse mercado? É fragmentado, concentrado, dominado por poucos players?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_03>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Para onde esse mercado está caminhando? Quais são as tendências mais relevantes nos próximos 2-5 anos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O mercado onde a empresa atua está em crescimento ou saturação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — OPORTUNIDADES E LACUNAS
+────────────────────────────────
+
+<PERGUNTA_ID=R4_05>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais oportunidades vocês enxergam que o mercado ainda não está explorando bem?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_06>
+PRIORIDADE: COMPLEMENTAR
+
+Quais lacunas existem no mercado que a empresa poderia preencher?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — CONCORRÊNCIA
+────────────────────────────────
+
+<PERGUNTA_ID=R4_07>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem vocês consideram seus principais concorrentes (diretos e indiretos)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_08>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que os diferencia dos concorrentes? Em que aspectos os concorrentes são superiores?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R4_09>
+PRIORIDADE: COMPLEMENTAR
+
+Existem novos entrantes ou substitutos que representam ameaça?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 5 — PÚBLICO-ALVO, STAKEHOLDERS E JORNADA           ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_PUBLICO
+TOTAL DE PERGUNTAS: 17
+ROTEIRO NOVO (v2.0)
+
+ESCOPO
+Compreender em profundidade quem é o público da empresa — ICP, decisores, influenciadores, jornada de compra, dores, motivações e gatilhos de contratação.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga o portfólio da empresa (ROT_PORTFOLIO), a operação interna de marketing e vendas (ROT_MKTVENDAS), nem o mercado como ambiente competitivo (ROT_MERCADO). Foco exclusivo no público e na jornada.
+
+ENTREVISTADO IDEAL: Diretor comercial ou responsável por vendas
+ENTREVISTADO COMPLEMENTAR 1: CEO (visão estratégica do público)
+ENTREVISTADO COMPLEMENTAR 2: Profissional de atendimento/sucesso do cliente (quando existir)
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 7 — Público-Alvo, Stakeholders e ICP
+
+DURAÇÃO ESTIMADA: 45 a 60 minutos
+
+
+────────────────────────────────
+SEÇÃO A — SEGMENTOS E ICP
+────────────────────────────────
+
+<PERGUNTA_ID=R5_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem são os principais clientes ou segmentos atendidos pela empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual é o cliente ideal (ICP) da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_03>
+PRIORIDADE: COMPLEMENTAR
+
+Há algum tipo de cliente que vocês preferem não atender?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais setores industriais são mais aderentes às soluções de vocês?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_05>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+As empresas que contratam vocês geralmente são mais estruturadas ou mais iniciantes? Qual o grau de maturidade típico?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_06>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que geralmente leva uma empresa a buscar vocês? Existe um gatilho econômico ou situacional?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — DECISORES E JORNADA
+────────────────────────────────
+
+<PERGUNTA_ID=R5_07>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Na empresa do seu cliente, quem são as pessoas envolvidas na decisão de contratação? Quais os cargos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_08>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem é o decisor final? Quem influencia? Quem pode vetar?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_09>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como é o processo típico de compra do seu cliente, desde a percepção da necessidade até a contratação?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_10>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quanto tempo leva em média do primeiro contato até o fechamento?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_11>
+PRIORIDADE: COMPLEMENTAR
+
+Há oportunidades de melhoria na jornada do cliente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_12>
+PRIORIDADE: COMPLEMENTAR
+
+Que tipo de experiência vocês querem que o cliente tenha ao interagir com a marca?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — DORES, MOTIVAÇÕES E STAKEHOLDERS
+────────────────────────────────
+
+<PERGUNTA_ID=R5_13>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem são os clientes mais representativos da base atual? Por que eles são representativos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_14>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são as dores mais críticas que seus clientes enfrentam antes de procurar vocês?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_15>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que motiva o cliente a agir (resolver o problema agora em vez de adiar)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_16>
+PRIORIDADE: COMPLEMENTAR
+
+Quais são as objeções mais comuns que vocês ouvem durante o processo de venda?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R5_17>
+PRIORIDADE: COMPLEMENTAR
+
+Além dos clientes, quem são os outros stakeholders relevantes para o negócio (parceiros, reguladores, influenciadores do setor)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ROTEIRO 6 — MARKETING, VENDAS E PROBLEMA CENTRAL           ║
+╚══════════════════════════════════════════════════════════════╝
+
+CÓDIGO: ROT_MKTVENDAS
+TOTAL DE PERGUNTAS: 33
+
+ESCOPO
+Compreender o desempenho e estrutura atuais de marketing e vendas, o processo comercial, as ferramentas, os canais, as forças, fragilidades, oportunidades, o problema central e as expectativas de marketing.
+
+LIMITE CONCEITUAL
+Este roteiro NÃO investiga: história e cultura (ROT_HISTORIA), modelo de negócio operacional (ROT_MODELO), portfólio detalhado (ROT_PORTFOLIO), mercado competitivo (ROT_MERCADO), público e jornada em profundidade (ROT_PUBLICO).
+
+ENTREVISTADO IDEAL (PRIMÁRIO): Responsável por marketing e/ou vendas
+ENTREVISTADO COMPLEMENTAR 1: CEO (triangulação obrigatória)
+ENTREVISTADO COMPLEMENTAR 2: Membros do time comercial (quando acessíveis)
+
+TRIANGULAÇÃO OBRIGATÓRIA: As percepções do responsável por marketing/vendas DEVEM ser cruzadas com as percepções do CEO. Divergências significativas devem ser registradas como ALERTA_ESTRUTURAL.
+
+ALIMENTA NO RELATÓRIO:
+• Capítulo 8 — Comercial
+• Capítulo 9 — Marketing
+
+DURAÇÃO ESTIMADA: 90 a 120 minutos (pode ser dividida em 2 sessões)
+
+
+────────────────────────────────
+SEÇÃO A — FORÇAS
+────────────────────────────────
+
+<PERGUNTA_ID=R6_01>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais ações de marketing e vendas vocês consideram mais eficazes atualmente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_02>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que pontos do funil comercial funcionam bem e devem ser mantidos?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_03>
+PRIORIDADE: COMPLEMENTAR
+
+O que vocês enxergam como diferenciais internos nessas áreas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_04>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como é a integração entre o comercial e o marketing atualmente?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO B — FRAGILIDADES
+────────────────────────────────
+
+<PERGUNTA_ID=R6_05>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Onde vocês percebem gargalos, falhas ou ruídos entre marketing e vendas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_06>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que tipos de problema ocorrem com maior frequência nas rotinas dessas áreas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_07>
+PRIORIDADE: COMPLEMENTAR
+
+Há atividades que consomem muito tempo, mas geram pouco resultado?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_08>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais fatores mais atrapalham a performance do time comercial e/ou de marketing?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO C — OPORTUNIDADES E PROBLEMA CENTRAL
+────────────────────────────────
+
+<PERGUNTA_ID=R6_09>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Onde vocês veem potencial de melhoria e otimização nas duas áreas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_10>
+PRIORIDADE: COMPLEMENTAR
+
+Há oportunidades de sinergia (ações conjuntas, fluxos integrados, processos complementares)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_11>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Dentre os pontos fracos listados, qual é o que mais impacta negativamente os resultados?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_12>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais fatores contribuem para que esse problema aconteça?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_13>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais seriam os efeitos positivos se o problema fosse resolvido?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO D — PROCESSO COMERCIAL
+(Perguntas recebidas do ROT_MODELO + novas)
+────────────────────────────────
+
+<PERGUNTA_ID=R6_14>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os principais canais de contato com o cliente (site, redes, WhatsApp, equipe comercial)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_15>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como ocorre o processo de venda — desde o primeiro contato até o fechamento?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_16>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quem são as pessoas envolvidas no processo comercial hoje? Quais os cargos e responsabilidades?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_17>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês descrevem a natureza da venda? É consultiva, transacional, técnica? Qual a complexidade?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_18>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Vocês utilizam CRM? Qual? Está configurado? É alimentado pela equipe?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_19>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são as etapas do funil de vendas? Existem critérios de passagem entre etapas?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_20>
+PRIORIDADE: COMPLEMENTAR
+
+Qual é o ticket médio da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_21>
+PRIORIDADE: COMPLEMENTAR
+
+Vocês acompanham taxas de conversão do funil? Se sim, quais são?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO E — MARKETING ATUAL
+────────────────────────────────
+
+<PERGUNTA_ID=R6_22>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais canais de marketing estão ativos hoje (redes sociais, site, e-mail, tráfego pago, eventos, etc.)?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_23>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como as oportunidades comerciais são geradas hoje? Qual a proporção entre indicação, prospecção ativa e inbound?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_24>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como vocês medem a satisfação dos clientes?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_25>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais ferramentas de marketing e vendas a equipe utiliza hoje?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+────────────────────────────────
+SEÇÃO F — OBJETIVOS E EXPECTATIVAS DE MARKETING
+(Absorvido do antigo ROT_OBJETIVOS)
+────────────────────────────────
+
+<PERGUNTA_ID=R6_26>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Quais são os objetivos mais importantes de marketing nesse contexto?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_27>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+O que você espera do trabalho de marketing nos próximos meses?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_28>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Como o sucesso será percebido pela sua equipe e pela empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_29>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Que tipo de resultado mais importa para você?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_30>
+PRIORIDADE: COMPLEMENTAR
+
+Há algum indicador ou meta de marketing já estabelecida?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_31>
+PRIORIDADE: NUCLEO_ESSENCIAL
+
+Qual deve ser o papel do marketing para apoiar o crescimento da empresa?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_32>
+PRIORIDADE: COMPLEMENTAR
+
+Há expectativas de mudança no posicionamento ou percepção da marca?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+────────────────────────────────
+
+<PERGUNTA_ID=R6_33>
+PRIORIDADE: COMPLEMENTAR
+
+Quais objetivos são prioridade absoluta para o próximo ciclo de marketing?
+
+RESPOSTA:
+</PERGUNTA_ID>
+
+
+════════════════════════════════════════
+RESUMO QUANTITATIVO FINAL
+════════════════════════════════════════
+
+ROT_HISTORIA (R1): 41 perguntas — 14 NUCLEO_ESSENCIAL, 27 COMPLEMENTAR
+ROT_MODELO (R2): 28 perguntas — 17 NUCLEO_ESSENCIAL, 11 COMPLEMENTAR
+ROT_PORTFOLIO (R3): 24 perguntas — 16 NUCLEO_ESSENCIAL, 8 COMPLEMENTAR
+ROT_MERCADO (R4): 9 perguntas — 7 NUCLEO_ESSENCIAL, 2 COMPLEMENTAR
+ROT_PUBLICO (R5): 17 perguntas — 11 NUCLEO_ESSENCIAL, 6 COMPLEMENTAR
+ROT_MKTVENDAS (R6): 33 perguntas — 24 NUCLEO_ESSENCIAL, 9 COMPLEMENTAR
+
+TOTAL: 152 perguntas — 89 NUCLEO_ESSENCIAL, 63 COMPLEMENTAR
+
+TEMPO TOTAL ESTIMADO DE ENTREVISTAS: 5h30 a 7h30
+(distribuídas em 3 a 6 sessões, conforme disponibilidade dos stakeholders)
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

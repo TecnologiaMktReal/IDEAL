@@ -1,0 +1,19 @@
+node_modules
+.pnpm-store
+.next
+dist
+coverage
+.env
+.env.*
+*.log
+
+# AI & IDE
+.agent
+.antigravity*
+.vscode
+.idea
+.DS_Store
+*.webp
+*.png
+*.jpg
+brain/

@@ -1,0 +1,169 @@
+DOCUMENTO: MANUAL_METODOLOGICO_ARQUITETURA
+ETAPA: ETAPA_A_ARQUITETURA_DO_PLANEJAMENTO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+════════════════════════════════════════
+SEÇÃO 1 — PROPÓSITO DA ETAPA
+════════════════════════════════════════
+
+
+OBJETIVO
+
+A Arquitetura do Planejamento é a quarta etapa da metodologia IDEAL.
+
+Seu propósito é transformar todos os achados das etapas anteriores (Imersão, Diagnóstico e Estrutura) em um plano de ação estratégico concreto, com premissas claras, ações priorizadas por fases, KPIs de acompanhamento e recomendação de verba.
+
+A Etapa A responde à pergunta: "Dado o cenário real, o que fazer, em que ordem, com quais recursos e como medir?"
+
+
+VALOR PARA O CLIENTE
+
+O cliente recebe um plano de ação que não é genérico — é calibrado pela realidade do SEU negócio, pela maturidade REAL do marketing (medida no Diagnóstico), pela infraestrutura DISPONÍVEL (mapeada na Estrutura) e pelos objetivos que ELE definiu (capturados na Imersão).
+
+Para empresas B2B técnicas com maturidade baixa, este é frequentemente o primeiro plano de marketing estruturado que recebem. O valor está em transformar complexidade em clareza: "faça isto primeiro, depois isto, meça assim, invista nesta faixa."
+
+
+PRINCÍPIO FUNDAMENTAL
+
+O plano deve ser realista. Recomendações desconectadas da capacidade de execução geram frustração, não resultado. A maturidade revelada no Diagnóstico e a estrutura definida na Etapa E calibram o nível de ambição do plano.
+
+MODELO DE EXECUÇÃO: O plano é construído para ser executado de forma flexível — pode ser executado pela MKT Real, pelo cliente, ou de forma híbrida. O modelo de execução é definido por projeto e registrado no plano.
+
+
+════════════════════════════════════════
+SEÇÃO 2 — ESTRUTURA DA ETAPA
+════════════════════════════════════════
+
+
+A Etapa A produz um plano composto por 5 blocos:
+
+
+BLOCO 1 — PREMISSAS E RECOMENDAÇÕES ESTRATÉGICAS
+O que orienta o plano. Premissas validadas pela Imersão e Diagnóstico. Recomendações estratégicas derivadas dos achados. Diretrizes que o plano deve seguir.
+
+BLOCO 2 — PLANO DE AÇÃO POR FASES
+O que fazer e quando. Ações organizadas em fases/sprints sequenciais. Cada ação com responsável, prazo, dependências e entregável.
+
+BLOCO 3 — DASHBOARD DE KPIs
+Como medir. Indicadores de desempenho do projeto organizados por nível (estratégico, tático, operacional). Metas por fase. Rituais de acompanhamento.
+
+BLOCO 4 — VERBA RECOMENDADA
+Quanto investir. Recomendação de orçamento de marketing em range (mínimo-máximo). Distribuição por categoria. Calibrada pelo modelo de negócio, objetivos e capacidade financeira.
+
+BLOCO 5 — MODELO DE EXECUÇÃO
+Quem executa. Definição do modelo (MKT Real executa, cliente executa, híbrido). Responsabilidades de cada parte. Rituais de alinhamento.
+
+
+════════════════════════════════════════
+SEÇÃO 3 — LÓGICA DE FASES
+════════════════════════════════════════
+
+
+O plano é organizado por FASES (sprints estratégicos), não por meses fixos. Cada fase tem:
+
+• NOME descritivo que comunique o objetivo da fase
+• DURAÇÃO ESTIMADA (em semanas ou meses)
+• OBJETIVO da fase (o que deve ser alcançado ao final)
+• AÇÕES priorizadas para aquela fase
+• ENTREGÁVEIS esperados
+• KPIs de acompanhamento da fase
+• CRITÉRIO DE CONCLUSÃO (como saber que a fase terminou)
+
+REGRAS PARA DEFINIÇÃO DE FASES:
+
+FASE 1 deve sempre ser de FUNDAÇÃO — resolver os pontos de atenção imediata do Diagnóstico, implementar a infraestrutura mínima viável (Etapa E) e estabelecer os fundamentos.
+
+FASES INTERMEDIÁRIAS são de CONSTRUÇÃO — implementar as estratégias prioritárias, estruturar processos, desenvolver materiais e canais.
+
+FASE FINAL é de OTIMIZAÇÃO — ajustar, escalar o que funciona e preparar a transição para o Loop.
+
+NÚMERO DE FASES: Tipicamente 3 a 5 fases, cobrindo um horizonte de 6 a 12 meses. O consultor define conforme complexidade do projeto e capacidade de execução.
+
+
+════════════════════════════════════════
+SEÇÃO 4 — FONTES DE INFORMAÇÃO
+════════════════════════════════════════
+
+
+A Etapa A NÃO exige coleta adicional de dados. Todas as informações vêm das etapas anteriores:
+
+BLOCO 1 (Premissas):
+← Imersão: premissas estratégicas do Dossiê
+← Diagnóstico: achados, gaps, alertas estruturais, Matriz de Maturidade Cruzada
+← Estrutura: gaps de infraestrutura
+
+BLOCO 2 (Plano de Ação):
+← Diagnóstico: atividades para avançar (de cada bloco dos relatórios)
+← Estrutura: priorização geral e cronograma sugerido
+← Diagnóstico: Matrizes de Mídias e Estratégica (gaps a endereçar)
+← Imersão: objetivos e expectativas do cliente
+
+BLOCO 3 (KPIs):
+← Imersão: metas definidas pelo cliente (ROT_MODELO, ROT_MKTVENDAS)
+← Diagnóstico: Camada 1, Bloco 10 (accountability — metas existentes)
+← Diagnóstico: baseline de maturidade (para medir evolução)
+
+BLOCO 4 (Verba):
+← Imersão: modelo de receita, ticket médio, faturamento estimado
+← Estrutura: estimativa de investimento por dimensão e cenário escolhido
+← Diagnóstico: nível de maturidade (calibra a ambição do investimento)
+
+BLOCO 5 (Modelo de Execução):
+← Definição comercial do projeto (escopo contratado)
+← Estrutura: equipe disponível (cenário escolhido)
+
+
+════════════════════════════════════════
+SEÇÃO 5 — ENTREGÁVEIS
+════════════════════════════════════════
+
+
+1. FORMULÁRIO DE ARQUITETURA (documento interno)
+Instrumento de trabalho do consultor com os 5 blocos preenchidos.
+
+2. RELATÓRIO DO CLIENTE DE ARQUITETURA (documento externo)
+Plano de ação completo apresentável ao cliente.
+
+
+════════════════════════════════════════
+SEÇÃO 6 — CONEXÃO COM AS DEMAIS ETAPAS
+════════════════════════════════════════
+
+
+O QUE A ETAPA A RECEBE:
+
+Da Imersão: objetivos, metas, expectativas, problema central, modelo de receita.
+Do Diagnóstico: classificações, achados, gaps, matrizes, atividades para avançar, baseline.
+Da Estrutura: cenário escolhido, priorização, cronograma sugerido, estimativa de investimento.
+
+
+O QUE A ETAPA A ENTREGA:
+
+Para o Loop (Etapa L):
+• Plano de ação com fases (marcos de verificação).
+• KPIs definidos com metas por fase (indicadores de progresso).
+• Baseline de partida (para comparar nas reavaliações).
+• Verba aprovada (para verificar execução financeira).
+• Modelo de execução definido (para avaliar responsabilidades).
+
+
+════════════════════════════════════════
+SEÇÃO 7 — GOVERNANÇA
+════════════════════════════════════════
+
+
+A Etapa A é considerada CONCLUÍDA quando:
+• As premissas estratégicas estão documentadas e validadas.
+• O plano de ação está organizado em fases com ações, responsáveis e prazos.
+• Os KPIs estão definidos com metas por fase.
+• A verba recomendada foi apresentada em range.
+• O modelo de execução foi definido.
+• O relatório do cliente está finalizado e apresentado.
+• O cliente validou o plano (ou solicitou ajustes que foram incorporados).
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

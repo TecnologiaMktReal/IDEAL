@@ -1,0 +1,25 @@
+{
+  "name": "sistema-ideal-mkt-real",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Monorepo modular do Sistema IDEAL da MKT Real",
+  "packageManager": "pnpm@10.8.0",
+  "scripts": {
+    "dev:web": "pnpm --filter @ideal/web dev",
+    "dev:api": "pnpm --filter @ideal/api dev",
+    "build": "pnpm -r build",
+    "lint": "pnpm -r lint",
+    "test": "pnpm -r test",
+    "typecheck": "pnpm -r typecheck"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.18",
+    "clsx": "^2.1.0",
+    "framer-motion": "^11.0.0",
+    "lucide-react": "^0.344.0",
+    "postcss": "^8.4.35",
+    "tailwind-merge": "^2.2.1",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5.8.2"
+  }
+}

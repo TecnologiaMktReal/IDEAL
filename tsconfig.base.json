@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "lib": ["ES2022", "DOM"],
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "noImplicitOverride": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "@ideal/domain/*": ["packages/domain/src/*"],
+      "@ideal/workflows/*": ["packages/workflows/src/*"],
+      "@ideal/ai/*": ["packages/ai/src/*"],
+      "@ideal/reports/*": ["packages/reports/src/*"],
+      "@ideal/ui/*": ["packages/ui/src/*"]
+    }
+  }
+}

@@ -1,0 +1,447 @@
+DOCUMENTO: TEMPLATE_RELATORIO_CLIENTE_ESTRUTURA
+ETAPA: ETAPA_E_ESTRUTURA
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este é o template do Relatório de Estrutura entregue ao cliente. Apresenta o mapeamento da infraestrutura atual do marketing, as recomendações de infraestrutura ideal e as opções de implementação.
+
+REGRAS DE REDAÇÃO:
+• Linguagem profissional, clara e direta.
+• Recomendações devem ser concretas e específicas (nomes de ferramentas, perfis de cargo, documentos específicos).
+• Os 3 cenários devem ser apresentados sem viés — o consultor defende o recomendado, mas respeita a escolha do cliente.
+• Estimativas de investimento devem ser realistas.
+• O relatório deve gerar no cliente a sensação de: "agora sei exatamente o que preciso construir e quanto vai custar".
+
+
+════════════════════════════════════════
+CAPA
+════════════════════════════════════════
+
+RELATÓRIO DE ESTRUTURA DE MARKETING
+
+[NOME DA EMPRESA]
+
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+
+Classificação: Confidencial
+
+
+════════════════════════════════════════
+SUMÁRIO EXECUTIVO
+════════════════════════════════════════
+
+Instrução: 1 página máximo. Visão geral do estado da infraestrutura, principais gaps e o que precisa ser construído.
+
+SUMÁRIO:
+
+
+════════════════════════════════════════
+CAPÍTULO 1 — DASHBOARD GERAL
+════════════════════════════════════════
+
+Instrução: Visão consolidada das 5 dimensões em formato visual. O cliente deve conseguir ver instantaneamente onde está forte e onde está frágil.
+
+
+────────────────────────────────
+1.1 — Status por Dimensão
+────────────────────────────────
+
+DIMENSÃO       | STATUS ATUAL                    | NÍVEL
+───────────────|─────────────────────────────────|────────────
+Equipe         |                                 | ( ) Crítico  ( ) Frágil  ( ) Sólido  ( ) Superior
+Documentos     |                                 | ( ) Crítico  ( ) Frágil  ( ) Sólido  ( ) Superior
+Tecnologia     |                                 | ( ) Crítico  ( ) Frágil  ( ) Sólido  ( ) Superior
+Integrações    |                                 | ( ) Crítico  ( ) Frágil  ( ) Sólido  ( ) Superior
+Rastreamentos  |                                 | ( ) Crítico  ( ) Frágil  ( ) Sólido  ( ) Superior
+
+
+────────────────────────────────
+1.2 — Mapa de Gaps
+────────────────────────────────
+
+Instrução: Representação visual dos gaps por dimensão. Pode ser gráfico de barras (atual vs ideal), heatmap ou radar.
+
+[Inserir visualização]
+
+
+────────────────────────────────
+1.3 — Investimento Estimado por Cenário
+────────────────────────────────
+
+DIMENSÃO       | MÍNIMO VIÁVEL | RECOMENDADO | IDEAL
+───────────────|───────────────|─────────────|──────
+Equipe         | R$            | R$          | R$
+Documentos     | —             | —           | —
+Tecnologia     | R$            | R$          | R$
+Integrações    | R$            | R$          | R$
+Rastreamentos  | R$            | R$          | R$
+───────────────|───────────────|─────────────|──────
+TOTAL MENSAL   | R$            | R$          | R$
+
+
+════════════════════════════════════════
+CAPÍTULO 2 — EQUIPE
+════════════════════════════════════════
+
+
+────────────────────────────────
+2.1 — Cenário Atual
+────────────────────────────────
+
+Instrução: Descrever quem compõe o time hoje, com cargos, funções e dedicação. Tom descritivo, sem julgamento.
+
+EQUIPE ATUAL:
+
+
+────────────────────────────────
+2.2 — Gaps Identificados
+────────────────────────────────
+
+FUNÇÕES AUSENTES:
+•
+•
+
+COMPETÊNCIAS AUSENTES:
+•
+•
+
+DEPENDÊNCIAS CRÍTICAS:
+•
+
+
+────────────────────────────────
+2.3 — Recomendações
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+Descrição:
+Investimento estimado: R$ ___/mês
+
+CENÁRIO RECOMENDADO:
+Descrição:
+Investimento estimado: R$ ___/mês
+
+CENÁRIO IDEAL:
+Descrição:
+Investimento estimado: R$ ___/mês
+
+
+────────────────────────────────
+2.4 — Prioridade de Implementação
+────────────────────────────────
+
+O que fazer primeiro:
+1.
+2.
+3.
+
+
+════════════════════════════════════════
+CAPÍTULO 3 — DOCUMENTOS
+════════════════════════════════════════
+
+
+────────────────────────────────
+3.1 — Cenário Atual
+────────────────────────────────
+
+DOCUMENTO                              | STATUS
+───────────────────────────────────────|──────────────────
+[Lista de documentos com status]        |
+
+
+────────────────────────────────
+3.2 — Gaps Identificados
+────────────────────────────────
+
+DOCUMENTOS QUE NÃO EXISTEM E DEVERIAM:
+•
+•
+•
+
+DOCUMENTOS DESATUALIZADOS:
+•
+•
+
+
+────────────────────────────────
+3.3 — Recomendações
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+Documentos prioritários a criar:
+1.
+2.
+3.
+
+CENÁRIO RECOMENDADO:
+Documentos a criar:
+1.
+2.
+3.
+4.
+5.
+
+CENÁRIO IDEAL:
+Documentação completa (todos os documentos listados).
+
+
+────────────────────────────────
+3.4 — Prioridade de Criação
+────────────────────────────────
+
+1.
+2.
+3.
+4.
+5.
+
+
+════════════════════════════════════════
+CAPÍTULO 4 — TECNOLOGIA
+════════════════════════════════════════
+
+
+────────────────────────────────
+4.1 — Cenário Atual
+────────────────────────────────
+
+FERRAMENTA                | STATUS
+──────────────────────────|──────────────────
+[Lista com status]         |
+
+
+────────────────────────────────
+4.2 — Gaps Identificados
+────────────────────────────────
+
+FERRAMENTAS AUSENTES:
+•
+•
+
+FERRAMENTAS SUBUTILIZADAS:
+•
+•
+
+FERRAMENTAS INADEQUADAS:
+•
+•
+
+
+────────────────────────────────
+4.3 — Recomendações
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+
+FERRAMENTA | RECOMENDAÇÃO | CUSTO ESTIMADO
+
+
+CENÁRIO RECOMENDADO:
+
+FERRAMENTA | RECOMENDAÇÃO | CUSTO ESTIMADO
+
+
+CENÁRIO IDEAL:
+
+FERRAMENTA | RECOMENDAÇÃO | CUSTO ESTIMADO
+
+
+────────────────────────────────
+4.4 — Prioridade de Implementação
+────────────────────────────────
+
+1.
+2.
+3.
+
+
+════════════════════════════════════════
+CAPÍTULO 5 — INTEGRAÇÕES
+════════════════════════════════════════
+
+
+────────────────────────────────
+5.1 — Cenário Atual
+────────────────────────────────
+
+Instrução: Mapa visual das integrações existentes e inexistentes. Mostrar quais sistemas se conectam e quais estão isolados.
+
+[Inserir mapa de integrações]
+
+
+────────────────────────────────
+5.2 — Gaps Identificados
+────────────────────────────────
+
+INTEGRAÇÕES AUSENTES E CRÍTICAS:
+•
+•
+
+INTEGRAÇÕES INSTÁVEIS:
+•
+•
+
+DADOS QUE NÃO FLUEM:
+•
+•
+
+
+────────────────────────────────
+5.3 — Recomendações
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+Integrações críticas a implementar:
+1.
+2.
+3.
+
+CENÁRIO RECOMENDADO:
+1.
+2.
+3.
+4.
+5.
+
+CENÁRIO IDEAL:
+Ecossistema totalmente integrado com fluxo automatizado.
+
+
+────────────────────────────────
+5.4 — Prioridade de Implementação
+────────────────────────────────
+
+1.
+2.
+3.
+
+
+════════════════════════════════════════
+CAPÍTULO 6 — RASTREAMENTOS
+════════════════════════════════════════
+
+
+────────────────────────────────
+6.1 — Cenário Atual
+────────────────────────────────
+
+RASTREAMENTO                    | STATUS
+────────────────────────────────|────────
+[Lista com status]               |
+
+
+────────────────────────────────
+6.2 — Gaps Identificados
+────────────────────────────────
+
+O QUE NÃO ESTÁ SENDO RASTREADO:
+•
+•
+•
+
+RASTREAMENTOS CONFIGURADOS MAS QUEBRADOS:
+•
+•
+
+DADOS NÃO ANALISADOS:
+•
+•
+
+
+────────────────────────────────
+6.3 — Recomendações
+────────────────────────────────
+
+CENÁRIO MÍNIMO VIÁVEL:
+1.
+2.
+3.
+
+CENÁRIO RECOMENDADO:
+1.
+2.
+3.
+4.
+5.
+
+CENÁRIO IDEAL:
+Rastreamento completo com atribuição end-to-end.
+
+
+────────────────────────────────
+6.4 — Prioridade de Implementação
+────────────────────────────────
+
+1.
+2.
+3.
+
+
+════════════════════════════════════════
+CAPÍTULO 7 — PRIORIZAÇÃO GERAL
+════════════════════════════════════════
+
+Instrução: Consolidar as ações mais importantes de todas as 5 dimensões em uma lista única priorizada. O cliente deve saber exatamente o que fazer primeiro, segundo e terceiro.
+
+
+────────────────────────────────
+7.1 — Top 10 Ações Prioritárias
+────────────────────────────────
+
+PRIORIDADE | AÇÃO                          | DIMENSÃO       | IMPACTO | URGÊNCIA
+1.         |                               |                |         |
+2.         |                               |                |         |
+3.         |                               |                |         |
+4.         |                               |                |         |
+5.         |                               |                |         |
+6.         |                               |                |         |
+7.         |                               |                |         |
+8.         |                               |                |         |
+9.         |                               |                |         |
+10.        |                               |                |         |
+
+
+────────────────────────────────
+7.2 — Cronograma Sugerido de Implementação
+────────────────────────────────
+
+IMEDIATO (0-30 dias):
+•
+•
+•
+
+CURTO PRAZO (30-90 dias):
+•
+•
+•
+
+MÉDIO PRAZO (90-180 dias):
+•
+•
+•
+
+
+════════════════════════════════════════
+CAPÍTULO 8 — PRÓXIMOS PASSOS
+════════════════════════════════════════
+
+Instrução: Conectar a Etapa E à Etapa A (Arquitetura).
+
+CONTEÚDO SUGERIDO:
+
+Este relatório mapeou a infraestrutura atual do marketing da [NOME DA EMPRESA] e apresentou as recomendações para cada dimensão em 3 cenários de investimento.
+
+As escolhas feitas aqui serão incorporadas à próxima etapa da metodologia IDEAL: a Arquitetura do Planejamento, onde construiremos o plano de ação estratégico completo — incluindo as implementações de estrutura priorizadas neste relatório, as recomendações estratégicas derivadas do diagnóstico, os KPIs de acompanhamento e a verba recomendada para o setor.
+
+A estrutura é a fundação. O plano é a construção.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

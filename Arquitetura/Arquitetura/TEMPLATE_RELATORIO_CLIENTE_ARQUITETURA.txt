@@ -1,0 +1,391 @@
+DOCUMENTO: TEMPLATE_RELATORIO_CLIENTE_ARQUITETURA
+ETAPA: ETAPA_A_ARQUITETURA_DO_PLANEJAMENTO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este é o template do Plano de Ação Estratégico entregue ao cliente. É o documento que transforma diagnóstico em ação — o cliente sai com clareza sobre o que fazer, em que ordem, com quais recursos, quanto investir e como medir.
+
+REGRAS DE REDAÇÃO:
+• Linguagem profissional, direta e orientada à ação.
+• Cada ação deve ser concreta — o cliente deve conseguir executar sem precisar de interpretação.
+• As premissas devem ser transparentes — o cliente deve saber em que o plano se baseia.
+• Fases devem ter nomes descritivos que comuniquem o objetivo.
+• Estimativas de verba devem ser apresentadas como range (mínimo-máximo) com justificativa.
+• O plano deve gerar no cliente a sensação de: "agora sei exatamente o caminho".
+
+
+════════════════════════════════════════
+CAPA
+════════════════════════════════════════
+
+PLANO DE AÇÃO ESTRATÉGICO DE MARKETING
+
+[NOME DA EMPRESA]
+
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+Horizonte do plano: [N] meses | [N] fases
+
+Classificação: Confidencial
+
+
+════════════════════════════════════════
+SUMÁRIO EXECUTIVO
+════════════════════════════════════════
+
+Instrução: 1 página máximo. Visão geral do plano — de onde a empresa parte, para onde vai, quantas fases, principais frentes de trabalho, investimento estimado.
+
+Deve conter:
+• Cenário de partida (resumo do Diagnóstico em 2 linhas)
+• Objetivo do plano
+• Número de fases e horizonte temporal
+• Principais frentes de trabalho
+• Range de investimento
+• Modelo de execução
+
+SUMÁRIO:
+
+
+════════════════════════════════════════
+CAPÍTULO 1 — PREMISSAS E DIRETRIZES ESTRATÉGICAS
+════════════════════════════════════════
+
+Instrução: Tornar transparente para o cliente em que o plano se baseia. Se as premissas mudarem, o plano precisa ser ajustado.
+
+
+────────────────────────────────
+1.1 — Premissas Estratégicas
+────────────────────────────────
+
+Instrução: Listar as premissas-chave que sustentam o plano. Cada premissa deve ser compreensível sem referência a documentos internos.
+
+1.
+2.
+3.
+4.
+5.
+
+
+────────────────────────────────
+1.2 — Recomendações Estratégicas
+────────────────────────────────
+
+Instrução: As diretrizes macro que orientam o plano. Derivadas dos achados do diagnóstico.
+
+1.
+2.
+3.
+4.
+5.
+
+
+────────────────────────────────
+1.3 — Cenário de Partida
+────────────────────────────────
+
+Instrução: Resumo visual do ponto de partida.
+
+MATURIDADE ESTRUTURAL (Camada 1): [Nível] — [interpretação em 1 linha]
+MATURIDADE PRÁTICA (Camada 2): [Nível] — [interpretação em 1 linha]
+INFRAESTRUTURA (Etapa E): [resumo do cenário escolhido]
+PROBLEMA CENTRAL: [descrição em 1 linha]
+OBJETIVO PRINCIPAL: [descrição em 1 linha]
+
+
+════════════════════════════════════════
+CAPÍTULO 2 — VISÃO GERAL DO PLANO
+════════════════════════════════════════
+
+
+────────────────────────────────
+2.1 — Mapa das Fases
+────────────────────────────────
+
+Instrução: Visão panorâmica de todas as fases em formato visual.
+
+FASE 1              FASE 2              FASE 3              FASE 4
+[FUNDAÇÃO]          [CONSTRUÇÃO]        [EXPANSÃO]          [OTIMIZAÇÃO]
+___ semanas         ___ semanas         ___ semanas         ___ semanas
+                    
+Foco:               Foco:               Foco:               Foco:
+•                   •                   •                   •
+•                   •                   •                   •
+
+
+────────────────────────────────
+2.2 — Resumo de Ações por Fase
+────────────────────────────────
+
+FASE | TOTAL DE AÇÕES | PRINCIPAIS FRENTES | RESPONSÁVEL PREDOMINANTE
+1    |                |                    | ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+2    |                |                    | ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+3    |                |                    | ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+4    |                |                    | ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+
+
+────────────────────────────────
+2.3 — Investimento por Fase
+────────────────────────────────
+
+FASE | VERBA MENSAL (RANGE)      | FOCO DE INVESTIMENTO
+1    | R$ ___ a R$ ___           |
+2    | R$ ___ a R$ ___           |
+3    | R$ ___ a R$ ___           |
+4    | R$ ___ a R$ ___           |
+
+
+════════════════════════════════════════
+CAPÍTULO 3 — DETALHAMENTO POR FASE
+════════════════════════════════════════
+
+Instrução: Repetir a estrutura abaixo para cada fase do plano.
+
+
+────────────────────────────────
+FASE [N] — [NOME DA FASE]
+Duração estimada: ___ semanas/meses
+────────────────────────────────
+
+OBJETIVO DA FASE:
+
+Instrução: O que deve ser alcançado ao final desta fase. 1-2 frases.
+
+
+AÇÕES DA FASE:
+
+Instrução: Lista de ações com nível de detalhe suficiente para execução.
+
+AÇÃO [N.1]:
+• O que fazer:
+• Por que (qual achado sustenta):
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo estimado:
+• Entregável:
+• Dependência (se houver):
+
+AÇÃO [N.2]:
+• O que fazer:
+• Por que:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo estimado:
+• Entregável:
+• Dependência:
+
+AÇÃO [N.3]:
+• O que fazer:
+• Por que:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo estimado:
+• Entregável:
+• Dependência:
+
+(Adicionar ações conforme necessário)
+
+
+ENTREGÁVEIS DA FASE:
+•
+•
+•
+
+KPIs DA FASE:
+
+KPI | META | COMO MEDIR
+    |      |
+    |      |
+
+CRITÉRIO DE CONCLUSÃO:
+A fase é considerada concluída quando:
+•
+•
+
+
+[Repetir para cada fase]
+
+
+════════════════════════════════════════
+CAPÍTULO 4 — DASHBOARD DE KPIs
+════════════════════════════════════════
+
+
+────────────────────────────────
+4.1 — KPIs Estratégicos
+────────────────────────────────
+
+Instrução: Indicadores que conectam marketing aos resultados do negócio.
+
+KPI                          | BASELINE | META    | FREQUÊNCIA
+─────────────────────────────|──────────|─────────|──────────
+                             |          |         |
+                             |          |         |
+                             |          |         |
+
+
+────────────────────────────────
+4.2 — KPIs Táticos
+────────────────────────────────
+
+Instrução: Indicadores de desempenho das principais frentes de marketing.
+
+KPI                          | BASELINE | META    | FREQUÊNCIA
+─────────────────────────────|──────────|─────────|──────────
+                             |          |         |
+                             |          |         |
+                             |          |         |
+
+
+────────────────────────────────
+4.3 — KPIs Operacionais
+────────────────────────────────
+
+Instrução: Indicadores de produtividade e qualidade.
+
+KPI                          | BASELINE | META    | FREQUÊNCIA
+─────────────────────────────|──────────|─────────|──────────
+                             |          |         |
+                             |          |         |
+                             |          |         |
+
+
+────────────────────────────────
+4.4 — KPIs de Evolução de Maturidade
+────────────────────────────────
+
+INDICADOR                              | BASELINE | META FINAL
+Maturidade Estrutural (Camada 1)       |          |
+Maturidade Prática (Camada 2)          |          |
+[Blocos/eixos prioritários]            |          |
+
+
+────────────────────────────────
+4.5 — Rituais de Acompanhamento
+────────────────────────────────
+
+RITUAL                  | FREQUÊNCIA | PARTICIPANTES     | PAUTA
+Kickoff                  | Único      |                   |
+Alinhamento operacional  | Semanal    |                   |
+Review de KPIs           | Mensal     |                   |
+Review de fase           | Por fase   |                   |
+Review estratégico       | Trimestral |                   |
+
+
+════════════════════════════════════════
+CAPÍTULO 5 — VERBA RECOMENDADA
+════════════════════════════════════════
+
+
+────────────────────────────────
+5.1 — Recomendação Geral
+────────────────────────────────
+
+INVESTIMENTO MENSAL RECOMENDADO:
+• Mínimo: R$ ___
+• Máximo: R$ ___
+
+JUSTIFICATIVA:
+Instrução: Explicar como o range foi definido (referência ao faturamento, benchmarks, complexidade do plano, cenário de estrutura escolhido).
+
+
+────────────────────────────────
+5.2 — Distribuição por Categoria
+────────────────────────────────
+
+CATEGORIA                    | % SUGERIDO | RANGE (R$)
+─────────────────────────────|────────────|──────────
+Equipe (salários/terceiros)  |            |
+Ferramentas e tecnologia     |            |
+Mídia paga                   |            |
+Produção de conteúdo         |            |
+Eventos e ações offline      |            |
+Branding e materiais         |            |
+Reserva/contingência         |            |
+─────────────────────────────|────────────|──────────
+TOTAL                        | 100%       |
+
+
+────────────────────────────────
+5.3 — Evolução por Fase
+────────────────────────────────
+
+Instrução: A verba pode variar por fase (Fase 1 foca em infraestrutura, Fase 2 começa mídia, etc.).
+
+FASE | VERBA MENSAL (RANGE)    | FOCO DO INVESTIMENTO
+1    | R$ ___ a R$ ___         |
+2    | R$ ___ a R$ ___         |
+3    | R$ ___ a R$ ___         |
+4    | R$ ___ a R$ ___         |
+
+
+────────────────────────────────
+5.4 — Observações sobre Verba
+────────────────────────────────
+
+Instrução: Alertas, condicionantes ou considerações importantes.
+
+•
+•
+
+
+════════════════════════════════════════
+CAPÍTULO 6 — MODELO DE EXECUÇÃO
+════════════════════════════════════════
+
+
+────────────────────────────────
+6.1 — Modelo Definido
+────────────────────────────────
+
+MODELO: ( ) MKT Real executa  ( ) Cliente executa  ( ) Híbrido
+
+
+────────────────────────────────
+6.2 — Responsabilidades (se híbrido)
+────────────────────────────────
+
+MKT REAL É RESPONSÁVEL POR:
+•
+•
+•
+
+CLIENTE É RESPONSÁVEL POR:
+•
+•
+•
+
+
+────────────────────────────────
+6.3 — Critérios de Sucesso do Projeto
+────────────────────────────────
+
+Instrução: Como o projeto será avaliado ao final. O que define sucesso.
+
+1.
+2.
+3.
+4.
+5.
+
+
+════════════════════════════════════════
+CAPÍTULO 7 — PRÓXIMOS PASSOS
+════════════════════════════════════════
+
+Instrução: Conectar a Etapa A à Etapa L (Loop) e ao início da execução.
+
+CONTEÚDO SUGERIDO:
+
+Este plano consolida toda a inteligência estratégica gerada nas etapas de Imersão, Diagnóstico e Estrutura em um roteiro de ação concreto para o marketing da [NOME DA EMPRESA].
+
+A execução inicia com a Fase 1 ([NOME DA FASE]), focada em [foco].
+
+Paralelamente ao início da execução, será estruturado o Loop de Otimizações (Etapa L da metodologia IDEAL), que definirá a agenda de reavaliações, os marcos de verificação e os ciclos de aprendizado para garantir que o plano evolua conforme a realidade do negócio — e não fique parado no papel.
+
+O diagnóstico mostrou onde a empresa está. A estrutura mostrou o que precisa ser construído. Este plano mostra o caminho. O Loop garantirá que o caminho seja ajustado conforme a empresa avança.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

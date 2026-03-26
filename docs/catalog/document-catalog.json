@@ -1,0 +1,215 @@
+{
+  "catalogVersion": "1.0.0",
+  "methodology": "IDEAL — MKT Real",
+  "documents": [
+    {
+      "docCode": "DOC-01",
+      "name": "MANUAL_METODOLOGICO_IMERSAO_v2",
+      "stage": "I",
+      "type": "manual",
+      "visibility": "internal",
+      "status": "active",
+      "version": "2.0",
+      "sourcePath": "Imersao/Imersao/MANUAL_METODOLOGICO_IMERSAO_v2.txt"
+    },
+    {
+      "docCode": "DOC-02",
+      "name": "MATRIZ_DE_PERGUNTAS_IMERSAO",
+      "stage": "I",
+      "type": "reference",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "catalog-only/MATRIZ_DE_PERGUNTAS_IMERSAO"
+    },
+    {
+      "docCode": "DOC-03",
+      "name": "ROTEIROS_CONSOLIDADOS_IMERSAO",
+      "stage": "I",
+      "type": "instrument",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Imersao/Imersao/ROTEIROS_CONSOLIDADOS_IMERSAO.txt"
+    },
+    {
+      "docCode": "DOC-04",
+      "name": "GUIA_PERGUNTAS_POR_STAKEHOLDER",
+      "stage": "I",
+      "type": "instrument",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Imersao/Imersao/GUIA_PERGUNTAS_POR_STAKEHOLDER.txt"
+    },
+    {
+      "docCode": "DOC-05",
+      "name": "TEMPLATE_PLANO_DE_IMERSAO",
+      "stage": "I",
+      "type": "template",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Imersao/Imersao/TEMPLATE_PLANO_DE_IMERSAO.txt"
+    },
+    {
+      "docCode": "DOC-06",
+      "name": "TEMPLATE_DOSSIE_DE_IMERSAO",
+      "stage": "I",
+      "type": "template",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Imersao/Imersao/TEMPLATE_DOSSIE_DE_IMERSAO.txt"
+    },
+    {
+      "docCode": "DOC-07",
+      "name": "TEMPLATE_RELATORIO_CLIENTE_IMERSAO",
+      "stage": "I",
+      "type": "template",
+      "visibility": "client",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Imersao/Imersao/TEMPLATE_RELATORIO_CLIENTE_IMERSAO.txt"
+    },
+    {
+      "docCode": "DOC-08",
+      "name": "MANUAL_METODOLOGICO_DIAGNOSTICO",
+      "stage": "D",
+      "type": "manual",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Diagnostico/Diagnostico/MANUAL_METODOLOGICO_DIAGNOSTICO.txt"
+    },
+    {
+      "docCode": "DOC-09",
+      "name": "FORMULARIO_CONSOLIDADO_CAMADA1",
+      "stage": "D",
+      "type": "form",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Diagnostico/Diagnostico/FORMULARIO_CONSOLIDADO_CAMADA1.txt"
+    },
+    {
+      "docCode": "DOC-10",
+      "name": "FORMULARIO_CONSOLIDADO_CAMADA2",
+      "stage": "D",
+      "type": "form",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Diagnostico/Diagnostico/FORMULARIO_CONSOLIDADO_CAMADA2.txt"
+    },
+    {
+      "docCode": "DOC-11",
+      "name": "TEMPLATE_RELATORIO_CLIENTE_DIAGNOSTICO",
+      "stage": "D",
+      "type": "template",
+      "visibility": "client",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Diagnostico/Diagnostico/TEMPLATE_RELATORIO_CLIENTE_DIAGNOSTICO.txt"
+    },
+    {
+      "docCode": "DOC-12",
+      "name": "MANUAL_METODOLOGICO_ESTRUTURA",
+      "stage": "E",
+      "type": "manual",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Estrutura/Estrutura/MANUAL_METODOLOGICO_ESTRUTURA.txt"
+    },
+    {
+      "docCode": "DOC-13",
+      "name": "FORMULARIO_ESTRUTURA",
+      "stage": "E",
+      "type": "form",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Estrutura/Estrutura/FORMULARIO_ESTRUTURA.txt"
+    },
+    {
+      "docCode": "DOC-14",
+      "name": "TEMPLATE_RELATORIO_CLIENTE_ESTRUTURA",
+      "stage": "E",
+      "type": "template",
+      "visibility": "client",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Estrutura/Estrutura/TEMPLATE_RELATORIO_CLIENTE_ESTRUTURA.txt"
+    },
+    {
+      "docCode": "DOC-15",
+      "name": "MANUAL_METODOLOGICO_ARQUITETURA",
+      "stage": "A",
+      "type": "manual",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Arquitetura/Arquitetura/MANUAL_METODOLOGICO_ARQUITETURA.txt"
+    },
+    {
+      "docCode": "DOC-16",
+      "name": "FORMULARIO_ARQUITETURA",
+      "stage": "A",
+      "type": "form",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Arquitetura/Arquitetura/FORMULARIO_ARQUITETURA.txt"
+    },
+    {
+      "docCode": "DOC-17",
+      "name": "TEMPLATE_RELATORIO_CLIENTE_ARQUITETURA",
+      "stage": "A",
+      "type": "template",
+      "visibility": "client",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Arquitetura/Arquitetura/TEMPLATE_RELATORIO_CLIENTE_ARQUITETURA.txt"
+    },
+    {
+      "docCode": "DOC-18",
+      "name": "MANUAL_METODOLOGICO_LOOP",
+      "stage": "L",
+      "type": "manual",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Loop de Otimizacao/Loop de Otimizacao/MANUAL_METODOLOGICO_LOOP.txt"
+    },
+    {
+      "docCode": "DOC-19",
+      "name": "FORMULARIO_LOOP",
+      "stage": "L",
+      "type": "form",
+      "visibility": "internal",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Loop de Otimizacao/Loop de Otimizacao/FORMULARIO_LOOP.txt"
+    },
+    {
+      "docCode": "DOC-20",
+      "name": "TEMPLATE_RELATORIO_CLIENTE_LOOP",
+      "stage": "L",
+      "type": "template",
+      "visibility": "client",
+      "status": "active",
+      "version": "1.0",
+      "sourcePath": "Loop de Otimizacao/Loop de Otimizacao/TEMPLATE_RELATORIO_CLIENTE_LOOP.txt"
+    }
+  ],
+  "discontinuedArtifacts": [
+    "5 roteiros individuais de Imersao",
+    "Template original do Relatorio de Imersao",
+    "5 docx antigos da Camada 1",
+    "10 arquivos individuais de blocos da Camada 1",
+    "Documentos resumidos dos Eixos 6, 7, 8 da Camada 2",
+    "Formulario original do Eixo 6",
+    "Formularios originais dos Eixos 7 e 8"
+  ]
+}

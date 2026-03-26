@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Sora:wght@100..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Core Brand Colors */
+  --mkt-primary: #85836C;
+  --mkt-dark: #222220;
+  --mkt-accent: #EAB817;
+  --mkt-light: #F2F4F3;
+  
+  /* Semantic Colors */
+  --background: 0 0% 95%; /* MKT Light */
+  --foreground: 0 0% 13%; /* MKT Dark */
+  
+  /* Glassmorphism Liquid 2.0 */
+  --glass-bg: rgba(242, 244, 243, 0.45);
+  --glass-border: rgba(133, 131, 108, 0.18);
+  --glass-border-light: rgba(255, 255, 255, 0.35);
+  --glass-shadow: 0 8px 32px 0 rgba(34, 34, 32, 0.15);
+  --glass-blur: 18px;
+
+  /* Typography Transitions */
+  --font-heading: 'Sora', 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
+}
+
+@layer base {
+  body {
+    @apply antialiased text-[#222220] bg-[#F2F4F3];
+    background: 
+      radial-gradient(at 0% 0%, rgba(234, 184, 23, 0.08) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(133, 131, 108, 0.15) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(34, 34, 32, 0.05) 0px, transparent 50%);
+    min-height: 100vh;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-heading);
+    @apply font-bold tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-liquid {
+    @apply backdrop-blur-[18px] bg-[rgba(242,244,243,0.45)] border border-[rgba(133,131,108,0.18)] shadow-[0_8px_32px_0_rgba(34,34,32,0.15)];
+    position: relative;
+    overflow: hidden;
+  }
+
+  .glass-liquid::before {
+    content: "";
+    @apply absolute inset-0 border border-white/30 rounded-[inherit] pointer-events-none;
+  }
+
+  .mkt-button-premium {
+    @apply px-6 py-3 rounded-xl font-bold transition-all duration-300 active:scale-95;
+    background: linear-gradient(135deg, var(--mkt-accent), #FFD700);
+    box-shadow: 0 10px 20px -10px rgba(234, 184, 23, 0.5);
+  }
+
+  .mkt-button-premium:hover {
+    @apply shadow-[0_15px_30px_-10px_rgba(234,184,23,0.6)] -translate-y-0.5;
+  }
+
+  .mkt-input-premium {
+    @apply w-full px-4 py-3 rounded-xl bg-white/70 border border-[rgba(133,131,108,0.25)] focus:ring-2 focus:ring-[#EAB817] focus:border-transparent transition-all outline-none;
+  }
+}
+
+/* --- PRINT STYLES: Maison Report --- */
+@media print {
+  /* Hide all UI elements */
+  aside, 
+  nav, 
+  header, 
+  footer, 
+  button, 
+  .no-print,
+  .mkt-button-premium {
+    display: none !important;
+  }
+
+  /* Reset layout for container */
+  body {
+    background: white !important;
+    color: #1A1A1A !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  main {
+    max-width: 100% !important;
+    padding: 2cm !important;
+    margin: 0 !important;
+    display: block !important;
+  }
+
+  /* Force display of the report preview block */
+  .preview-report-container {
+    display: block !important;
+    max-height: none !important;
+    overflow: visible !important;
+    background: transparent !important;
+    border: none !important;
+    padding: 0 !important;
+  }
+
+  /* Report Typography */
+  h1, h2, h3, h4 {
+    color: #1A1A1A !important;
+    page-break-after: avoid;
+    font-weight: 900 !important;
+    text-transform: uppercase !important;
+    letter-spacing: -0.02em !important;
+  }
+
+  h1 { font-size: 28pt !important; margin-bottom: 24pt !important; border-bottom: 4px solid #EAB817 !important; padding-bottom: 12pt !important; }
+  h2 { font-size: 20pt !important; margin-top: 32pt !important; margin-bottom: 16pt !important; }
+  h3 { font-size: 14pt !important; margin-top: 24pt !important; margin-bottom: 8pt !important; color: #404040 !important; }
+
+  pre {
+    white-space: pre-wrap !important;
+    font-family: 'Inter', sans-serif !important;
+    font-size: 11pt !important;
+    line-height: 1.6 !important;
+    color: #404040 !important;
+    border: none !important;
+    padding: 0 !important;
+    background: transparent !important;
+  }
+
+  /* Force sections to break naturally */
+  section {
+    page-break-inside: avoid;
+  }
+
+  /* Add brand header/footer (simulated via content) */
+  body::before {
+    content: "MKT REAL - SISTEMA IDEAL | LIQUID 2.0 - RELATÓRIO METODOLÓGICO";
+    display: block;
+    text-align: right;
+    font-size: 8pt;
+    font-weight: 900;
+    color: #EAB817;
+    margin-bottom: 1cm;
+    border-bottom: 1px solid #EEEEEE;
+    padding-bottom: 4pt;
+  }
+
+  body::after {
+    content: "Documento Confidencial - Propriedade Intelectual MKT Real";
+    display: block;
+    text-align: center;
+    font-size: 7pt;
+    font-weight: 700;
+    color: #CCCCCC;
+    margin-top: 1cm;
+    border-top: 1px solid #EEEEEE;
+    padding-top: 8pt;
+  }
+}
+

@@ -1,0 +1,26 @@
+{
+  "name": "@ideal/api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/main.js",
+    "lint": "echo \"lint api pending\"",
+    "test": "echo \"test api pending\"",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "dependencies": {
+    "@ideal/ai": "workspace:*",
+    "@ideal/domain": "workspace:*",
+    "@ideal/reports": "workspace:*",
+    "@ideal/workflows": "workspace:*",
+    "@fastify/cors": "^10.1.0",
+    "@supabase/supabase-js": "^2.100.0",
+    "dotenv": "^16.6.1",
+    "fastify": "^5.2.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.3"
+  }
+}

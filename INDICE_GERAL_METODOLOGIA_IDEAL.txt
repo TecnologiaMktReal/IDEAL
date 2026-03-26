@@ -1,0 +1,278 @@
+DOCUMENTO: INDICE_GERAL_METODOLOGIA_IDEAL
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+DATA DE CONSOLIDAÇÃO: Março/2026
+
+
+════════════════════════════════════════
+SOBRE ESTE DOCUMENTO
+════════════════════════════════════════
+
+Este é o documento-mestre da metodologia IDEAL da MKT Real. Ele organiza todos os 20 documentos produzidos, explica a função de cada um, define a sequência de uso e serve como guia de navegação para o consultor.
+
+TOTAL DE ETAPAS: 5
+TOTAL DE DOCUMENTOS: 20
+PÚBLICO: Consultores da MKT Real (documento interno)
+
+
+════════════════════════════════════════
+A METODOLOGIA IDEAL EM SÍNTESE
+════════════════════════════════════════
+
+A metodologia IDEAL é o sistema completo de consultoria de marketing da MKT Real, projetado para empresas B2B de mercados técnicos com maturidade de marketing baixa.
+
+I — IMERSÃO: Compreender profundamente o negócio, a cultura, o mercado e o marketing do cliente.
+D — DIAGNÓSTICO: Avaliar com rigor técnico a maturidade estrutural e a prática real do marketing.
+E — ESTRUTURA: Mapear e recomendar a infraestrutura necessária para o marketing operar.
+A — ARQUITETURA: Construir o plano de ação estratégico com premissas, fases, KPIs e verba.
+L — LOOP: Garantir evolução contínua com acompanhamento, rediagnósticos e aprendizado.
+
+SEQUÊNCIA: As etapas são executadas na ordem I → D → E → A → L. O Loop (L) pode reabrir o ciclo quando necessário.
+
+
+════════════════════════════════════════
+MAPA DE DOCUMENTOS POR ETAPA
+════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ETAPA I — IMERSÃO                                           ║
+║  "Compreender o negócio por dentro"                          ║
+║  7 documentos | 3 momentos                                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+DOC #01 — MANUAL_METODOLOGICO_IMERSAO_v2
+Tipo: Documento-mãe
+Função: Governa toda a Etapa I. Define propósito, os 3 momentos, os 6 roteiros, o mapa de insumos por etapa, regras de governança, dimensões da síntese interpretativa e estrutura do relatório do cliente.
+Quando usar: Antes de iniciar qualquer projeto. É a referência fundamental da etapa.
+
+DOC #02 — MATRIZ_DE_PERGUNTAS_IMERSAO
+Tipo: Documento de referência
+Função: Mapeamento completo das 152 perguntas com decisões de resolução de redundâncias, destino de cada pergunta e perguntas novas criadas.
+Quando usar: Para referência metodológica e rastreabilidade. Não é usado na operação diária.
+
+DOC #03 — ROTEIROS_CONSOLIDADOS_IMERSAO
+Tipo: Instrumento de coleta
+Função: Os 6 roteiros na versão final com todas as 152 perguntas organizadas por seção, marcadas como NUCLEO_ESSENCIAL ou COMPLEMENTAR.
+Quando usar: Durante as entrevistas. É o documento que o consultor segue pergunta a pergunta.
+
+DOC #04 — GUIA_PERGUNTAS_POR_STAKEHOLDER
+Tipo: Instrumento operacional
+Função: As mesmas 152 perguntas reorganizadas pela perspectiva do stakeholder (CEO, Comercial, Marketing, Operações, Financeiro, RH). Inclui 3 cenários de aplicação (mínimo viável, padrão, ideal) e regras de absorção.
+Quando usar: No Momento 1 (Planejamento) para montar cada entrevista individual.
+
+DOC #05 — TEMPLATE_PLANO_DE_IMERSAO
+Tipo: Template preenchível (Momento 1)
+Função: Documento que o consultor preenche antes de iniciar as entrevistas. Dados cadastrais, pesquisa preliminar, mapa de stakeholders, agenda de entrevistas, adaptações dos roteiros.
+Quando usar: Antes da primeira entrevista. Critério de conclusão do Momento 1.
+
+DOC #06 — TEMPLATE_DOSSIE_DE_IMERSAO
+Tipo: Template preenchível (Momento 2)
+Função: Documento central da etapa. Consolida todas as respostas por roteiro, registra alertas estruturais, produz síntese interpretativa (6 dimensões), documenta premissas, organiza insumos por etapa e registra lacunas.
+Quando usar: Após cada entrevista para consolidar. É preenchido ao longo de toda a fase de entrevistas.
+
+DOC #07 — TEMPLATE_RELATORIO_CLIENTE_IMERSAO
+Tipo: Template de relatório externo (Momento 3)
+Função: Relatório executivo entregue ao cliente com 9 capítulos (História, Cultura, Contexto, Proposta de Valor, Portfólio, Mercado, Público, Comercial, Marketing).
+Quando usar: Após conclusão do Dossiê. Produzido a partir do Dossiê.
+
+
+────────────────────────────────
+FLUXO DE USO — ETAPA I
+
+1. Ler o Manual (#01)
+2. Preencher o Plano de Imersão (#05) usando o Guia por Stakeholder (#04)
+3. Conduzir entrevistas usando os Roteiros (#03)
+4. Consolidar no Dossiê (#06) após cada entrevista
+5. Produzir o Relatório do Cliente (#07) a partir do Dossiê
+────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ETAPA D — DIAGNÓSTICO                                       ║
+║  "Avaliar a maturidade com rigor técnico"                    ║
+║  4 documentos | 2 camadas                                    ║
+╚══════════════════════════════════════════════════════════════╝
+
+DOC #08 — MANUAL_METODOLOGICO_DIAGNOSTICO
+Tipo: Documento-mãe
+Função: Governa toda a Etapa D. Define propósito, estrutura das 2 camadas, sequência de aplicação, por que as escalas são diferentes, fronteiras conceituais entre camadas, Matriz de Maturidade Cruzada (5 cenários), blocos críticos vs estruturais obrigatórios, guia de fontes de evidência por bloco/eixo, entregáveis e conexões.
+Quando usar: Antes de iniciar qualquer diagnóstico. Referência fundamental.
+
+DOC #09 — FORMULARIO_CONSOLIDADO_CAMADA1
+Tipo: Instrumento de avaliação
+Função: Formulário único e definitivo da Camada 1 com os 10 blocos, 80 perguntas, cenários narrativos por nível, perguntas centrais, regras condicionais embutidas, checklists de evidência e seção de cálculo/classificação.
+Quando usar: Para avaliar a maturidade estrutural. Preencher bloco a bloco com base no Dossiê + análise técnica.
+
+DOC #10 — FORMULARIO_CONSOLIDADO_CAMADA2
+Tipo: Instrumento de avaliação
+Função: Formulário da Camada 2 com os 28 blocos dos 8 eixos. Os Eixos 1-5 referenciam os formulários originais já completos. Os Eixos 6, 7 e 8 foram reconstruídos com blocos novos. Inclui seção de cálculo/classificação com as 5 regras de bloqueio.
+Quando usar: Após a Camada 1. Preencher eixo a eixo.
+
+NOTA: Os formulários originais dos Eixos 1-5 da Camada 2 permanecem como documentos válidos:
+• FORMULARIO_CAMADA2_EIXO1_ESTRATEGIA_COMPETITIVA (6 blocos, 51 perguntas)
+• FORMULARIO_CAMADA2_EIXO2_BRANDING (3 blocos, 51 perguntas)
+• FORMULARIO_CAMADA2_EIXO3_COMUNICACAO (4 blocos, 37 perguntas)
+• FORMULARIO_CAMADA2_EIXO4_CANAIS_E_MIDIAS (3 blocos, 24+ perguntas)
+• FORMULARIO_CAMADA2_EIXO5_APLICACOES_ESTRATEGICAS (1 bloco, matriz de 20 estratégias)
+
+DOC #11 — TEMPLATE_RELATORIO_CLIENTE_DIAGNOSTICO
+Tipo: Template de relatório externo
+Função: Relatório de maior impacto da metodologia. Contém: Sumário Executivo, Como Ler o Relatório, Visão Geral Integrada (Matriz Cruzada + conexões causa-efeito), Camada 1 (visão geral com score/régua/radar/gaps/condições + detalhamento por bloco com atividades para avançar), Camada 2 (mesma estrutura + Matrizes de Mídias e Estratégica), Pontos de Atenção Imediata, Próximos Passos.
+Quando usar: Após conclusão dos formulários das duas camadas.
+
+
+────────────────────────────────
+FLUXO DE USO — ETAPA D
+
+1. Ler o Manual (#08)
+2. Verificar insumos no Dossiê de Imersão (#06, Seção 6)
+3. Preencher Camada 1 (#09) — todos os 10 blocos
+4. Preencher Camada 2 (#10 + formulários originais) — todos os 28 blocos
+5. Calcular classificações e aplicar regras de bloqueio
+6. Produzir o Relatório do Cliente (#11)
+────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ETAPA E — ESTRUTURA                                         ║
+║  "Mapear e recomendar a infraestrutura"                      ║
+║  3 documentos | 5 dimensões                                  ║
+╚══════════════════════════════════════════════════════════════╝
+
+DOC #12 — MANUAL_METODOLOGICO_ESTRUTURA
+Tipo: Documento-mãe
+Função: Define propósito, as 5 dimensões (Equipe, Documentos, Tecnologia, Integrações, Rastreamentos), os 3 cenários de recomendação (mínimo viável, recomendado, ideal), fontes de informação e governança.
+Quando usar: Antes de iniciar a Etapa E.
+
+DOC #13 — FORMULARIO_ESTRUTURA
+Tipo: Instrumento de trabalho
+Função: Para cada dimensão: mapeamento do cenário atual (com tabelas), cenário ideal (por cenário), gaps identificados, recomendações com prioridade e estimativa de investimento. Seção final com dashboard consolidado, priorização cross-dimensão (top 10), estimativa total e registro da escolha do cliente.
+Quando usar: Preencher com base nos dados do Dossiê e do Diagnóstico.
+
+DOC #14 — TEMPLATE_RELATORIO_CLIENTE_ESTRUTURA
+Tipo: Template de relatório externo
+Função: Dashboard geral (5 dimensões com status e investimento por cenário), 5 capítulos detalhados (um por dimensão: atual → gaps → 3 cenários → prioridade), priorização geral com top 10 ações e cronograma sugerido.
+Quando usar: Após conclusão do formulário e antes da Etapa A.
+
+
+────────────────────────────────
+FLUXO DE USO — ETAPA E
+
+1. Ler o Manual (#12)
+2. Preencher o Formulário (#13) usando dados do Dossiê (#06) e Diagnóstico (#09, #10)
+3. Produzir o Relatório do Cliente (#14)
+4. Apresentar ao cliente e registrar escolha de cenário
+────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ETAPA A — ARQUITETURA DO PLANEJAMENTO                       ║
+║  "Construir o plano de ação estratégico"                     ║
+║  3 documentos | 5 blocos                                     ║
+╚══════════════════════════════════════════════════════════════╝
+
+DOC #15 — MANUAL_METODOLOGICO_ARQUITETURA
+Tipo: Documento-mãe
+Função: Define os 5 blocos do plano (Premissas, Plano por Fases, KPIs, Verba, Modelo de Execução), a lógica de fases (Fundação → Construção → Expansão → Otimização), fontes de informação e governança.
+Quando usar: Antes de construir o plano.
+
+DOC #16 — FORMULARIO_ARQUITETURA
+Tipo: Instrumento de trabalho
+Função: Premissas com rastreabilidade, recomendações estratégicas, diretrizes do plano, ações por fase (com responsável, prazo, entregável, dependência, origem), KPIs em 4 níveis (estratégico, tático, operacional, evolução de maturidade), verba em range com distribuição por categoria e evolução por fase, modelo de execução com rituais e critérios de sucesso.
+Quando usar: Para construir o plano usando todos os insumos das etapas anteriores.
+
+DOC #17 — TEMPLATE_RELATORIO_CLIENTE_ARQUITETURA
+Tipo: Template de relatório externo
+Função: Plano completo apresentável com: cenário de partida, mapa visual das fases, detalhamento por fase (ações concretas), dashboard de KPIs com baseline e metas, verba em range com justificativa e distribuição, modelo de execução com responsabilidades, rituais e critérios de sucesso.
+Quando usar: Após conclusão do formulário. Entregue e validado com o cliente.
+
+
+────────────────────────────────
+FLUXO DE USO — ETAPA A
+
+1. Ler o Manual (#15)
+2. Preencher o Formulário (#16) usando insumos de todas as etapas anteriores
+3. Produzir o Relatório do Cliente (#17)
+4. Apresentar e validar com o cliente
+────────────────────────────────
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  ETAPA L — LOOP DE OTIMIZAÇÕES                               ║
+║  "Garantir evolução contínua"                                ║
+║  3 documentos | 2 níveis de acompanhamento                   ║
+╚══════════════════════════════════════════════════════════════╝
+
+DOC #18 — MANUAL_METODOLOGICO_LOOP
+Tipo: Documento-mãe
+Função: Define os 2 níveis (acompanhamento contínuo + rediagnóstico periódico), os 3 mecanismos (rituais, rediagnósticos, marcos de aprendizado), 4 rituais com frequência/pauta/entregável, calendário modelo de 12 meses e a conexão cíclica com as demais etapas.
+Quando usar: Ao iniciar a execução do plano.
+
+DOC #19 — FORMULARIO_LOOP
+Tipo: Instrumento de trabalho contínuo
+Função: Configuração do Loop, calendário preenchível, registro de reviews de KPIs (mensal), registro de reviews de fase, marcos de aprendizado (6 perguntas estruturadas), controle de rediagnósticos com comparativo bloco a bloco e eixo a eixo, seção de encerramento com decisão sobre continuidade.
+Quando usar: Ao longo de todo o projeto. É preenchido continuamente.
+
+DOC #20 — TEMPLATE_RELATORIO_CLIENTE_LOOP
+Tipo: Template de relatório externo (duas partes)
+Função: Parte A (Relatório Inicial) apresenta o sistema ao cliente com calendário, KPIs e agenda. Parte B (Relatório de Evolução) é produzido a cada rediagnóstico com comparativos visuais (réguas, radares sobrepostos, matriz cruzada com trajetória), lições, recomendações atualizadas e ajustes no plano.
+Quando usar: Parte A no início da execução. Parte B a cada rediagnóstico.
+
+
+────────────────────────────────
+FLUXO DE USO — ETAPA L
+
+1. Ler o Manual (#18)
+2. Configurar o Formulário (#19) com calendário e frequências
+3. Entregar o Relatório Inicial (#20, Parte A) ao cliente
+4. Operar os rituais e registrar no Formulário (#19)
+5. A cada rediagnóstico, reaplicar os formulários (#09, #10) e produzir o Relatório de Evolução (#20, Parte B)
+────────────────────────────────
+
+
+════════════════════════════════════════
+FLUXO COMPLETO DA METODOLOGIA
+════════════════════════════════════════
+
+ETAPA I (IMERSÃO)
+│ Entregáveis para o cliente: Relatório de Imersão (#07)
+│ Insumos para próxima etapa: Dossiê (#06)
+▼
+ETAPA D (DIAGNÓSTICO)
+│ Entregáveis para o cliente: Relatório de Diagnóstico (#11)
+│ Insumos para próxima etapa: Formulários preenchidos (#09, #10)
+▼
+ETAPA E (ESTRUTURA)
+│ Entregáveis para o cliente: Relatório de Estrutura (#14)
+│ Insumos para próxima etapa: Cenário escolhido + priorização
+▼
+ETAPA A (ARQUITETURA)
+│ Entregáveis para o cliente: Plano de Ação (#17)
+│ Insumos para próxima etapa: Plano + KPIs + Verba
+▼
+ETAPA L (LOOP)
+│ Entregáveis para o cliente: Sistema de Acompanhamento (#20A) + Relatórios de Evolução (#20B)
+│ Conexão cíclica: Rediagnóstico → Ajuste do plano → Nova execução
+▼
+[NOVO CICLO IDEAL se necessário]
+
+
+════════════════════════════════════════
+DOCUMENTOS DESCONTINUADOS
+════════════════════════════════════════
+
+Os seguintes documentos antigos foram oficialmente substituídos e devem ser tratados como ARQUIVO HISTÓRICO (não usar na operação):
+
+• 5 roteiros individuais de Imersão (.txt originais) → substituídos por #03
+• Template original do Relatório de Imersão → substituído por #07
+• 5 .docx antigos da Camada 1 (Geração 1) → substituídos por #09
+• 10 arquivos individuais de blocos da Camada 1 → consolidados em #09
+• Documentos resumidos dos Eixos 6, 7, 8 da Camada 2 → substituídos por #10
+• Formulário original do Eixo 6 (3 blocos) → substituído por #10
+• Formulários originais dos Eixos 7 e 8 (1 bloco cada) → substituídos por #10
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

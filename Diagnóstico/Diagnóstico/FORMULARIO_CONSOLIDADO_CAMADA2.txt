@@ -1,0 +1,1187 @@
+DOCUMENTO: FORMULARIO_CONSOLIDADO_CAMADA2
+CAMADA: CAMADA_2_AVALIACAO_REAL_DO_MARKETING
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0 (DEFINITIVA)
+
+TOTAL DE EIXOS: 8
+TOTAL DE BLOCOS: 28
+
+ESCALA: Crítico (1) | Frágil (2) | Sólido (3) | Superior (4)
+
+
+INSTRUÇÃO GERAL
+
+Este formulário é preenchido exclusivamente pelo consultor, com base em evidências coletadas na Imersão (Dossiê), análise documental, verificação prática e análise técnica.
+
+Nenhuma pergunta deve ser respondida por opinião ou suposição.
+Toda resposta deve ser fundamentada em evidência concreta.
+
+REGRAS UNIVERSAIS:
+• Critérios absolutos têm prioridade sobre pontuação.
+• Se uma regra de bloqueio for ativada, a nota deve ser limitada.
+• Quando uma resposta tornar perguntas subsequentes inaplicáveis, marcar como NÃO_APLICÁVEL.
+• Ferramentas contratadas mas não utilizadas não contam como existentes.
+• Documentos dispersos em arquivos pessoais não contam como formalizados.
+• A nota final do bloco nunca é calculada por média simples.
+• A nota final do bloco é avaliação integrada do consultor com base em evidências.
+
+ARQUITETURA DE CADA BLOCO:
+• SEÇÃO A: Perguntas de Mapeamento (quando aplicável — não pontuam)
+• SEÇÃO B: Perguntas de Diagnóstico (pontuam)
+• SEÇÃO C: Critérios Absolutos (regras de bloqueio)
+• SEÇÃO D: Lógica Condicional
+• SEÇÃO E: Campos do Consultor (Observação, Risco, Oportunidade)
+
+
+════════════════════════════════════════════════════════════════
+EIXOS 1 A 5 — FORMULÁRIOS COMPLETOS
+════════════════════════════════════════════════════════════════
+
+Os formulários dos Eixos 1 a 5 já estão completos e validados.
+Consultar os documentos originais:
+
+• FORMULARIO_CAMADA2_EIXO1_ESTRATEGIA_COMPETITIVA (6 blocos, 51 perguntas)
+• FORMULARIO_CAMADA2_EIXO2_BRANDING (3 blocos, 51 perguntas)
+• FORMULARIO_CAMADA2_EIXO3_COMUNICACAO (4 blocos, 37 perguntas)
+• FORMULARIO_CAMADA2_EIXO4_CANAIS_E_MIDIAS (3 blocos, 24+ perguntas)
+• FORMULARIO_CAMADA2_EIXO5_APLICACOES_ESTRATEGICAS (1 bloco, matriz de 20 estratégias)
+
+NOTA: Os formulários dos Eixos 1-5 já possuem a arquitetura completa (Seções A-E, critérios absolutos, lógica condicional, campos do consultor, escalas de maturidade e cenários). Estão prontos para uso e foram validados na análise metodológica.
+
+Os Eixos 6, 7 e 8 abaixo foram reconstruídos para alinhar com a estrutura do Índice Geral.
+
+
+════════════════════════════════════════════════════════════════
+FORMULARIO_CONSOLIDADO_CAMADA2 — PARTE 3
+Eixos 6, 7 e 8 + Seção Final de Cálculo
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 6 — SETUP DE MARKETING                                ║
+║  Pergunta do eixo: A empresa possui infraestrutura           ║
+║  tecnológica e documental adequada para o marketing?         ║
+║  TOTAL DE BLOCOS: 4                                          ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 1 — IA NO MARKETING           │
+│ TOTAL DE PERGUNTAS: 5               │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se o setor de marketing utiliza inteligência artificial como ferramenta de produtividade e inteligência nas suas atividades.
+
+LIMITE CONCEITUAL
+NÃO avalia: qualidade da estratégia, qualidade do conteúdo, maturidade da equipe (Camada 1), ferramentas gerais (Bloco 3).
+Mede EXCLUSIVAMENTE: existência, uso e integração de IA no fluxo de marketing.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): IA não é utilizada no setor de marketing.
+FRÁGIL (2): Uso pontual e não estruturado de IA (ferramentas genéricas sem processo).
+SÓLIDO (3): IA utilizada de forma recorrente em atividades mapeadas com impacto na produtividade.
+SUPERIOR (4): IA integrada ao fluxo de trabalho com agentes especializados e processos documentados.
+
+
+SEÇÃO A — PERGUNTAS DE DIAGNÓSTICO
+
+<PERGUNTA_ID=E6B1_01>
+O setor de marketing utiliza ferramentas de inteligência artificial nas suas atividades?
+
+(4) Sim, com agentes ou fluxos estruturados e integrados ao processo
+(3) Sim, utiliza de forma recorrente em atividades específicas
+(2) Uso pontual e não estruturado
+(1) Não utiliza IA
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B1_02>
+Em quantas atividades do marketing a IA está presente?
+
+(4) Em grande parte das atividades do setor
+(3) Em várias atividades relevantes
+(2) Em poucas atividades
+(1) Em nenhuma atividade
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B1_03>
+As atividades que utilizam IA estão mapeadas e documentadas?
+
+(4) Sim, mapeadas, documentadas e com processo definido
+(3) Mapeadas, mas sem documentação formal
+(2) Uso informal, sem mapeamento
+(1) Não aplicável (não utiliza IA)
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B1_04>
+A IA utilizada gera resultados percebidos (produtividade, qualidade, velocidade)?
+
+(4) Resultados claros e mensuráveis
+(3) Resultados percebidos mas não mensurados
+(2) Resultados incertos
+(1) Não aplicável (não utiliza IA)
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B1_05>
+A IA está integrada ao fluxo de trabalho do setor ou é utilizada de forma isolada?
+
+(4) Integrada ao fluxo com processos definidos
+(3) Parcialmente integrada
+(2) Uso isolado, fora do fluxo principal
+(1) Não aplicável (não utiliza IA)
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se E6B1_01 = (1), o bloco é automaticamente Crítico.
+
+LÓGICA CONDICIONAL:
+Se E6B1_01 = (1), as perguntas E6B1_03 a E6B1_05 tornam-se "Não aplicável".
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 2 — INTEGRAÇÕES                │
+│ TOTAL DE PERGUNTAS: 6 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se as ferramentas de marketing e vendas estão integradas entre si, permitindo fluxo de dados consistente e visibilidade entre sistemas.
+
+LIMITE CONCEITUAL
+NÃO avalia: existência individual de ferramentas (Bloco 3), qualidade do CRM (Camada 2, Eixo 8), processos operacionais (Camada 1, Bloco 6).
+Mede EXCLUSIVAMENTE: integração entre sistemas, fluxo de dados e conectividade.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Ferramentas operam de forma totalmente isolada. Não há integração.
+FRÁGIL (2): Integrações pontuais e manuais. Dados transferidos manualmente entre sistemas.
+SÓLIDO (3): Principais integrações ativas e funcionais. Dados fluem entre sistemas-chave.
+SUPERIOR (4): Ecossistema integrado com fluxo de dados automatizado e visibilidade consolidada.
+
+
+SEÇÃO A — MAPEAMENTO DE INTEGRAÇÕES
+
+<PERGUNTA_ID=E6B2_A1>
+CHECKLIST DE PONTOS DE INTEGRAÇÃO
+
+Para cada item, marcar: ( ) Existe e funciona  ( ) Existe parcialmente  ( ) Não existe  ( ) Não aplicável
+
+● CRM integrado com ferramenta de marketing (automação ou e-mail)
+● CRM integrado com site (captura de leads)
+● Analytics integrado com CRM (rastreamento de origem)
+● Ferramenta de anúncios integrada com analytics
+● Automação de marketing integrada com CRM
+● WhatsApp integrado com CRM ou ferramenta de gestão
+● Redes sociais integradas com ferramenta de gestão
+● Formulários de site integrados com CRM ou automação
+● Dashboard consolidando dados de múltiplas fontes
+● Landing pages integradas com CRM ou automação
+</PERGUNTA_ID>
+
+SEÇÃO B — PERGUNTAS DE DIAGNÓSTICO
+
+<PERGUNTA_ID=E6B2_01>
+Qual o nível geral de integração entre as ferramentas de marketing e vendas?
+
+(4) Ecossistema integrado com fluxo automatizado
+(3) Principais integrações ativas e funcionais
+(2) Integrações pontuais ou manuais
+(1) Ferramentas operam de forma isolada
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B2_02>
+Os dados fluem entre os sistemas sem necessidade de transferência manual?
+
+(4) Sim, fluxo automatizado na maioria dos sistemas
+(3) Parcialmente automatizado
+(2) Predominantemente manual
+(1) Totalmente manual ou inexistente
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B2_03>
+Existe visibilidade consolidada dos dados de marketing e vendas em um único lugar?
+
+(4) Sim, dashboard ou BI consolidando dados de múltiplas fontes
+(3) Visibilidade parcial em relatórios separados
+(2) Dados dispersos em ferramentas diferentes
+(1) Sem visibilidade consolidada
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B2_04>
+As integrações existentes são estáveis e confiáveis?
+
+(4) Sim, integrações estáveis e monitoradas
+(3) Predominantemente estáveis, com falhas pontuais
+(2) Instáveis ou frequentemente quebradas
+(1) Não aplicável (não há integrações)
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B2_05>
+A rastreabilidade de leads (da origem até a conversão) é possível com as integrações atuais?
+
+(4) Rastreabilidade completa da origem à conversão
+(3) Rastreabilidade parcial
+(2) Rastreabilidade limitada ou manual
+(1) Sem rastreabilidade
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não há nenhuma integração ativa, o bloco é automaticamente Crítico.
+C2 — Se integrações existem mas estão instáveis ou quebradas, não pode ultrapassar Frágil.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 3 — FERRAMENTAS ESSENCIAIS    │
+│ TOTAL DE PERGUNTAS: 4 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se a empresa possui as ferramentas tecnológicas necessárias para executar marketing moderno e orientado por dados.
+
+LIMITE CONCEITUAL
+NÃO avalia: qualidade da estratégia, qualidade do conteúdo, integração entre ferramentas (Bloco 2), maturidade da equipe (Camada 1), governança de ativos (Camada 1, Bloco 8).
+Mede EXCLUSIVAMENTE: existência, configuração e uso efetivo das ferramentas.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Ferramentas inexistentes ou extremamente limitadas.
+FRÁGIL (2): Ferramentas básicas existem, mas são pouco utilizadas ou mal configuradas.
+SÓLIDO (3): Ferramentas essenciais existem, estão configuradas e são utilizadas regularmente.
+SUPERIOR (4): Ecossistema completo com ferramentas essenciais + ferramentas avançadas, todas utilizadas.
+
+REGRA: Ferramentas contratadas mas NÃO utilizadas não contam como existentes.
+
+
+SEÇÃO A — CHECKLIST DE FERRAMENTAS
+
+<PERGUNTA_ID=E6B3_A1>
+FERRAMENTAS ESSENCIAIS (requisito para Sólido)
+
+Para cada ferramenta: ( ) Existe e é utilizada  ( ) Existe mas não é utilizada  ( ) Não existe  ( ) Não aplicável
+
+● CRM de vendas
+● Ferramenta de automação de marketing OU e-mail marketing
+● Ferramenta de gestão de redes sociais
+● Ferramenta de gestão de projetos e tarefas
+● Ferramenta de análise de dados (Analytics)
+● Ferramenta de gestão de anúncios (quando aplicável)
+● Plataforma de landing pages (quando aplicável)
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B3_A2>
+FERRAMENTAS DE MATURIDADE AVANÇADA (requisito para Superior)
+
+● Ferramenta de BI ou dashboards
+● Ferramenta de SEO
+● Ferramenta de automação avançada com workflows
+</PERGUNTA_ID>
+
+SEÇÃO B — PERGUNTAS DE DIAGNÓSTICO
+
+<PERGUNTA_ID=E6B3_01>
+Qual o nível geral de estruturação das ferramentas de marketing?
+
+(4) Ecossistema completo e utilizado
+(3) Ferramentas adequadas e utilizadas regularmente
+(2) Ferramentas básicas e pouco utilizadas
+(1) Ferramentas inexistentes ou extremamente limitadas
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B3_02>
+As ferramentas existentes estão configuradas adequadamente para o uso do setor?
+
+(4) Sim, configuradas e otimizadas
+(3) Configuradas de forma básica
+(2) Parcialmente configuradas ou mal configuradas
+(1) Não configuradas ou não aplicável
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B3_03>
+As ferramentas são utilizadas de forma consistente pela equipe?
+
+(4) Uso consistente e integrado ao fluxo de trabalho
+(3) Uso regular, com inconsistências pontuais
+(2) Uso esporádico ou irregular
+(1) Não são utilizadas
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B3_04>
+As ferramentas são adequadas ao porte e às necessidades da empresa?
+
+(4) Totalmente adequadas
+(3) Adequadas com oportunidades de melhoria
+(2) Parcialmente inadequadas (subdimensionadas ou superdimensionadas)
+(1) Completamente inadequadas
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se nenhuma ferramenta existir, o bloco é automaticamente Crítico.
+C2 — Se ferramentas existirem mas não forem utilizadas, não pode ultrapassar Frágil.
+C3 — Todas as ferramentas essenciais devem existir e ser utilizadas para atingir Sólido.
+C4 — Ferramentas avançadas devem existir e ser utilizadas para atingir Superior.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 4 — DOCUMENTOS ESSENCIAIS     │
+│ TOTAL DE PERGUNTAS: 5 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se o marketing possui os documentos estruturantes que organizam e orientam sua atuação, e se estão organizados, acessíveis e atualizados.
+
+LIMITE CONCEITUAL
+NÃO avalia: qualidade ou profundidade da estratégia (Eixo 1), narrativa e comunicação (Eixo 3), materiais institucionais (Eixo 3, Bloco 2), maturidade da equipe (Camada 1).
+Mede EXCLUSIVAMENTE: existência, formalização, organização, acessibilidade e atualização.
+
+REGRA: Documentos dispersos em arquivos pessoais NÃO contam como formalizados.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Documentação inexistente. Marketing opera sem registros formais.
+FRÁGIL (2): Alguns documentos existem, mas incompletos, desatualizados ou inacessíveis.
+SÓLIDO (3): Documentos estruturantes existem, estão formalizados, acessíveis e atualizados.
+SUPERIOR (4): Documentação completa (estruturantes + avançados), organizada com governança documental.
+
+
+SEÇÃO A — CHECKLISTS DE DOCUMENTOS
+
+<PERGUNTA_ID=E6B4_A1>
+DOCUMENTOS ESTRUTURANTES MÍNIMOS (requisito para Sólido)
+
+Para cada documento: ( ) Existe e formalizado  ( ) Existe informalmente  ( ) Não existe
+
+● Planejamento estratégico de marketing
+● Posicionamento de marca documentado
+● Manual de identidade visual (Brand Book)
+● Definição de ICP documentada
+● Documento de metas e KPIs de marketing
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B4_A2>
+DOCUMENTOS DE MATURIDADE AVANÇADA (requisito para Superior)
+
+Para cada documento: ( ) Existe e formalizado  ( ) Existe informalmente  ( ) Não existe
+
+● Planejamento estratégico de comunicação
+● Proposta de valor documentada
+● Guia de tom de voz
+● Documento de personas
+● Mapa da jornada do cliente
+● Manual de processos de marketing
+● Calendário editorial
+● Guia de produção de conteúdo
+● Procedimentos de campanhas
+● Procedimentos de gestão de leads
+● Procedimentos de CRM
+● Procedimentos de relatórios e análise
+</PERGUNTA_ID>
+
+SEÇÃO B — PERGUNTAS DE DIAGNÓSTICO
+
+<PERGUNTA_ID=E6B4_01>
+Qual o nível geral de estruturação da documentação de marketing?
+
+(4) Documentação completa, organizada e atualizada
+(3) Documentação majoritariamente existente e formalizada
+(2) Documentação parcial ou inconsistente
+(1) Documentação inexistente ou informal
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B4_02>
+Os documentos estão organizados em repositório institucional acessível?
+
+(4) Repositório organizado com acesso controlado e governança
+(3) Repositório existente com organização razoável
+(2) Documentos dispersos, difícil localização
+(1) Sem repositório — documentos em posse de indivíduos
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B4_03>
+Os documentos estão atualizados?
+
+(4) Atualizados com revisão periódica documentada
+(3) Majoritariamente atualizados
+(2) Desatualizados em grande parte
+(1) Sem atualização ou inexistentes
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B4_04>
+Os documentos são efetivamente utilizados pela equipe?
+
+(4) Utilizados como referência ativa no dia a dia
+(3) Utilizados com frequência razoável
+(2) Raramente consultados
+(1) Não são utilizados
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E6B4_05>
+Os documentos estão acessíveis para quem precisa utilizá-los?
+
+(4) Fácil acesso para toda a equipe relevante
+(3) Acessíveis, mas com dificuldade pontual
+(2) Acesso restrito ou difícil
+(1) Inacessíveis ou inexistentes
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se nenhum documento estruturante existir, bloco é automaticamente Crítico.
+C2 — Se documentos existirem mas não estiverem formalizados, não pode ultrapassar Frágil.
+C3 — Todos os documentos estruturantes mínimos devem existir para atingir Sólido.
+C4 — Documentos avançados devem existir para atingir Superior.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 7 — ENDOMARKETING                                     ║
+║  Pergunta do eixo: A empresa comunica cultura,               ║
+║  posicionamento e estratégia para dentro da organização?     ║
+║  TOTAL DE BLOCOS: 4                                          ║
+╚══════════════════════════════════════════════════════════════╝
+
+NOTA DE FRONTEIRA COM CAMADA 1:
+A Camada 1, Bloco 2 avalia se a organização APOIA o marketing (cultura). Este eixo avalia se existem AÇÕES ESTRUTURADAS de comunicação interna e engajamento.
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 1 — EVENTOS INTERNOS          │
+│ TOTAL DE PERGUNTAS: 5 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar existência, frequência, diversidade, qualidade e impacto de eventos internos como ferramenta de endomarketing.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existem eventos internos.
+FRÁGIL (2): Eventos esporádicos, sem planejamento ou propósito claro.
+SÓLIDO (3): Eventos recorrentes, planejados e com impacto percebido.
+SUPERIOR (4): Calendário estruturado de eventos com diversidade, qualidade e resultados mensuráveis.
+
+
+<PERGUNTA_ID=E7B1_01>
+A empresa realiza eventos internos de forma recorrente?
+
+(4) Sim, com calendário estruturado
+(3) Sim, com frequência razoável
+(2) Esporadicamente
+(1) Não realiza eventos internos
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B1_02>
+CHECKLIST DE TIPOS DE EVENTOS REALIZADOS
+
+Marque todos os que ocorrem com regularidade:
+
+● Reuniões de alinhamento estratégico (all-hands)
+● Celebrações de conquistas e marcos
+● Treinamentos e capacitações
+● Workshops ou dinâmicas de integração
+● Apresentações de resultados
+● Eventos comemorativos (datas especiais, aniversários)
+● Coffee talks ou encontros informais planejados
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B1_03>
+Os eventos internos possuem propósito claro conectado à cultura ou estratégia da empresa?
+
+(4) Sim, propósito claro e conectado à estratégia
+(3) Propósito parcialmente definido
+(2) Eventos sem propósito estratégico claro
+(1) Não aplicável
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B1_04>
+A qualidade de produção dos eventos é adequada (organização, comunicação, experiência)?
+
+(4) Alta qualidade e experiência positiva
+(3) Qualidade razoável
+(2) Qualidade baixa ou improvisada
+(1) Não aplicável
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B1_05>
+Os eventos geram impacto percebido (engajamento, alinhamento, satisfação)?
+
+(4) Impacto claro e reconhecido
+(3) Impacto parcial
+(2) Impacto mínimo ou não percebido
+(1) Não aplicável
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existem eventos internos, bloco é automaticamente Crítico.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 2 — ONBOARDING                │
+│ TOTAL DE PERGUNTAS: 7               │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se existem processos estruturados de integração para novos colaboradores, novos clientes e novos parceiros.
+
+LIMITE CONCEITUAL
+NÃO avalia documentos de onboarding como artefato (Eixo 6, Bloco 4). Avalia o PROCESSO e a EXPERIÊNCIA.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existe processo de onboarding para nenhum público.
+FRÁGIL (2): Onboarding informal ou parcial, dependente de pessoas.
+SÓLIDO (3): Processos de onboarding estruturados para os públicos relevantes.
+SUPERIOR (4): Onboarding institucionalizado, com experiência planejada e feedback coletado.
+
+
+<PERGUNTA_ID=E7B2_01>
+Existe processo de onboarding estruturado para novos colaboradores?
+
+(4) Sim, processo completo e documentado
+(3) Existe processo, mas parcialmente estruturado
+(2) Onboarding informal, dependente de quem recebe
+(1) Não existe processo de onboarding
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_02>
+O onboarding de colaboradores inclui imersão na cultura, posicionamento e estratégia da empresa?
+
+(4) Sim, com imersão estruturada
+(3) Parcialmente — alguns elementos são abordados
+(2) Superficialmente
+(1) Não inclui ou não existe onboarding
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_03>
+Existe processo de onboarding estruturado para novos clientes?
+
+(4) Sim, processo completo e documentado
+(3) Existe processo, mas parcialmente estruturado
+(2) Onboarding informal
+(1) Não existe processo de onboarding de clientes
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_04>
+Existe processo de onboarding estruturado para novos parceiros ou fornecedores?
+
+(4) Sim, processo completo e documentado
+(3) Existe processo, mas parcialmente estruturado
+(2) Onboarding informal
+(1) Não existe processo de onboarding de parceiros
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_05>
+A experiência de onboarding é planejada com intenção estratégica (primeira impressão, alinhamento, integração)?
+
+(4) Sim, experiência planejada com intenção clara
+(3) Parcialmente planejada
+(2) Sem planejamento — experiência aleatória
+(1) Não aplicável
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_06>
+Existe coleta de feedback sobre a experiência de onboarding?
+
+(4) Sim, feedback coletado e utilizado para melhorias
+(3) Feedback coletado mas sem ação consistente
+(2) Feedback eventual ou informal
+(1) Não existe coleta de feedback
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B2_07>
+O onboarding é atualizado periodicamente?
+
+(4) Sim, com revisão periódica documentada
+(3) Atualizado quando necessário
+(2) Raramente atualizado
+(1) Nunca foi atualizado ou não existe
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existe onboarding para nenhum público, bloco é automaticamente Crítico.
+C2 — Se onboarding de colaboradores não inclui cultura e posicionamento, não pode ultrapassar Frágil.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 3 — CANAIS DE COMUNICAÇÃO     │
+│ INTERNA                              │
+│ TOTAL DE PERGUNTAS: 5 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar quais canais internos a empresa utiliza e se a comunicação interna é eficiente, regular e alcança os colaboradores.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existem canais estruturados de comunicação interna.
+FRÁGIL (2): Canais informais, comunicação irregular.
+SÓLIDO (3): Canais definidos, comunicação regular e alcance adequado.
+SUPERIOR (4): Ecossistema de canais estruturado com comunicação estratégica e bidirecional.
+
+
+<PERGUNTA_ID=E7B3_01>
+A empresa possui canais estruturados de comunicação interna?
+
+(4) Estrutura completa e formal
+(3) Estrutura regular
+(2) Estrutura informal
+(1) Não possui
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B3_02>
+CHECKLIST DE CANAIS INTERNOS UTILIZADOS
+
+Marque todos os canais ativos:
+
+● E-mail institucional para comunicações internas
+● Grupo de WhatsApp/Telegram da equipe
+● Plataforma de comunicação (Slack, Teams, Discord)
+● Mural físico ou digital
+● Newsletter interna
+● Intranet ou portal interno
+● Reuniões periódicas de comunicação (all-hands)
+● TV corporativa ou display informativo
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B3_03>
+Com que frequência ocorrem comunicações institucionais internas?
+
+(4) Frequentes e estruturadas (semanal ou mais)
+(3) Frequentes porém pouco estruturadas
+(2) Ocasionalmente
+(1) Quase nunca ou nunca
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B3_04>
+As comunicações internas alcançam efetivamente os colaboradores?
+
+(4) Sim, alcance amplo e confirmado
+(3) Alcance razoável
+(2) Alcance limitado — muitos não recebem
+(1) Sem alcance efetivo
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B3_05>
+Existe comunicação bidirecional (colaboradores podem dar feedback, sugerir, questionar)?
+
+(4) Sim, canais bidirecionais estruturados
+(3) Parcialmente — há abertura mas sem canal formal
+(2) Comunicação predominantemente unidirecional
+(1) Não existe abertura para feedback
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existem canais de comunicação interna, bloco é automaticamente Crítico.
+C2 — Se canais existem mas comunicação não alcança colaboradores, não pode ultrapassar Frágil.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 4 — CONTEÚDO E COMUNICAÇÃO    │
+│ INTERNA                              │
+│ TOTAL DE PERGUNTAS: 5 + checklist   │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se existe produção de conteúdo interno dirigido aos colaboradores — comunicação de cultura, resultados, estratégia e posicionamento.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existe produção de conteúdo interno.
+FRÁGIL (2): Conteúdo esporádico, sem estratégia.
+SÓLIDO (3): Produção regular e alinhada à estratégia.
+SUPERIOR (4): Conteúdo interno estratégico, diversificado e com impacto mensurável.
+
+
+<PERGUNTA_ID=E7B4_01>
+A empresa produz conteúdo dirigido aos colaboradores de forma recorrente?
+
+(4) Sim, produção regular e planejada
+(3) Sim, com frequência razoável
+(2) Esporadicamente
+(1) Não produz conteúdo interno
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B4_02>
+CHECKLIST DE TIPOS DE CONTEÚDO INTERNO PRODUZIDOS
+
+Marque todos os que são produzidos com regularidade:
+
+● Comunicados de resultados e conquistas
+● Conteúdo sobre cultura e valores
+● Atualizações estratégicas
+● Conteúdo educativo ou de capacitação
+● Reconhecimento de pessoas/times
+● Bastidores e dia a dia da empresa
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B4_03>
+O conteúdo interno está alinhado com o posicionamento e a cultura da empresa?
+
+(4) Sim, alinhamento total e intencional
+(3) Alinhamento predominante
+(2) Alinhamento parcial ou inconsistente
+(1) Sem alinhamento ou não produz conteúdo
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B4_04>
+O conteúdo interno gera engajamento dos colaboradores (interação, feedback, compartilhamento)?
+
+(4) Alto engajamento
+(3) Engajamento razoável
+(2) Baixo engajamento
+(1) Sem engajamento ou não produz
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E7B4_05>
+Os colaboradores compreendem claramente o posicionamento da empresa a partir da comunicação interna?
+
+(4) Compreensão ampla e consistente
+(3) Compreensão razoável
+(2) Compreensão parcial
+(1) Desconhecimento generalizado
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existe produção de conteúdo interno, bloco é automaticamente Crítico.
+C2 — Se colaboradores não compreendem o posicionamento (E7B4_05 = 1), bloco não pode ultrapassar Frágil.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+════════════════════════════════════════════════════════════════
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  EIXO 8 — VENDAS                                            ║
+║  Pergunta do eixo: O processo comercial é estruturado        ║
+║  e integrado com o marketing?                                ║
+║  TOTAL DE BLOCOS: 3                                          ║
+╚══════════════════════════════════════════════════════════════╝
+
+NOTA DE FRONTEIRA COM CAMADA 1:
+A Camada 1, Bloco 7 avalia se os MECANISMOS de integração existem. Este eixo avalia se a integração FUNCIONA e gera RESULTADOS.
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 1 — FUNIL DE VENDAS           │
+│ TOTAL DE PERGUNTAS: 7               │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar a operação do funil comercial — etapas, gestão de pipeline, passagem de bastão, métricas, previsibilidade e padronização.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existe funil estruturado. Processo comercial é improvisado.
+FRÁGIL (2): Funil parcial, sem padronização. Pipeline sem gestão consistente.
+SÓLIDO (3): Funil definido com etapas claras, critérios de passagem e acompanhamento regular.
+SUPERIOR (4): Funil otimizado, com métricas, previsibilidade e melhoria contínua.
+
+
+<PERGUNTA_ID=E8B1_01>
+Existe funil de vendas com etapas claramente definidas?
+
+(4) Funil completo, documentado e utilizado
+(3) Funil definido e funcional
+(2) Funil parcial ou informal
+(1) Não existe funil definido
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_02>
+Existem critérios claros de passagem entre etapas do funil?
+
+(4) Critérios claros, documentados e aplicados
+(3) Critérios definidos e conhecidos
+(2) Critérios informais ou inconsistentes
+(1) Sem critérios de passagem
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_03>
+O pipeline é gerenciado de forma ativa e recorrente?
+
+(4) Gestão ativa e contínua com rituais definidos
+(3) Gestão regular
+(2) Gestão esporádica
+(1) Pipeline não é gerenciado
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_04>
+Existem métricas de acompanhamento do funil (taxas de conversão, tempo por etapa, volume)?
+
+(4) Métricas completas e monitoradas continuamente
+(3) Métricas principais definidas e acompanhadas
+(2) Métricas limitadas ou esporádicas
+(1) Sem métricas de funil
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_05>
+O processo comercial é padronizado (roteiro, etapas, responsáveis)?
+
+(4) Processo padronizado e documentado
+(3) Processo razoavelmente padronizado
+(2) Processo variável — depende de quem executa
+(1) Sem padronização
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_06>
+Existe previsibilidade nas vendas (capacidade de projetar resultados)?
+
+(4) Alta previsibilidade com base em dados
+(3) Previsibilidade razoável
+(2) Baixa previsibilidade
+(1) Sem previsibilidade — vendas são imprevisíveis
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B1_07>
+Existe rotina de acompanhamento do pipeline (reuniões, reviews)?
+
+(4) Rotina institucionalizada com decisões documentadas
+(3) Rotina regular
+(2) Acompanhamento esporádico
+(1) Sem rotina de acompanhamento
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existe funil definido (E8B1_01 = 1), bloco é automaticamente Crítico.
+C2 — Se não há métricas de funil (E8B1_04 = 1), não pode ultrapassar Frágil.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 2 — CROSS-SELL E UP-SELL      │
+│ TOTAL DE PERGUNTAS: 6               │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se a empresa possui estratégia estruturada de vendas adicionais para a base existente de clientes.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existe estratégia de cross-sell ou up-sell.
+FRÁGIL (2): Iniciativas pontuais, sem processo ou monitoramento.
+SÓLIDO (3): Estratégia definida, com identificação de oportunidades e execução recorrente.
+SUPERIOR (4): Estratégia institucionalizada, com processo, métricas e resultados comprovados.
+
+
+<PERGUNTA_ID=E8B2_01>
+Existe estratégia definida de cross-sell e up-sell?
+
+(4) Estratégia estruturada e documentada
+(3) Estratégia definida mas informal
+(2) Iniciativas pontuais sem estratégia clara
+(1) Não existe estratégia
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B2_02>
+A empresa identifica sistematicamente oportunidades de cross-sell e up-sell na base?
+
+(4) Sim, com processo estruturado de identificação
+(3) Identifica de forma regular
+(2) Identifica de forma pontual e reativa
+(1) Não identifica oportunidades
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B2_03>
+Existe processo de execução para cross-sell e up-sell (abordagem, oferta, acompanhamento)?
+
+(4) Processo completo e documentado
+(3) Processo razoavelmente definido
+(2) Abordagem informal e inconsistente
+(1) Sem processo
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B2_04>
+Os resultados de cross-sell e up-sell são monitorados?
+
+(4) Monitoramento contínuo com métricas claras
+(3) Monitoramento regular
+(2) Monitoramento esporádico
+(1) Sem monitoramento
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B2_05>
+Cross-sell e up-sell geram resultados percebidos para o negócio?
+
+(4) Resultados significativos e comprovados
+(3) Resultados moderados
+(2) Resultados mínimos
+(1) Sem resultados ou não existe estratégia
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B2_06>
+O time comercial está capacitado para executar cross-sell e up-sell?
+
+(4) Sim, capacitado e com argumentos claros
+(3) Parcialmente capacitado
+(2) Sem capacitação específica
+(1) Não aplicável
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não existe estratégia (E8B2_01 = 1), bloco é automaticamente Crítico.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+────────────────────────────────────────
+
+
+┌──────────────────────────────────────┐
+│ BLOCO 3 — OUTBOUND MARKETING        │
+│ TOTAL DE PERGUNTAS: 7               │
+└──────────────────────────────────────┘
+
+INTENÇÃO
+Avaliar se a empresa possui estrutura de prospecção ativa — processo, segmentação, cadências, qualificação e métricas.
+
+ESCALA DE MATURIDADE
+
+CRÍTICO (1): Não existe prospecção ativa estruturada.
+FRÁGIL (2): Prospecção pontual, sem processo ou segmentação.
+SÓLIDO (3): Prospecção com processo definido, segmentação e cadências.
+SUPERIOR (4): Prospecção otimizada com métricas, qualificação e resultados comprovados.
+
+
+<PERGUNTA_ID=E8B3_01>
+A empresa realiza prospecção ativa (outbound) de forma estruturada?
+
+(4) Sim, com processo completo e documentado
+(3) Sim, com processo razoavelmente definido
+(2) Prospecção pontual e informal
+(1) Não realiza prospecção ativa
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_02>
+Existe segmentação clara dos alvos de prospecção (listas, critérios, priorização)?
+
+(4) Segmentação clara e documentada
+(3) Segmentação razoável
+(2) Segmentação informal ou genérica
+(1) Sem segmentação
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_03>
+Existem cadências de prospecção definidas (sequência de contatos, canais, intervalos)?
+
+(4) Cadências estruturadas e documentadas
+(3) Cadências definidas de forma funcional
+(2) Abordagem informal sem cadência
+(1) Sem cadências definidas
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_04>
+A execução do outbound é consistente e recorrente?
+
+(4) Execução consistente e contínua
+(3) Execução regular com irregularidades pontuais
+(2) Execução esporádica
+(1) Sem execução ou não aplicável
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_05>
+Existe qualificação estruturada dos leads gerados via outbound?
+
+(4) Qualificação com critérios claros e processo definido
+(3) Qualificação razoável
+(2) Qualificação informal
+(1) Sem qualificação
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_06>
+Existem métricas de acompanhamento do outbound (volume, conversão, custo)?
+
+(4) Métricas completas e monitoradas
+(3) Métricas principais definidas
+(2) Métricas limitadas
+(1) Sem métricas
+</PERGUNTA_ID>
+
+<PERGUNTA_ID=E8B3_07>
+O outbound gera resultados percebidos para o negócio?
+
+(4) Resultados significativos e comprovados
+(3) Resultados moderados
+(2) Resultados mínimos
+(1) Sem resultados ou não realiza outbound
+</PERGUNTA_ID>
+
+CRITÉRIOS ABSOLUTOS:
+C1 — Se não realiza prospecção ativa (E8B3_01 = 1), o bloco deve ser avaliado como "Não aplicável" se outbound não fizer parte da estratégia ideal definida no Eixo 5. Se fizer parte e não existir, é automaticamente Crítico.
+
+CAMPOS DO CONSULTOR:
+Nota atribuída: ___
+Observação:
+Risco identificado:
+Oportunidade estratégica:
+
+
+════════════════════════════════════════════════════════════════
+SEÇÃO FINAL — CÁLCULO E CLASSIFICAÇÃO DA CAMADA 2
+════════════════════════════════════════════════════════════════
+
+
+QUADRO DE NOTAS
+
+EIXO | BLOCO | NOME                              | NOTA
+─────|───────|───────────────────────────────────|──────
+E1   | B1    | Norteadores Estratégicos           |
+E1   | B2    | Proposta Única de Valor            |
+E1   | B3    | Posicionamento Estratégico         |
+E1   | B4    | Diferenciais Competitivos          |
+E1   | B5    | Portfólio de Soluções              |
+E1   | B6    | Ecossistema de Stakeholders        |
+E2   | B1    | Identidade                         |
+E2   | B2    | Personalidade                      |
+E2   | B3    | Reputação                          |
+E3   | B1    | Narrativa                          |
+E3   | B2    | Materiais Institucionais           |
+E3   | B3    | Consistência e Padronização        |
+E3   | B4    | Conteúdo                           |
+E4   | B1    | Matriz de Mídias                   |
+E4   | B2    | Canais Online                      |
+E4   | B3    | Canais Offline                     |
+E5   | B1    | Matriz Estratégica                 |
+E6   | B1    | IA                                 |
+E6   | B2    | Integrações                        |
+E6   | B3    | Ferramentas Essenciais             |
+E6   | B4    | Documentos Essenciais              |
+E7   | B1    | Eventos Internos                   |
+E7   | B2    | Onboarding                         |
+E7   | B3    | Canais de Comunicação Interna      |
+E7   | B4    | Conteúdo e Comunicação Interna     |
+E8   | B1    | Funil de Vendas                    |
+E8   | B2    | Cross-sell e Up-sell               |
+E8   | B3    | Outbound Marketing                 |
+─────|───────|───────────────────────────────────|──────
+     |       | PONTUAÇÃO TOTAL                    |
+
+
+CLASSIFICAÇÃO POR EIXO
+
+EIXO 1 (6 blocos): ___/24 → Classificação: ___
+EIXO 2 (3 blocos): ___/12 → Classificação: ___
+EIXO 3 (4 blocos): ___/16 → Classificação: ___
+EIXO 4 (3 blocos): ___/12 → Classificação: ___
+EIXO 5 (1 bloco):  ___/4  → Classificação: ___
+EIXO 6 (4 blocos): ___/16 → Classificação: ___
+EIXO 7 (4 blocos): ___/16 → Classificação: ___
+EIXO 8 (3 blocos): ___/12 → Classificação: ___
+
+
+PONTUAÇÃO TOTAL: ___/112
+
+
+FAIXAS DE CLASSIFICAÇÃO
+
+CRÍTICO: 28 a 49 pontos (25% a 43%)
+FRÁGIL: 50 a 70 pontos (44% a 62%)
+SÓLIDO: 71 a 91 pontos (63% a 81%)
+SUPERIOR: 92 a 112 pontos (82% a 100%)
+
+
+VERIFICAÇÃO DE REGRAS DE BLOQUEIO
+
+R1 — 8 ou mais blocos Críticos → Camada = Crítico
+( ) Quantidade de blocos Críticos: ___
+
+R2 — 5 ou mais blocos Críticos → Camada não pode ultrapassar Frágil
+( ) Verificado
+
+R3 — Qualquer eixo com TODOS os blocos Críticos → Camada não pode ultrapassar Frágil
+( ) Verificado
+
+R4 — Para Superior: 0 Críticos e no máximo 3 Frágeis
+( ) Críticos: ___ | Frágeis: ___
+
+R5 — Eixo 1 ou Eixo 8 com média inferior a 2.0 → Camada não pode ultrapassar Frágil
+( ) Média Eixo 1: ___ | Média Eixo 8: ___
+
+
+CLASSIFICAÇÃO FINAL DA CAMADA 2:
+
+Pontuação total: ___
+Faixa inicial: ___
+Regras de bloqueio ativadas: ( ) Sim  ( ) Não
+CLASSIFICAÇÃO FINAL: ___
+
+Justificativa do consultor:
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

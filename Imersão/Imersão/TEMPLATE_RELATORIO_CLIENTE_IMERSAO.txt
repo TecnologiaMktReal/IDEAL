@@ -1,0 +1,650 @@
+DOCUMENTO: TEMPLATE_RELATORIO_CLIENTE_IMERSAO
+ETAPA: ETAPA_I_IMERSAO — MOMENTO 3
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este é o template do Relatório de Imersão Estratégica entregue ao cliente. É um documento executivo que comunica o cenário atual da empresa com profundidade, clareza e valor estratégico.
+
+O relatório é produzido a partir do Dossiê de Imersão (Momento 2). O consultor NÃO deve copiar respostas brutas — deve interpretar, sintetizar e apresentar as informações de forma narrativa e estratégica.
+
+REGRAS DE REDAÇÃO:
+• Linguagem profissional, clara e direta.
+• Tom consultivo — o relatório comunica compreensão, não julgamento.
+• Cada seção deve conter conteúdo substantivo, não frases genéricas.
+• O cliente deve se sentir compreendido ao ler o relatório.
+• NÃO expor mecânica interna da metodologia (nomes de roteiros, códigos de perguntas, alertas estruturais).
+• NÃO incluir premissas, hipóteses ou insumos de diagnóstico — esses são documentos internos.
+• Seções sem conteúdo suficiente devem ser sinalizadas internamente no Dossiê, mas NÃO devem aparecer vazias no relatório do cliente. Se a seção não pode ser preenchida, omitir e registrar no Dossiê como lacuna.
+
+FORMATO RECOMENDADO:
+O relatório deve ser entregue como documento formatado (DOCX ou PDF), com identidade visual da MKT Real, sumário, numeração de páginas e apresentação profissional.
+
+
+════════════════════════════════════════
+CAPA
+════════════════════════════════════════
+
+RELATÓRIO DE IMERSÃO ESTRATÉGICA
+
+[NOME DA EMPRESA]
+
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+
+Classificação: Confidencial
+
+
+════════════════════════════════════════
+SUMÁRIO EXECUTIVO
+════════════════════════════════════════
+
+Instrução: Síntese de 1 página (máximo) com os principais achados da imersão. O leitor executivo que não tem tempo de ler o relatório inteiro deve conseguir compreender o cenário a partir deste sumário.
+
+Deve conter:
+• Quem é a empresa em poucas linhas
+• Momento estratégico atual
+• Principais forças identificadas
+• Principais desafios e gargalos
+• O que este relatório contém e como será utilizado
+
+SUMÁRIO:
+
+
+════════════════════════════════════════
+CAPÍTULO 1 — HISTÓRIA
+════════════════════════════════════════
+
+Instrução: Narrativa que conta a trajetória da empresa de forma envolvente e estratégica. Não é um resumo burocrático — é a história que explica como a empresa chegou onde está.
+
+Fonte primária: ROT_HISTORIA (Seções A e D do Dossiê)
+
+
+────────────────────────────────
+1.1 — Fundação e Origem
+────────────────────────────────
+
+Como e por que a empresa nasceu. Quem fundou. Qual era a visão original. Qual problema queria resolver.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+1.2 — Momentos Decisivos
+────────────────────────────────
+
+Viradas, conquistas e desafios que moldaram a empresa. Marcos que simbolizam fases diferentes.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+1.3 — DNA Histórico
+────────────────────────────────
+
+O que permanece desde o início. A essência que resiste ao tempo. A identidade que se mantém apesar das mudanças.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+1.4 — Aprendizados Estratégicos da Trajetória
+────────────────────────────────
+
+O que a empresa aprendeu com sua própria história. Transformações que geraram maturidade. Erros que geraram sabedoria.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 2 — CULTURA ORGANIZACIONAL
+════════════════════════════════════════
+
+Instrução: Descrição da cultura como ela é vivida (não como é declarada). Conectar valores com comportamentos reais observados.
+
+Fonte primária: ROT_HISTORIA (Seções B e C do Dossiê)
+
+
+────────────────────────────────
+2.1 — Valores Inegociáveis
+────────────────────────────────
+
+Os valores que a empresa não abre mão, independente de circunstância.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+2.2 — Manifestação dos Valores na Prática
+────────────────────────────────
+
+Como os valores aparecem nas decisões do dia a dia, nos relacionamentos e no comportamento do time.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+2.3 — Cultura de Inovação
+────────────────────────────────
+
+Como a empresa lida com mudanças, experimentação e novas tecnologias.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+2.4 — Cultura Comercial
+────────────────────────────────
+
+Como a empresa enxerga a atividade de venda. Se é valorizada, estruturada ou dependente de esforço individual.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+2.5 — Cultura de Marketing
+────────────────────────────────
+
+Como a empresa historicamente tratou o marketing. Percepção interna. Investimentos anteriores.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+2.6 — Estilo de Liderança
+────────────────────────────────
+
+Como a liderança toma decisões, se relaciona com o time e conduz o negócio.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 3 — CONTEXTO DE NEGÓCIO
+════════════════════════════════════════
+
+Instrução: Panorama completo do negócio como ele opera hoje. Visão de helicóptero que conecta estrutura, modelo, cenário e desafios.
+
+Fonte primária: ROT_MODELO (Dossiê completo)
+
+
+────────────────────────────────
+3.1 — Identificação
+────────────────────────────────
+
+Dados cadastrais: nome, segmento, localização, fundação, porte, tipo de negócio.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.2 — Quem é a Empresa
+────────────────────────────────
+
+Síntese executiva: o que a empresa faz, para quem, como e por que é relevante.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.3 — Estrutura Organizacional Resumida
+────────────────────────────────
+
+Principais áreas, número de colaboradores, organização interna.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.4 — Papéis Estratégicos
+────────────────────────────────
+
+Pessoas-chave e seus papéis nas decisões do negócio.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.5 — Ativos Estratégicos da Empresa
+────────────────────────────────
+
+Ativos tangíveis e intangíveis que sustentam a vantagem competitiva (patentes, certificações, base de clientes, know-how, contratos-chave).
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.6 — Segmentos Mais Atendidos
+────────────────────────────────
+
+Quais setores e perfis de empresa a organização atende predominantemente.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.7 — Contexto Estratégico
+────────────────────────────────
+
+Objetivos prioritários, metas definidas e direcionamento estratégico para os próximos 12 meses.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.8 — Gargalos e Restrições do Negócio
+────────────────────────────────
+
+Limitações operacionais, financeiras ou estruturais que restringem o crescimento.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.9 — Modelo de Negócio Atual
+────────────────────────────────
+
+Como a empresa gera valor: proposta de valor, atividades-chave, recursos, parcerias, estrutura de custos e fontes de receita.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.10 — Cenário Atual
+────────────────────────────────
+
+Momento da empresa: crescimento, estabilidade, crise ou transição. Como a empresa descreve seu próprio momento.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.11 — Evolução Planejada do Modelo
+────────────────────────────────
+
+Como a empresa enxerga o modelo de negócio daqui a 2-3 anos. Planos de evolução, diversificação ou transformação.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+3.12 — Principal Desafio
+────────────────────────────────
+
+O maior desafio do negócio como um todo neste momento.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 4 — PROPOSTA DE VALOR E POSICIONAMENTO ESTRATÉGICO
+════════════════════════════════════════
+
+Instrução: Articular a proposta de valor e o posicionamento como o consultor os compreendeu — não apenas repetir o que o cliente disse, mas interpretar e organizar estrategicamente.
+
+Fonte primária: ROT_PORTFOLIO (Seções B e D do Dossiê)
+
+
+────────────────────────────────
+4.1 — Proposta de Valor
+────────────────────────────────
+
+O que a empresa entrega ao cliente. A promessa central.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.2 — Dimensões Estruturais
+────────────────────────────────
+
+Benefícios tangíveis e intangíveis. Para quem. Por que é diferente.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.3 — Tese Central do Negócio
+────────────────────────────────
+
+A crença fundamental que orienta o negócio.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.4 — Diferenciais Competitivos
+────────────────────────────────
+
+O que diferencia a empresa da concorrência. Sustentabilidade desses diferenciais.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.5 — Por Que o Cliente Escolhe a Empresa
+────────────────────────────────
+
+Os fatores decisivos na escolha, segundo a perspectiva da empresa e a análise do consultor.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.6 — Posicionamento Estratégico
+────────────────────────────────
+
+Como a empresa quer ser percebida pelo mercado. Posição desejada vs posição atual.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+4.7 — Síntese do Posicionamento: Pilares Estratégicos
+────────────────────────────────
+
+Os 3 pilares que sustentam o posicionamento.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 5 — SERVIÇOS E PRODUTOS
+════════════════════════════════════════
+
+Instrução: Mapa do portfólio com visão estratégica — não uma lista de serviços, mas uma análise de como cada solução se encaixa no todo.
+
+Fonte primária: ROT_PORTFOLIO (Seções A, C e E do Dossiê)
+
+
+────────────────────────────────
+5.1 — Estrutura Atual das Ofertas
+────────────────────────────────
+
+Visão consolidada do portfólio: cada solução com seu papel estratégico (core, entrada, upsell, retenção), relevância financeira, dor que resolve (JTBD) e prioridade para marketing.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 6 — MERCADO
+════════════════════════════════════════
+
+Instrução: Panorama do ambiente externo que contextualiza as decisões estratégicas. Combinar percepção do cliente com pesquisa do consultor.
+
+Fonte primária: ROT_MERCADO + Pesquisa Preliminar do Consultor
+
+
+────────────────────────────────
+6.1 — Forças Influenciadoras
+────────────────────────────────
+
+Regulações, tecnologia, economia, comportamento do consumidor e outras forças que moldam o mercado.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+6.2 — Estrutura do Mercado
+────────────────────────────────
+
+Fragmentação, concentração, principais players, dinâmica competitiva.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+6.3 — Tendência Estrutural do Mercado
+────────────────────────────────
+
+Para onde o mercado está caminhando nos próximos 2-5 anos.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+6.4 — Oportunidades e Lacunas
+────────────────────────────────
+
+O que o mercado ainda não explora bem. Lacunas que a empresa poderia preencher.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+6.5 — Principais Concorrentes
+────────────────────────────────
+
+Quem são, como se posicionam, em que são fortes, em que são fracos em relação à empresa.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 7 — PÚBLICO-ALVO, STAKEHOLDERS E ICP
+════════════════════════════════════════
+
+Instrução: Mapa completo de quem a empresa atende e deveria atender. Visão que conecta ICP, decisores, jornada, dores e motivações.
+
+Fonte primária: ROT_PUBLICO
+
+
+────────────────────────────────
+7.1 — Mapa do ICP
+────────────────────────────────
+
+Visão consolidada do perfil ideal de cliente.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.2 — Perfil Ideal de Cliente (ICP)
+────────────────────────────────
+
+Detalhamento do ICP: porte, segmento, maturidade, localização, características.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.3 — Setores Industriais Mais Aderentes
+────────────────────────────────
+
+Quais setores possuem maior aderência às soluções da empresa.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.4 — Grau de Maturidade das Empresas
+────────────────────────────────
+
+Perfil de maturidade típico das empresas que contratam.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.5 — Gatilho Econômico de Contratação
+────────────────────────────────
+
+O que leva uma empresa a buscar a solução. Gatilhos econômicos ou situacionais.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.6 — Mapa dos Decisores
+────────────────────────────────
+
+Quem são as pessoas envolvidas na decisão. Decisor final, influenciadores, possíveis vetos.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.7 — Jornada de Compra
+────────────────────────────────
+
+Processo típico desde a percepção da necessidade até a contratação. Ciclo médio de venda.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.8 — Clientes
+────────────────────────────────
+
+Clientes mais representativos da base atual e por que são representativos.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.9 — Dores Principais
+────────────────────────────────
+
+As dores mais críticas que os clientes enfrentam antes de procurar a empresa.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+7.10 — Principais Motivações
+────────────────────────────────
+
+O que motiva o cliente a agir agora. O que faz ele resolver o problema em vez de adiar.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 8 — COMERCIAL
+════════════════════════════════════════
+
+Instrução: Radiografia da operação comercial atual. Processos, pessoas, ferramentas, funil e desafios.
+
+Fonte primária: ROT_MKTVENDAS (Seções A a D do Dossiê)
+
+
+────────────────────────────────
+8.1 — Processo Comercial Atual
+────────────────────────────────
+
+Como ocorre a venda do primeiro contato ao fechamento.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.2 — Pessoas Envolvidas no Processo Comercial
+────────────────────────────────
+
+Quem participa, cargos e responsabilidades.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.3 — Características Principais
+────────────────────────────────
+
+Forças da operação comercial. O que funciona bem.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.4 — Estrutura Típica de Decisão no Cliente
+────────────────────────────────
+
+Como o cliente da empresa toma a decisão de compra internamente.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.5 — Natureza da Venda
+────────────────────────────────
+
+Consultiva, transacional, técnica. Complexidade. Ticket médio. Ciclo.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.6 — CRM e Gestão do Pipeline
+────────────────────────────────
+
+Se existe CRM, se é utilizado, se está configurado, como o pipeline é gerenciado.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.7 — Funil de Vendas
+────────────────────────────────
+
+Etapas do funil, critérios de passagem, taxas de conversão (se disponíveis).
+
+CONTEÚDO:
+
+
+────────────────────────────────
+8.8 — Principais Desafios Comerciais
+────────────────────────────────
+
+Gargalos, fragilidades e o problema central identificado.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+CAPÍTULO 9 — MARKETING
+════════════════════════════════════════
+
+Instrução: Panorama do marketing atual — canais, geração de oportunidades e cenário geral.
+
+Fonte primária: ROT_MKTVENDAS (Seções E e F do Dossiê)
+
+
+────────────────────────────────
+9.1 — Canais Utilizados
+────────────────────────────────
+
+Quais canais de marketing estão ativos, com qual intensidade e qual resultado percebido.
+
+CONTEÚDO:
+
+
+────────────────────────────────
+9.2 — Geração de Oportunidades
+────────────────────────────────
+
+Como as oportunidades comerciais são geradas hoje. Proporção entre indicação, prospecção e inbound.
+
+CONTEÚDO:
+
+
+════════════════════════════════════════
+PRÓXIMOS PASSOS
+════════════════════════════════════════
+
+Instrução: Seção final que conecta a Imersão ao Diagnóstico. Comunicar ao cliente o que vem a seguir.
+
+CONTEÚDO SUGERIDO:
+
+Este relatório consolida a compreensão do cenário atual da [NOME DA EMPRESA], construída a partir de [número] entrevistas realizadas com [stakeholders entrevistados] entre [datas].
+
+As informações e percepções aqui registradas servirão como base para a próxima etapa da metodologia IDEAL: o Diagnóstico de Maturidade e Avaliação Real do Marketing, onde analisaremos em profundidade as condições estruturais e a maturidade das práticas de marketing da empresa.
+
+O diagnóstico será conduzido pelo consultor com base nas evidências coletadas nesta imersão, complementadas por análises técnicas, verificações documentais e avaliações práticas.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

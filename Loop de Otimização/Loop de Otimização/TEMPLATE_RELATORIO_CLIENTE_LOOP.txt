@@ -1,0 +1,337 @@
+DOCUMENTO: TEMPLATE_RELATORIO_CLIENTE_LOOP
+ETAPA: ETAPA_L_LOOP_DE_OTIMIZACOES
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este template serve para dois momentos:
+
+1. RELATÓRIO INICIAL DO LOOP: Apresenta ao cliente o sistema de acompanhamento, o calendário, os KPIs e a agenda de rediagnósticos. Entregue no início da execução.
+
+2. RELATÓRIOS PERIÓDICOS DE EVOLUÇÃO: Produzidos a cada rediagnóstico, mostrando a evolução comparativa.
+
+REGRAS DE REDAÇÃO:
+• Linguagem clara e visual — o cliente deve ver a evolução de forma imediata.
+• Celebrar evoluções genuínas — o progresso motiva.
+• Ser honesto sobre estagnações — sem inflar resultados.
+• Cada relatório de evolução deve gerar no cliente a sensação de: "sei exatamente onde melhorei, onde estagnei e o que fazer agora."
+
+
+════════════════════════════════════════
+PARTE A — RELATÓRIO INICIAL DO LOOP
+(entregue no início da execução)
+════════════════════════════════════════
+
+
+────────────────────────────────
+CAPA
+────────────────────────────────
+
+SISTEMA DE ACOMPANHAMENTO E OTIMIZAÇÃO
+
+[NOME DA EMPRESA]
+
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+
+Classificação: Confidencial
+
+
+────────────────────────────────
+1 — O QUE É O LOOP
+────────────────────────────────
+
+Instrução: Explicar ao cliente o conceito do Loop em linguagem acessível.
+
+CONTEÚDO SUGERIDO:
+
+O Loop de Otimizações é o sistema que garante que o plano de marketing da [EMPRESA] evolua continuamente — e não fique parado no papel.
+
+Ele funciona em dois níveis: acompanhamento contínuo (monitoramento semanal/mensal de indicadores e ajustes táticos) e reavaliação periódica (reaplicação do diagnóstico completo para medir a evolução real da maturidade do marketing).
+
+A cada ciclo, analisamos o que funcionou, o que não funcionou e por quê — e ajustamos o plano com base em evidências reais, não em suposições.
+
+
+────────────────────────────────
+2 — CALENDÁRIO DE ACOMPANHAMENTO
+────────────────────────────────
+
+Instrução: Apresentar o calendário completo dos próximos [N] meses de forma visual.
+
+MÊS | EVENTOS
+────|──────────────────────────────────────────
+1   |
+2   |
+3   |
+4   |
+5   |
+6   |
+7   |
+8   |
+9   |
+10  |
+11  |
+12  |
+
+
+────────────────────────────────
+3 — KPIs DE ACOMPANHAMENTO
+────────────────────────────────
+
+Instrução: Apresentar os KPIs que serão monitorados, organizados por nível.
+
+KPIs ESTRATÉGICOS (resultados do negócio):
+
+KPI | META | FREQUÊNCIA DE MEDIÇÃO
+
+
+KPIs TÁTICOS (desempenho do marketing):
+
+KPI | META | FREQUÊNCIA DE MEDIÇÃO
+
+
+KPIs OPERACIONAIS (produtividade e qualidade):
+
+KPI | META | FREQUÊNCIA DE MEDIÇÃO
+
+
+KPIs DE EVOLUÇÃO DE MATURIDADE:
+
+INDICADOR | BASELINE (DIAGNÓSTICO INICIAL) | META
+
+
+────────────────────────────────
+4 — AGENDA DE REDIAGNÓSTICOS
+────────────────────────────────
+
+REDIAGNÓSTICO #1: Data prevista: ___
+REDIAGNÓSTICO #2: Data prevista: ___
+(Adicionar conforme horizonte)
+
+
+────────────────────────────────
+5 — RITUAIS DE ALINHAMENTO
+────────────────────────────────
+
+RITUAL                  | FREQUÊNCIA | PARTICIPANTES     | DURAÇÃO
+Alinhamento operacional  |            |                   |
+Review de KPIs           |            |                   |
+Review de fase           |            |                   |
+Review estratégico       |            |                   |
+
+
+════════════════════════════════════════
+PARTE B — RELATÓRIO DE EVOLUÇÃO
+(produzido a cada rediagnóstico)
+════════════════════════════════════════
+
+
+────────────────────────────────
+CAPA
+────────────────────────────────
+
+RELATÓRIO DE EVOLUÇÃO — REDIAGNÓSTICO #___
+
+[NOME DA EMPRESA]
+
+Período avaliado: [data inicial] a [data do rediagnóstico]
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+
+
+────────────────────────────────
+1 — SUMÁRIO EXECUTIVO
+────────────────────────────────
+
+Instrução: 1 página com a visão geral da evolução — de onde partiu, onde chegou, principais evoluções e estagnações.
+
+SUMÁRIO:
+
+
+────────────────────────────────
+2 — EVOLUÇÃO DA MATURIDADE ESTRUTURAL (CAMADA 1)
+────────────────────────────────
+
+CLASSIFICAÇÃO ANTERIOR: ___ (___/64 pontos)
+CLASSIFICAÇÃO ATUAL: ___ (___/64 pontos)
+EVOLUÇÃO: ___
+
+RÉGUA DE EVOLUÇÃO:
+
+[REATIVO]————[OPERACIONAL]————[ESTRUTURADO]————[ESTRATÉGICO]
+    ▲ antes          ▲ agora
+
+COMPARATIVO POR BLOCO:
+
+BLOCO                              | ANTES | AGORA | EVOLUÇÃO
+──────────────────────────────────|───────|───────|──────────
+1. Mentalidade da Liderança        |       |       |
+2. Engajamento Organizacional      |       |       |
+3. Autonomia e Estrutura Decisória |       |       |
+4. Cultura Orçamentária            |       |       |
+5. Planejamento e Alinhamento      |       |       |
+6. Estrutura e Processos           |       |       |
+7. Integração Intersetorial        |       |       |
+8. Governança de Ativos            |       |       |
+9. Capacidade Técnica              |       |       |
+10. Accountability                 |       |       |
+
+RADAR COMPARATIVO:
+[Inserir gráfico radar com antes (cinza) e agora (cor) sobrepostos]
+
+O QUE EVOLUIU E POR QUÊ:
+•
+•
+
+O QUE ESTAGNOU E POR QUÊ:
+•
+•
+
+DISTÂNCIA AO PRÓXIMO NÍVEL (atualizada):
+•
+
+CONDIÇÕES PARA CONTINUAR EVOLUINDO:
+1.
+2.
+3.
+
+
+────────────────────────────────
+3 — EVOLUÇÃO DA MATURIDADE PRÁTICA (CAMADA 2)
+────────────────────────────────
+
+CLASSIFICAÇÃO ANTERIOR: ___ (___/112 pontos)
+CLASSIFICAÇÃO ATUAL: ___ (___/112 pontos)
+EVOLUÇÃO: ___
+
+RÉGUA DE EVOLUÇÃO:
+
+[CRÍTICO]————[FRÁGIL]————[SÓLIDO]————[SUPERIOR]
+    ▲ antes          ▲ agora
+
+COMPARATIVO POR EIXO:
+
+EIXO                          | ANTES | AGORA | EVOLUÇÃO
+─────────────────────────────|───────|───────|──────────
+1. Estratégia Competitiva     |       |       |
+2. Branding                   |       |       |
+3. Comunicação                |       |       |
+4. Canais e Mídias            |       |       |
+5. Aplicações Estratégicas    |       |       |
+6. Setup de Marketing         |       |       |
+7. Endomarketing              |       |       |
+8. Vendas                     |       |       |
+
+RADAR COMPARATIVO:
+[Inserir gráfico radar com antes e agora sobrepostos]
+
+O QUE EVOLUIU E POR QUÊ:
+•
+•
+
+O QUE ESTAGNOU E POR QUÊ:
+•
+•
+
+CONDIÇÕES PARA CONTINUAR EVOLUINDO:
+1.
+2.
+3.
+
+
+────────────────────────────────
+4 — MATRIZ DE MATURIDADE CRUZADA (EVOLUÇÃO)
+────────────────────────────────
+
+POSIÇÃO ANTERIOR: [Camada 1: ___] × [Camada 2: ___]
+POSIÇÃO ATUAL: [Camada 1: ___] × [Camada 2: ___]
+
+[Inserir matriz visual com ponto anterior e ponto atual — mostrando a trajetória]
+
+INTERPRETAÇÃO DA EVOLUÇÃO:
+
+
+────────────────────────────────
+5 — EVOLUÇÃO DOS KPIs
+────────────────────────────────
+
+KPIs ESTRATÉGICOS:
+
+KPI | BASELINE | META | RESULTADO ATUAL | STATUS
+
+
+KPIs TÁTICOS:
+
+KPI | BASELINE | META | RESULTADO ATUAL | STATUS
+
+
+────────────────────────────────
+6 — LIÇÕES DO CICLO
+────────────────────────────────
+
+Instrução: Resumo das principais lições dos Marcos de Aprendizado do período.
+
+O QUE FUNCIONOU:
+•
+•
+
+O QUE NÃO FUNCIONOU:
+•
+•
+
+O QUE APRENDEMOS:
+•
+•
+
+
+────────────────────────────────
+7 — RECOMENDAÇÕES ATUALIZADAS
+────────────────────────────────
+
+Instrução: Novas recomendações derivadas do rediagnóstico e dos aprendizados do ciclo.
+
+1.
+2.
+3.
+4.
+5.
+
+
+────────────────────────────────
+8 — AJUSTES NO PLANO
+────────────────────────────────
+
+Instrução: Mudanças concretas incorporadas ao plano de ação como resultado deste ciclo.
+
+AÇÕES ADICIONADAS:
+•
+•
+
+AÇÕES REMOVIDAS OU REPRIORIZADAS:
+•
+•
+
+METAS AJUSTADAS:
+•
+•
+
+VERBA AJUSTADA: ( ) Sim  ( ) Não
+Se sim:
+
+
+────────────────────────────────
+9 — PRÓXIMO CICLO
+────────────────────────────────
+
+PRÓXIMO REDIAGNÓSTICO PREVISTO: ___
+FOCO DO PRÓXIMO CICLO:
+METAS PRIORITÁRIAS:
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

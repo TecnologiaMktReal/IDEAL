@@ -1,0 +1,176 @@
+DOCUMENTO: MANUAL_METODOLOGICO_ESTRUTURA
+ETAPA: ETAPA_E_ESTRUTURA
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+════════════════════════════════════════
+SEÇÃO 1 — PROPÓSITO DA ETAPA
+════════════════════════════════════════
+
+
+OBJETIVO
+
+A Estrutura é a terceira etapa da metodologia IDEAL.
+
+Seu propósito é mapear a infraestrutura atual do setor de marketing do cliente e recomendar a infraestrutura ideal para que o marketing opere com qualidade, eficiência e sustentabilidade — considerando o porte, a maturidade e os objetivos da empresa.
+
+A Etapa E responde a duas perguntas:
+1. O que o setor de marketing tem hoje em termos de infraestrutura?
+2. O que deveria ter para operar no nível que o negócio precisa?
+
+A etapa produz um relatório para o cliente com recomendações concretas e opções de implementação, e gera os insumos para a construção do plano de ação na Etapa A.
+
+
+VALOR PARA O CLIENTE
+
+O cliente recebe um mapa claro e acionável do que precisa construir para que o marketing funcione. Não é uma lista genérica — é uma recomendação calibrada pelo diagnóstico, com opções que respeitam a realidade financeira e operacional da empresa.
+
+Para empresas B2B técnicas com maturidade baixa, esta etapa frequentemente revela que o marketing não funciona não por falta de estratégia, mas por falta de infraestrutura básica: não há equipe, não há ferramentas, não há documentos, nada é rastreado. A Etapa E torna isso visível e apresenta o caminho de solução.
+
+
+PRINCÍPIO FUNDAMENTAL
+
+As recomendações devem ser realistas e calibradas pelo diagnóstico. Recomendar infraestrutura que a empresa não tem condições de sustentar (por maturidade ou orçamento) é gerar frustração, não valor. Por isso, cada dimensão apresenta 3 cenários: mínimo viável, recomendado e ideal.
+
+
+════════════════════════════════════════
+SEÇÃO 2 — ESTRUTURA DA ETAPA
+════════════════════════════════════════
+
+
+A Etapa E avalia 5 dimensões de infraestrutura. Para cada dimensão, o consultor executa 4 atividades:
+
+1. MAPEAR O CENÁRIO ATUAL — o que existe hoje.
+2. DEFINIR O CENÁRIO IDEAL — o que deveria existir, calibrado pelo perfil da empresa.
+3. IDENTIFICAR OS GAPS — o que falta.
+4. RECOMENDAR COM OPÇÕES — o que fazer, em 3 cenários de investimento.
+
+
+DIMENSÕES AVALIADAS:
+
+DIMENSÃO 1 — EQUIPE
+Quem opera o marketing. Cargos, funções, competências, dedicação, modelo (interno, terceirizado, híbrido).
+
+DIMENSÃO 2 — DOCUMENTOS
+Quais documentos estruturam e orientam o marketing. Existência, formalização, organização, acessibilidade.
+
+DIMENSÃO 3 — TECNOLOGIA
+Quais ferramentas sustentam a execução. Existência, configuração, uso efetivo, adequação.
+
+DIMENSÃO 4 — INTEGRAÇÕES
+Como as ferramentas se conectam. Fluxo de dados entre sistemas, rastreabilidade, automações.
+
+DIMENSÃO 5 — RASTREAMENTOS
+O que é medido e como. Pixels, UTMs, analytics, eventos, conversões, atribuição.
+
+
+════════════════════════════════════════
+SEÇÃO 3 — CENÁRIOS DE RECOMENDAÇÃO
+════════════════════════════════════════
+
+
+Para cada dimensão, o consultor apresenta 3 cenários:
+
+CENÁRIO MÍNIMO VIÁVEL
+O que é absolutamente indispensável para o marketing funcionar minimamente. O menor investimento que gera resultado. Indicado para empresas com orçamento muito restrito ou em estágio inicial de estruturação.
+
+CENÁRIO RECOMENDADO
+O que o consultor considera adequado para o perfil, porte e objetivos da empresa. Equilíbrio entre investimento e resultado. Este é o cenário que o consultor defende como ideal na relação custo-benefício.
+
+CENÁRIO IDEAL
+A infraestrutura completa para um marketing de alta performance. Representa o máximo potencial de estruturação. Indicado para empresas com ambição de excelência e capacidade de investimento.
+
+O cliente escolhe qual cenário implementar. O plano de ação (Etapa A) será construído com base na escolha do cliente.
+
+
+════════════════════════════════════════
+SEÇÃO 4 — FONTES DE INFORMAÇÃO
+════════════════════════════════════════
+
+
+A Etapa E NÃO exige coleta adicional de dados. Todas as informações necessárias já foram coletadas nas etapas anteriores:
+
+DIMENSÃO 1 — EQUIPE
+← Imersão: ROT_MKTVENDAS (pessoas no processo, equipe atual)
+← Diagnóstico: Camada 1, Bloco 9 (Capacidade Técnica), Bloco 6 (Estrutura e Processos)
+
+DIMENSÃO 2 — DOCUMENTOS
+← Diagnóstico: Camada 2, Eixo 6, Bloco 4 (Documentos Essenciais — checklists já preenchidos)
+
+DIMENSÃO 3 — TECNOLOGIA
+← Imersão: ROT_MKTVENDAS (ferramentas utilizadas)
+← Diagnóstico: Camada 2, Eixo 6, Bloco 3 (Ferramentas Essenciais — checklists já preenchidos)
+
+DIMENSÃO 4 — INTEGRAÇÕES
+← Diagnóstico: Camada 2, Eixo 6, Bloco 2 (Integrações — checklist já preenchido)
+
+DIMENSÃO 5 — RASTREAMENTOS
+← Diagnóstico: Camada 2, Eixo 4 (Canais e Mídias — análise técnica)
+← Diagnóstico: Camada 2, Eixo 6, Bloco 2 (Integrações — rastreabilidade)
+← Análise técnica do consultor sobre o setup de analytics e tracking
+
+NOTA: Se o consultor identificar lacunas de informação para alguma dimensão, pode fazer verificação complementar pontual. Mas a Etapa E não deve gerar uma nova rodada de entrevistas.
+
+
+════════════════════════════════════════
+SEÇÃO 5 — ENTREGÁVEIS
+════════════════════════════════════════
+
+
+A Etapa E produz 2 entregáveis:
+
+1. FORMULÁRIO DE ESTRUTURA (documento interno)
+Instrumento de trabalho do consultor com o mapeamento atual, cenário ideal e gaps de cada dimensão.
+
+2. RELATÓRIO DO CLIENTE DE ESTRUTURA (documento externo)
+Relatório apresentável com dashboard geral, detalhamento por dimensão, opções de cenário, priorização e estimativa de investimento.
+
+
+════════════════════════════════════════
+SEÇÃO 6 — CONEXÃO COM AS DEMAIS ETAPAS
+════════════════════════════════════════
+
+
+O QUE A ETAPA E RECEBE:
+
+Da Imersão (Etapa I):
+• Dossiê com informações sobre equipe atual, ferramentas, modelo de negócio e complexidade operacional.
+
+Do Diagnóstico (Etapa D):
+• Camada 1: classificação dos Blocos 6 (Processos), 8 (Governança de Ativos) e 9 (Capacidade Técnica).
+• Camada 2: classificação do Eixo 6 completo (IA, Integrações, Ferramentas, Documentos).
+• Checklists preenchidos de ferramentas, documentos e integrações.
+• Gaps identificados em cada bloco.
+
+
+O QUE A ETAPA E ENTREGA:
+
+Para a Arquitetura (Etapa A):
+• Cenário escolhido pelo cliente (mínimo, recomendado ou ideal) para cada dimensão.
+• Lista de ações de implementação priorizadas (insumo direto para o plano de ação).
+• Estimativa de investimento por dimensão (insumo para recomendação de verba).
+
+Para o Loop (Etapa L):
+• Baseline de infraestrutura (para medir evolução nas reavaliações).
+• Lista de implementações planejadas (marcos de verificação).
+
+
+════════════════════════════════════════
+SEÇÃO 7 — GOVERNANÇA
+════════════════════════════════════════
+
+
+A Etapa E é considerada CONCLUÍDA quando:
+• As 5 dimensões foram mapeadas (cenário atual).
+• O cenário ideal foi definido para cada dimensão.
+• Os gaps foram identificados.
+• Os 3 cenários de recomendação foram apresentados ao cliente.
+• O cliente fez sua escolha (ou sinalizou qual cenário pretende seguir).
+• O relatório do cliente está finalizado.
+• Os insumos para a Etapa A estão organizados.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

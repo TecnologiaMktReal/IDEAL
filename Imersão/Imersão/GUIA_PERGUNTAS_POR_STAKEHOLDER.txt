@@ -1,0 +1,502 @@
+DOCUMENTO: GUIA_DE_PERGUNTAS_POR_STAKEHOLDER
+ETAPA: ETAPA_I_IMERSAO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+OBJETIVO
+
+Este documento organiza as 152 perguntas dos roteiros de imersão pela perspectiva do stakeholder — ou seja, agrupa todas as perguntas que devem ser feitas a cada perfil de entrevistado, independente do roteiro de origem.
+
+O consultor deve usar este documento para preparar cada entrevista individual, garantindo que todas as perguntas relevantes para aquele stakeholder sejam cobertas em uma única sessão (ou no menor número possível de sessões).
+
+COMO USAR ESTE DOCUMENTO
+
+1. No Momento 1 (Planejamento), o consultor identifica quais stakeholders estão disponíveis.
+2. Consulta o cenário de aplicação compatível (Seção 1).
+3. Monta o guia de cada entrevista usando as seções de stakeholder correspondentes (Seção 2).
+4. As perguntas marcadas como NUCLEO_ESSENCIAL devem ser priorizadas. As COMPLEMENTAR podem ser cortadas se o tempo for insuficiente.
+
+
+════════════════════════════════════════
+SEÇÃO 1 — CENÁRIOS DE APLICAÇÃO
+════════════════════════════════════════
+
+
+────────────────────────────────
+CENÁRIO A — MÍNIMO VIÁVEL (2 stakeholders)
+────────────────────────────────
+
+Quando o consultor consegue acesso apenas ao CEO e a mais uma pessoa.
+
+STAKEHOLDER 1: CEO / Sócio-fundador
+Assume os roteiros: ROT_HISTORIA + ROT_MODELO + ROT_PORTFOLIO + ROT_MERCADO + ROT_PUBLICO (parcial)
+Sessões estimadas: 2 a 3 sessões de 90 minutos
+Foco: NUCLEO_ESSENCIAL de todos os roteiros acima
+
+STAKEHOLDER 2: Responsável por Marketing e/ou Vendas
+Assume os roteiros: ROT_MKTVENDAS + ROT_PUBLICO (parcial)
+Sessões estimadas: 1 a 2 sessões de 90 minutos
+Foco: NUCLEO_ESSENCIAL + perguntas de triangulação com CEO
+
+COBERTURA ESTIMADA: 70-80% do relatório
+LACUNAS PROVÁVEIS: profundidade em cultura (falta visão do colaborador), profundidade em público e jornada (falta visão operacional do comercial)
+AÇÃO: registrar lacunas no Dossiê e buscar complementar com análise documental e observação.
+
+
+────────────────────────────────
+CENÁRIO B — PADRÃO (3-4 stakeholders)
+────────────────────────────────
+
+Quando o consultor consegue acesso ao CEO, ao comercial e a pelo menos mais uma pessoa.
+
+STAKEHOLDER 1: CEO / Sócio-fundador
+Roteiros: ROT_HISTORIA + ROT_MODELO + ROT_MERCADO (parcial)
+Sessões estimadas: 2 sessões de 60-90 minutos
+
+STAKEHOLDER 2: Diretor Comercial / Vendas
+Roteiros: ROT_PUBLICO + ROT_PORTFOLIO + ROT_MERCADO (parcial)
+Sessões estimadas: 1 a 2 sessões de 60-90 minutos
+
+STAKEHOLDER 3: Responsável por Marketing
+Roteiros: ROT_MKTVENDAS
+Sessões estimadas: 1 sessão de 90-120 minutos
+
+STAKEHOLDER 4 (se disponível): Colaborador antigo / RH
+Roteiros: ROT_HISTORIA (complementar — triangulação de cultura)
+Sessões estimadas: 1 sessão de 30-45 minutos
+
+COBERTURA ESTIMADA: 85-95% do relatório
+LACUNAS PROVÁVEIS: detalhes financeiros (se não houver acesso ao diretor financeiro)
+
+
+────────────────────────────────
+CENÁRIO C — IDEAL (5-6 stakeholders)
+────────────────────────────────
+
+STAKEHOLDER 1: CEO / Sócio-fundador
+Roteiros: ROT_HISTORIA + ROT_MODELO (Seções A, B, E, F)
+Sessões: 2 sessões de 60-90 minutos
+
+STAKEHOLDER 2: Diretor de Operações
+Roteiros: ROT_MODELO (Seções B, C, D)
+Sessões: 1 sessão de 60 minutos
+
+STAKEHOLDER 3: Diretor Comercial / Vendas
+Roteiros: ROT_PUBLICO + ROT_PORTFOLIO + ROT_MERCADO
+Sessões: 2 sessões de 60-90 minutos
+
+STAKEHOLDER 4: Responsável por Marketing
+Roteiros: ROT_MKTVENDAS
+Sessões: 1 sessão de 90-120 minutos
+
+STAKEHOLDER 5: Diretor Financeiro
+Roteiros: ROT_MODELO (Seções C e D — custos, receita, orçamento)
+Sessões: 1 sessão de 30-45 minutos
+
+STAKEHOLDER 6: Colaborador antigo / RH
+Roteiros: ROT_HISTORIA (Seções B e C — triangulação de cultura)
+Sessões: 1 sessão de 30-45 minutos
+
+COBERTURA ESTIMADA: 100% do relatório
+TRIANGULAÇÕES POSSÍVEIS: cultura (CEO vs colaborador), marketing (responsável vs CEO), público (comercial vs CEO), mercado (CEO vs comercial)
+
+
+════════════════════════════════════════
+SEÇÃO 2 — PERGUNTAS POR STAKEHOLDER
+════════════════════════════════════════
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: CEO / SÓCIO-FUNDADOR  ║
+╚══════════════════════════════════════╝
+
+PAPEL: Principal fonte de informação sobre história, cultura, modelo de negócio, visão estratégica, objetivos e contexto geral.
+ENTREVISTAS ESTIMADAS: 2-3 sessões de 60-90 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 82 (49 NUCLEO + 33 COMPLEMENTAR)
+
+
+────────────────────────────────
+BLOCO 1 — HISTÓRIA E CULTURA (ROT_HISTORIA completo)
+Sessão recomendada: 1ª entrevista
+────────────────────────────────
+
+SEÇÃO A — HISTÓRIA E ORIGEM
+
+[R1_01] NUCLEO — Como e por que a empresa nasceu?
+[R1_02] NUCLEO — Qual era o principal problema ou necessidade que vocês queriam resolver no mercado?
+[R1_03] NUCLEO — Quem fundou a empresa e qual era a visão inicial?
+[R1_04] NUCLEO — Houve algum momento decisivo na trajetória da empresa?
+[R1_05] COMPLEMENTAR — O que mais mudou desde o início até hoje?
+[R1_06] NUCLEO — Quais foram os maiores aprendizados ou transformações?
+[R1_07] COMPLEMENTAR — Há algum marco que simbolize nova fase?
+[R1_08] COMPLEMENTAR — Como descrevem o momento atual vs passado?
+[R1_09] COMPLEMENTAR — Trajetória em três palavras?
+[R1_10] COMPLEMENTAR — O que a empresa aprendeu com sua história?
+[R1_11] NUCLEO — Há história, frase ou valor que representa a marca?
+[R1_12] COMPLEMENTAR — Como imaginam a empresa daqui a 10 anos?
+[R1_13] COMPLEMENTAR — Primeira frase do manifesto da marca?
+
+SEÇÃO B — CULTURA E ESSÊNCIA
+
+[R1_14] NUCLEO — Valores inegociáveis?
+[R1_15] NUCLEO — Como os valores se manifestam no dia a dia?
+[R1_16] NUCLEO — Como tomam decisões difíceis?
+[R1_17] COMPLEMENTAR — Comportamento valorizado?
+[R1_18] COMPLEMENTAR — O que não é tolerado?
+[R1_19] COMPLEMENTAR — Clima e rotina de trabalho?
+[R1_20] COMPLEMENTAR — Como celebram conquistas?
+[R1_21] COMPLEMENTAR — Como novos colaboradores percebem a cultura?
+[R1_22] COMPLEMENTAR — Atitudes que refletem a identidade?
+[R1_23] COMPLEMENTAR — Rituais e tradições?
+[R1_24] COMPLEMENTAR — Como lidam com erros?
+[R1_25] COMPLEMENTAR — O que mais orgulha?
+[R1_26] COMPLEMENTAR — Se a cultura fosse uma pessoa?
+
+SEÇÃO C — SUBCULTURAS ESTRATÉGICAS
+
+[R1_27] NUCLEO — Cultura de inovação?
+[R1_28] NUCLEO — Cultura comercial?
+[R1_29] NUCLEO — Cultura de marketing?
+
+SEÇÃO D — SÍMBOLOS E MEMÓRIA
+
+[R1_30] COMPLEMENTAR — História interna representativa?
+[R1_31] COMPLEMENTAR — Frases ou manias internas?
+[R1_32] COMPLEMENTAR — Cor, música ou símbolo?
+[R1_33] COMPLEMENTAR — Emoção que define a empresa?
+[R1_34] COMPLEMENTAR — Como querem ser descritos?
+[R1_35] COMPLEMENTAR — Elementos que tornam a empresa única?
+[R1_36] COMPLEMENTAR — Impressão no primeiro contato?
+
+SEÇÃO E — ESSÊNCIA E PROPÓSITO
+
+[R1_37] NUCLEO — Propósito da empresa?
+[R1_38] NUCLEO — Se a marca deixasse de existir?
+[R1_39] COMPLEMENTAR — Palavras que resumem a essência?
+[R1_40] COMPLEMENTAR — O que nunca deve mudar?
+[R1_41] COMPLEMENTAR — Legado da marca?
+
+
+────────────────────────────────
+BLOCO 2 — MODELO DE NEGÓCIO E CONTEXTO (ROT_MODELO completo)
+Sessão recomendada: 2ª entrevista
+────────────────────────────────
+
+SEÇÃO A — IDENTIFICAÇÃO E ESTRUTURA
+
+[R2_01] NUCLEO — Estrutura organizacional?
+[R2_02] NUCLEO — Pessoas-chave e papéis estratégicos?
+[R2_03] NUCLEO — Ativos estratégicos?
+
+SEÇÃO B — PROPOSTA DE VALOR E OPERAÇÃO
+
+[R2_04] NUCLEO — Principal produto/serviço?
+[R2_05] NUCLEO — Atividades diárias essenciais?
+[R2_06] NUCLEO — Essencial para a entrega?
+[R2_07] COMPLEMENTAR — O que exige mais tempo/especialização?
+[R2_08] COMPLEMENTAR — Processos automatizados?
+[R2_09] COMPLEMENTAR — Canais de entrega?
+
+SEÇÃO C — RECURSOS, PARCERIAS E CUSTOS
+
+[R2_10] NUCLEO — Principais recursos e ativos?
+[R2_11] COMPLEMENTAR — O que diferencia o time?
+[R2_12] COMPLEMENTAR — Recursos a fortalecer?
+[R2_13] NUCLEO — Parceiros e fornecedores?
+[R2_14] COMPLEMENTAR — Papel de cada parceiro?
+[R2_15] COMPLEMENTAR — Dependências críticas?
+[R2_16] COMPLEMENTAR — Parcerias em potencial?
+[R2_17] NUCLEO — Principais custos?
+
+SEÇÃO D — RECEITA E RELACIONAMENTO
+
+[R2_18] NUCLEO — Fontes de receita?
+[R2_19] COMPLEMENTAR — Relacionamento pós-venda?
+[R2_20] COMPLEMENTAR — Acompanhamento e fidelização?
+[R2_21] COMPLEMENTAR — Boas práticas de atendimento?
+
+SEÇÃO E — CENÁRIO E EVOLUÇÃO
+
+[R2_22] NUCLEO — Cenário atual?
+[R2_23] NUCLEO — Principal desafio do negócio?
+[R2_24] NUCLEO — Evolução do modelo em 2-3 anos?
+
+SEÇÃO F — OBJETIVOS ESTRATÉGICOS
+
+[R2_25] NUCLEO — Resultados desejados nos próximos 12 meses?
+[R2_26] NUCLEO — O que é sucesso?
+[R2_27] NUCLEO — Metas tangíveis?
+[R2_28] COMPLEMENTAR — Objetivos intangíveis?
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: DIRETOR COMERCIAL /   ║
+║  VENDAS                              ║
+╚══════════════════════════════════════╝
+
+PAPEL: Principal fonte sobre público-alvo, jornada de compra, decisores, portfólio na visão do cliente, mercado e dinâmica competitiva.
+ENTREVISTAS ESTIMADAS: 1-2 sessões de 60-90 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 50 (34 NUCLEO + 16 COMPLEMENTAR)
+
+
+────────────────────────────────
+BLOCO 1 — PORTFÓLIO E POSICIONAMENTO (ROT_PORTFOLIO completo)
+Sessão recomendada: 1ª entrevista
+────────────────────────────────
+
+[R3_01] NUCLEO — Todos os produtos/serviços oferecidos?
+[R3_02] NUCLEO — Posicionamento de cada um?
+[R3_03] NUCLEO — Faturamento e margem por produto?
+[R3_04] NUCLEO — Mais estratégicos?
+[R3_05] COMPLEMENTAR — Descontinuados ou reformulados?
+[R3_06] NUCLEO — Dor que cada produto resolve?
+[R3_07] NUCLEO — Benefícios tangíveis e intangíveis?
+[R3_08] NUCLEO — Diferencial competitivo?
+[R3_09] COMPLEMENTAR — Tipo de cliente por produto?
+[R3_10] COMPLEMENTAR — Produtos a reposicionar?
+[R3_11] NUCLEO — Barreiras para concorrentes?
+[R3_12] COMPLEMENTAR — O que é inimitável?
+[R3_13] NUCLEO — Situação antes de procurar o produto (JTBD)?
+[R3_14] NUCLEO — Emoção/motivação do cliente (JTBD)?
+[R3_15] NUCLEO — O que espera mudar (JTBD)?
+[R3_16] COMPLEMENTAR — Alternativas do cliente (JTBD)?
+[R3_17] NUCLEO — Barreiras/objeções (JTBD)?
+[R3_18] NUCLEO — Proposta de valor em uma frase?
+[R3_19] NUCLEO — Tese central do negócio?
+[R3_20] NUCLEO — 3 pilares do posicionamento?
+[R3_21] NUCLEO — Soluções prioritárias para marketing?
+[R3_22] COMPLEMENTAR — Reposicionamento de comunicação?
+[R3_23] COMPLEMENTAR — Lançamentos ou reformulações?
+[R3_24] COMPLEMENTAR — Cross-sell / up-sell?
+
+
+────────────────────────────────
+BLOCO 2 — PÚBLICO-ALVO E JORNADA (ROT_PUBLICO completo)
+Sessão recomendada: 2ª entrevista (ou continuação da 1ª)
+────────────────────────────────
+
+[R5_01] NUCLEO — Principais clientes/segmentos?
+[R5_02] NUCLEO — Cliente ideal (ICP)?
+[R5_03] COMPLEMENTAR — Clientes que preferem não atender?
+[R5_04] NUCLEO — Setores industriais mais aderentes?
+[R5_05] NUCLEO — Grau de maturidade das empresas?
+[R5_06] NUCLEO — Gatilho de contratação?
+[R5_07] NUCLEO — Decisores no cliente?
+[R5_08] NUCLEO — Decisor final, influenciador, veto?
+[R5_09] NUCLEO — Processo típico de compra?
+[R5_10] NUCLEO — Tempo médio até fechamento?
+[R5_11] COMPLEMENTAR — Melhorias na jornada?
+[R5_12] COMPLEMENTAR — Experiência desejada?
+[R5_13] NUCLEO — Clientes mais representativos?
+[R5_14] NUCLEO — Dores mais críticas?
+[R5_15] NUCLEO — O que motiva a agir?
+[R5_16] COMPLEMENTAR — Objeções mais comuns?
+[R5_17] COMPLEMENTAR — Outros stakeholders relevantes?
+
+
+────────────────────────────────
+BLOCO 3 — MERCADO (ROT_MERCADO completo)
+Pode ser incorporado à sessão do Bloco 2
+────────────────────────────────
+
+[R4_01] NUCLEO — Forças que influenciam o mercado?
+[R4_02] NUCLEO — Estrutura do mercado?
+[R4_03] NUCLEO — Tendências 2-5 anos?
+[R4_04] NUCLEO — Crescimento ou saturação?
+[R4_05] NUCLEO — Oportunidades inexploradas?
+[R4_06] COMPLEMENTAR — Lacunas a preencher?
+[R4_07] NUCLEO — Principais concorrentes?
+[R4_08] NUCLEO — Diferenças vs concorrentes?
+[R4_09] COMPLEMENTAR — Novos entrantes/ameaças?
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: RESPONSÁVEL POR       ║
+║  MARKETING                           ║
+╚══════════════════════════════════════╝
+
+PAPEL: Principal fonte sobre estrutura e operação de marketing e vendas, ferramentas, canais, gargalos, expectativas e problema central.
+ENTREVISTAS ESTIMADAS: 1-2 sessões de 60-90 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 33 (24 NUCLEO + 9 COMPLEMENTAR)
+
+TRIANGULAÇÃO: As respostas deste stakeholder DEVEM ser cruzadas com as do CEO. Divergências significativas = ALERTA_ESTRUTURAL.
+
+
+────────────────────────────────
+ROT_MKTVENDAS COMPLETO
+────────────────────────────────
+
+SEÇÃO A — FORÇAS
+
+[R6_01] NUCLEO — Ações mais eficazes?
+[R6_02] NUCLEO — Pontos do funil que funcionam?
+[R6_03] COMPLEMENTAR — Diferenciais internos?
+[R6_04] NUCLEO — Integração marketing-comercial?
+
+SEÇÃO B — FRAGILIDADES
+
+[R6_05] NUCLEO — Gargalos entre marketing e vendas?
+[R6_06] NUCLEO — Problemas frequentes?
+[R6_07] COMPLEMENTAR — Atividades de baixo retorno?
+[R6_08] NUCLEO — Fatores que atrapalham performance?
+
+SEÇÃO C — OPORTUNIDADES E PROBLEMA CENTRAL
+
+[R6_09] NUCLEO — Potencial de melhoria?
+[R6_10] COMPLEMENTAR — Sinergias?
+[R6_11] NUCLEO — O que mais impacta negativamente?
+[R6_12] NUCLEO — Fatores do problema?
+[R6_13] NUCLEO — Efeitos se resolvido?
+
+SEÇÃO D — PROCESSO COMERCIAL
+
+[R6_14] NUCLEO — Canais de contato com cliente?
+[R6_15] NUCLEO — Processo de venda ponta a ponta?
+[R6_16] NUCLEO — Pessoas no processo comercial?
+[R6_17] NUCLEO — Natureza da venda?
+[R6_18] NUCLEO — CRM?
+[R6_19] NUCLEO — Etapas do funil?
+[R6_20] COMPLEMENTAR — Ticket médio?
+[R6_21] COMPLEMENTAR — Taxas de conversão?
+
+SEÇÃO E — MARKETING ATUAL
+
+[R6_22] NUCLEO — Canais de marketing ativos?
+[R6_23] NUCLEO — Geração de oportunidades?
+[R6_24] NUCLEO — Satisfação dos clientes?
+[R6_25] NUCLEO — Ferramentas utilizadas?
+
+SEÇÃO F — OBJETIVOS E EXPECTATIVAS DE MARKETING
+
+[R6_26] NUCLEO — Objetivos de marketing?
+[R6_27] NUCLEO — Expectativas do trabalho de marketing?
+[R6_28] NUCLEO — Como sucesso será percebido?
+[R6_29] NUCLEO — Resultado que mais importa?
+[R6_30] COMPLEMENTAR — Indicador/meta existente?
+[R6_31] NUCLEO — Papel do marketing no crescimento?
+[R6_32] COMPLEMENTAR — Mudança de posicionamento?
+[R6_33] COMPLEMENTAR — Prioridade absoluta do próximo ciclo?
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: DIRETOR DE OPERAÇÕES  ║
+╚══════════════════════════════════════╝
+
+PAPEL: Fonte complementar sobre operação do modelo de negócio, processos, recursos, parcerias e custos.
+ENTREVISTAS ESTIMADAS: 1 sessão de 45-60 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 14 (7 NUCLEO + 7 COMPLEMENTAR)
+
+NOTA: Este stakeholder complementa o CEO no ROT_MODELO. Se não estiver disponível, o CEO absorve essas perguntas.
+
+
+────────────────────────────────
+ROT_MODELO — SEÇÕES B, C, D (recorte operacional)
+────────────────────────────────
+
+[R2_05] NUCLEO — Atividades diárias essenciais?
+[R2_06] NUCLEO — Essencial para a entrega?
+[R2_07] COMPLEMENTAR — O que exige mais tempo/especialização?
+[R2_08] COMPLEMENTAR — Processos automatizados?
+[R2_09] COMPLEMENTAR — Canais de entrega?
+[R2_10] NUCLEO — Principais recursos e ativos?
+[R2_11] COMPLEMENTAR — O que diferencia o time?
+[R2_12] COMPLEMENTAR — Recursos a fortalecer?
+[R2_13] NUCLEO — Parceiros e fornecedores?
+[R2_14] COMPLEMENTAR — Papel de cada parceiro?
+[R2_15] COMPLEMENTAR — Dependências críticas?
+[R2_17] NUCLEO — Principais custos?
+[R2_19] NUCLEO — Relacionamento pós-venda?
+[R2_20] NUCLEO — Acompanhamento e fidelização?
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: DIRETOR FINANCEIRO    ║
+╚══════════════════════════════════════╝
+
+PAPEL: Fonte complementar sobre estrutura de custos, receita e investimento em marketing.
+ENTREVISTAS ESTIMADAS: 1 sessão de 30 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 5 (4 NUCLEO + 1 COMPLEMENTAR)
+
+NOTA: Stakeholder opcional. Se não estiver disponível, o CEO absorve essas perguntas.
+
+
+────────────────────────────────
+ROT_MODELO — RECORTE FINANCEIRO
+────────────────────────────────
+
+[R2_17] NUCLEO — Principais custos e investimentos?
+[R2_18] NUCLEO — Fontes de receita?
+[R2_27] NUCLEO — Metas tangíveis definidas?
+[R2_28] COMPLEMENTAR — Objetivos intangíveis?
+
+PERGUNTA ADICIONAL PARA TRIANGULAÇÃO:
+[TRIANGULAÇÃO] NUCLEO — Na prática, como a empresa trata financeiramente o marketing? Como investimento ou como custo? O orçamento é estável?
+
+NOTA: Esta pergunta de triangulação alimenta diretamente a Camada 1, Bloco 4 (Cultura Orçamentária). A resposta do financeiro é especialmente valiosa porque revela a prática real, não apenas o discurso.
+
+
+╔══════════════════════════════════════╗
+║  STAKEHOLDER: COLABORADOR ANTIGO /  ║
+║  RH                                  ║
+╚══════════════════════════════════════╝
+
+PAPEL: Fonte de triangulação sobre cultura real, valores vividos e percepção interna sobre marketing.
+ENTREVISTAS ESTIMADAS: 1 sessão de 30-45 minutos
+TOTAL DE PERGUNTAS ATRIBUÍDAS: 10 (5 NUCLEO + 5 COMPLEMENTAR)
+
+NOTA: Stakeholder de triangulação. Sua principal função é validar ou contrastar o que o CEO disse sobre cultura. Divergências são extremamente relevantes para o diagnóstico.
+
+
+────────────────────────────────
+ROT_HISTORIA — RECORTE DE TRIANGULAÇÃO
+────────────────────────────────
+
+[R1_14] NUCLEO — Quais valores são inegociáveis?
+[R1_15] NUCLEO — Como os valores se manifestam no dia a dia?
+[R1_19] COMPLEMENTAR — Clima e rotina de trabalho?
+[R1_21] COMPLEMENTAR — Como novos colaboradores percebem a cultura?
+[R1_24] COMPLEMENTAR — Como lidam com erros?
+[R1_27] NUCLEO — Cultura de inovação?
+[R1_28] NUCLEO — Cultura comercial?
+[R1_29] NUCLEO — Cultura de marketing?
+[R1_23] COMPLEMENTAR — Rituais e tradições?
+[R1_25] COMPLEMENTAR — O que mais orgulha?
+
+
+════════════════════════════════════════
+SEÇÃO 3 — REGRAS DE ABSORÇÃO
+════════════════════════════════════════
+
+Quando um stakeholder não está disponível, suas perguntas são absorvidas por outro. A tabela abaixo define a regra de absorção:
+
+STAKEHOLDER INDISPONÍVEL → ABSORVIDO POR
+
+Diretor de Operações → CEO
+Diretor Financeiro → CEO
+Colaborador antigo / RH → Imersão fica sem triangulação de cultura (registrar como lacuna)
+Diretor Comercial → CEO absorve ROT_MERCADO e ROT_PORTFOLIO; Responsável por Marketing absorve ROT_PUBLICO
+Responsável por Marketing → CEO absorve ROT_MKTVENDAS (qualidade reduzida — registrar como lacuna)
+CEO → Imersão é inviável. Reagendar.
+
+
+════════════════════════════════════════
+SEÇÃO 4 — MAPA VISUAL RESUMIDO
+════════════════════════════════════════
+
+STAKEHOLDER          | ROTEIROS                        | PERGUNTAS | SESSÕES
+─────────────────────|─────────────────────────────────|───────────|────────
+CEO / Fundador       | R1 + R2 completos               | 82        | 2-3
+Dir. Comercial       | R3 + R5 + R4 completos          | 50        | 1-2
+Resp. Marketing      | R6 completo                     | 33        | 1-2
+Dir. Operações       | R2 parcial (operação)           | 14        | 1
+Dir. Financeiro      | R2 parcial (finanças) + triang. | 5         | 1
+Colaborador / RH     | R1 parcial (triangulação)       | 10        | 1
+─────────────────────|─────────────────────────────────|───────────|────────
+TOTAL                |                                 | 152*      | 6-10
+
+* Algumas perguntas aparecem em mais de um stakeholder (triangulação intencional). O total de perguntas únicas é 152.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

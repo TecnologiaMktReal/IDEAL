@@ -1,0 +1,20 @@
+{
+  "brandVersion": "2026-03-25-supabase-logo",
+  "sourceFolder": "Material para FrontEnd",
+  "requiredAssets": ["logo-primary.png", "logo-monochrome.png", "favicon.png", "brandbook.pdf"],
+  "optionalAssets": ["font-primary.woff2", "illustration-cover.png", "template-cover-bg.png"],
+  "availableAssets": [
+    "MKTREAL_IDVISUAL_MIVMKTREAL.pdf",
+    "logo-primary.png",
+    "logo-monochrome.png",
+    "favicon.png"
+  ],
+  "assetMappings": {
+    "brandbook.pdf": "MKTREAL_IDVISUAL_MIVMKTREAL.pdf",
+    "logo-primary.png": "https://tyneeznaprtomxuhmsti.supabase.co/storage/v1/object/public/IMAGE/LogoMktReal.png",
+    "favicon.png": "https://tyneeznaprtomxuhmsti.supabase.co/storage/v1/object/public/IMAGE/LogoMktReal.png",
+    "logo-monochrome.png": "https://tyneeznaprtomxuhmsti.supabase.co/storage/v1/object/public/IMAGE/LogoMktReal.png"
+  },
+  "missingRequiredAssets": [],
+  "status": "complete"
+}

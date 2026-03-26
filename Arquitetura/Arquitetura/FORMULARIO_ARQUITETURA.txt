@@ -1,0 +1,414 @@
+DOCUMENTO: FORMULARIO_ARQUITETURA
+ETAPA: ETAPA_A_ARQUITETURA_DO_PLANEJAMENTO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este formulário é o instrumento de trabalho do consultor para construir o plano de ação estratégico. Todas as informações devem ser derivadas das etapas anteriores (Imersão, Diagnóstico, Estrutura).
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  BLOCO 1 — PREMISSAS E RECOMENDAÇÕES ESTRATÉGICAS           ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+1.1 — PREMISSAS ESTRATÉGICAS CONSOLIDADAS
+────────────────────────────────
+
+Instrução: Consolidar as premissas-chave da Imersão e do Diagnóstico que orientam o plano. Cada premissa deve ter origem rastreável.
+
+PREM_01:
+• Descrição:
+• Origem:
+• Impacto no plano:
+
+PREM_02:
+• Descrição:
+• Origem:
+• Impacto no plano:
+
+PREM_03:
+• Descrição:
+• Origem:
+• Impacto no plano:
+
+PREM_04:
+• Descrição:
+• Origem:
+• Impacto no plano:
+
+PREM_05:
+• Descrição:
+• Origem:
+• Impacto no plano:
+
+(Adicionar conforme necessário)
+
+
+────────────────────────────────
+1.2 — RECOMENDAÇÕES ESTRATÉGICAS
+────────────────────────────────
+
+Instrução: Derivadas dos achados do Diagnóstico e da Estrutura. São as diretrizes macro que o plano deve seguir.
+
+REC_01:
+• Recomendação:
+• Baseada em (achado do Diagnóstico ou Estrutura):
+• Prioridade: ( ) Alta  ( ) Média  ( ) Baixa
+
+REC_02:
+• Recomendação:
+• Baseada em:
+• Prioridade: ( ) Alta  ( ) Média  ( ) Baixa
+
+REC_03:
+• Recomendação:
+• Baseada em:
+• Prioridade: ( ) Alta  ( ) Média  ( ) Baixa
+
+REC_04:
+• Recomendação:
+• Baseada em:
+• Prioridade: ( ) Alta  ( ) Média  ( ) Baixa
+
+REC_05:
+• Recomendação:
+• Baseada em:
+• Prioridade: ( ) Alta  ( ) Média  ( ) Baixa
+
+(Adicionar conforme necessário)
+
+
+────────────────────────────────
+1.3 — DIRETRIZES DO PLANO
+────────────────────────────────
+
+Instrução: Regras que o plano deve seguir, derivadas do contexto.
+
+• Horizonte total do plano: ___ meses
+• Número de fases previsto: ___
+• Modelo de execução: ( ) MKT Real executa  ( ) Cliente executa  ( ) Híbrido
+• Nível de maturidade atual (Camada 1): ___ — isso significa que o plano deve [implicação]
+• Nível de maturidade atual (Camada 2): ___ — isso significa que o plano deve [implicação]
+• Cenário de estrutura escolhido pelo cliente: ___ — isso define os recursos disponíveis
+• Restrições identificadas (orçamento, equipe, tempo, capacidade):
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  BLOCO 2 — PLANO DE AÇÃO POR FASES                         ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+FASE 1 — FUNDAÇÃO
+────────────────────────────────
+
+OBJETIVO DA FASE:
+
+DURAÇÃO ESTIMADA: ___ semanas/meses
+
+FOCO: Resolver pontos de atenção imediata, implementar infraestrutura mínima, estabelecer fundamentos.
+
+AÇÕES DA FASE 1:
+
+AÇÃO 1.1:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem (qual achado gerou esta ação):
+
+AÇÃO 1.2:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem:
+
+AÇÃO 1.3:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem:
+
+(Adicionar ações conforme necessário)
+
+ENTREGÁVEIS DA FASE 1:
+•
+•
+•
+
+KPIs DA FASE 1:
+•
+•
+
+CRITÉRIO DE CONCLUSÃO:
+
+
+────────────────────────────────
+FASE 2 — CONSTRUÇÃO
+────────────────────────────────
+
+OBJETIVO DA FASE:
+
+DURAÇÃO ESTIMADA: ___ semanas/meses
+
+FOCO: Implementar estratégias prioritárias, estruturar processos, desenvolver materiais e canais.
+
+AÇÕES DA FASE 2:
+
+AÇÃO 2.1:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem:
+
+AÇÃO 2.2:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem:
+
+AÇÃO 2.3:
+• Descrição:
+• Responsável: ( ) MKT Real  ( ) Cliente  ( ) Conjunto
+• Prazo:
+• Entregável:
+• Dependência:
+• Origem:
+
+(Adicionar ações conforme necessário)
+
+ENTREGÁVEIS DA FASE 2:
+•
+•
+•
+
+KPIs DA FASE 2:
+•
+•
+
+CRITÉRIO DE CONCLUSÃO:
+
+
+────────────────────────────────
+FASE 3 — EXPANSÃO
+────────────────────────────────
+
+OBJETIVO DA FASE:
+
+DURAÇÃO ESTIMADA: ___ semanas/meses
+
+FOCO: Expandir o que foi construído, ativar novos canais e estratégias, consolidar processos.
+
+AÇÕES DA FASE 3:
+
+(Mesma estrutura das fases anteriores)
+
+ENTREGÁVEIS DA FASE 3:
+KPIs DA FASE 3:
+CRITÉRIO DE CONCLUSÃO:
+
+
+────────────────────────────────
+FASE 4 — OTIMIZAÇÃO (se aplicável)
+────────────────────────────────
+
+OBJETIVO DA FASE:
+
+DURAÇÃO ESTIMADA: ___ semanas/meses
+
+FOCO: Ajustar, escalar o que funciona, preparar transição para o Loop.
+
+AÇÕES DA FASE 4:
+
+(Mesma estrutura das fases anteriores)
+
+ENTREGÁVEIS DA FASE 4:
+KPIs DA FASE 4:
+CRITÉRIO DE CONCLUSÃO:
+
+
+────────────────────────────────
+FASE 5 (se aplicável)
+────────────────────────────────
+
+(Mesma estrutura)
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  BLOCO 3 — DASHBOARD DE KPIs                                ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+3.1 — KPIs ESTRATÉGICOS (nível de negócio)
+────────────────────────────────
+
+Instrução: Indicadores que conectam marketing aos resultados do negócio.
+
+KPI | META | BASELINE ATUAL | FREQUÊNCIA DE MEDIÇÃO | RESPONSÁVEL
+
+
+────────────────────────────────
+3.2 — KPIs TÁTICOS (nível de marketing)
+────────────────────────────────
+
+Instrução: Indicadores de desempenho das principais frentes de marketing.
+
+KPI | META | BASELINE ATUAL | FREQUÊNCIA DE MEDIÇÃO | RESPONSÁVEL
+
+
+────────────────────────────────
+3.3 — KPIs OPERACIONAIS (nível de execução)
+────────────────────────────────
+
+Instrução: Indicadores de produtividade e qualidade da operação.
+
+KPI | META | BASELINE ATUAL | FREQUÊNCIA DE MEDIÇÃO | RESPONSÁVEL
+
+
+────────────────────────────────
+3.4 — KPIs DE EVOLUÇÃO DE MATURIDADE
+────────────────────────────────
+
+Instrução: Indicadores derivados do Diagnóstico — medir evolução dos blocos/eixos ao longo do tempo.
+
+INDICADOR                          | BASELINE (Diagnóstico) | META FASE 1 | META FASE 2 | META FINAL
+Maturidade Estrutural (Camada 1)   |                        |             |             |
+Maturidade Prática (Camada 2)      |                        |             |             |
+[Blocos/eixos prioritários]        |                        |             |             |
+
+
+────────────────────────────────
+3.5 — RITUAIS DE ACOMPANHAMENTO
+────────────────────────────────
+
+RITUAL | FREQUÊNCIA | PARTICIPANTES | PAUTA PRINCIPAL | RESPONSÁVEL
+
+Exemplo: Review de KPIs | Mensal | Consultor + cliente | Análise de indicadores e ajustes | Consultor
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  BLOCO 4 — VERBA RECOMENDADA                                ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+4.1 — CONTEXTO PARA RECOMENDAÇÃO
+────────────────────────────────
+
+Instrução: Registrar as informações que calibram a recomendação de verba.
+
+• Faturamento anual estimado da empresa: R$ ___
+• Modelo de receita:
+• Ticket médio:
+• Maturidade atual (Camada 1 + 2):
+• Cenário de estrutura escolhido (Etapa E):
+• Objetivos declarados (Imersão):
+• Benchmarks do setor (se disponíveis):
+
+
+────────────────────────────────
+4.2 — RECOMENDAÇÃO DE VERBA
+────────────────────────────────
+
+INVESTIMENTO MENSAL RECOMENDADO (RANGE):
+
+• Mínimo: R$ ___
+• Máximo: R$ ___
+• Ponto recomendado: R$ ___
+
+JUSTIFICATIVA DO RANGE:
+
+
+────────────────────────────────
+4.3 — DISTRIBUIÇÃO POR CATEGORIA
+────────────────────────────────
+
+CATEGORIA                    | % DO ORÇAMENTO | RANGE (R$)
+─────────────────────────────|────────────────|──────────
+Equipe (salários/terceiros)  |                |
+Ferramentas e tecnologia     |                |
+Mídia paga                   |                |
+Produção de conteúdo         |                |
+Eventos e ações offline      |                |
+Branding e materiais         |                |
+Reserva/contingência         |                |
+─────────────────────────────|────────────────|──────────
+TOTAL                        | 100%           |
+
+
+────────────────────────────────
+4.4 — EVOLUÇÃO DA VERBA POR FASE
+────────────────────────────────
+
+FASE    | VERBA MENSAL SUGERIDA | FOCO DE INVESTIMENTO
+Fase 1  | R$                    |
+Fase 2  | R$                    |
+Fase 3  | R$                    |
+Fase 4  | R$                    |
+
+
+╔══════════════════════════════════════════════════════════════╗
+║  BLOCO 5 — MODELO DE EXECUÇÃO                               ║
+╚══════════════════════════════════════════════════════════════╝
+
+
+────────────────────────────────
+5.1 — DEFINIÇÃO DO MODELO
+────────────────────────────────
+
+MODELO ESCOLHIDO: ( ) MKT Real executa  ( ) Cliente executa  ( ) Híbrido
+
+SE HÍBRIDO:
+
+RESPONSABILIDADE MKT REAL:
+•
+•
+•
+
+RESPONSABILIDADE CLIENTE:
+•
+•
+•
+
+
+────────────────────────────────
+5.2 — RITUAIS DE ALINHAMENTO
+────────────────────────────────
+
+RITUAL                  | FREQUÊNCIA | FORMATO | PARTICIPANTES
+Kickoff do projeto       | Único      |         |
+Alinhamento semanal      | Semanal    |         |
+Review de fase           | Por fase   |         |
+Review estratégico       | Trimestral |         |
+
+
+────────────────────────────────
+5.3 — CRITÉRIOS DE SUCESSO DO PROJETO
+────────────────────────────────
+
+Instrução: Como o projeto será avaliado ao final. Critérios objetivos.
+
+1.
+2.
+3.
+4.
+5.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

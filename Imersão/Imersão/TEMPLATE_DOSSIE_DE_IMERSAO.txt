@@ -1,0 +1,1053 @@
+DOCUMENTO: TEMPLATE_DOSSIE_DE_IMERSAO
+ETAPA: ETAPA_I_IMERSAO — MOMENTO 2
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este documento é o principal entregável interno da Imersão. Ele consolida todas as informações coletadas nas entrevistas, elimina redundâncias, produz a síntese interpretativa, registra premissas e lacunas, e organiza os insumos para todas as etapas subsequentes da metodologia IDEAL.
+
+O Dossiê é um documento INTERNO da MKT Real. NÃO é entregue ao cliente. O Relatório do Cliente (Momento 3) é produzido a partir deste Dossiê.
+
+REGRAS DE PREENCHIMENTO:
+• Registrar respostas de forma fiel ao que foi dito pelo entrevistado.
+• Quando múltiplos stakeholders responderam sobre o mesmo tema, consolidar indicando convergências e divergências.
+• Divergências significativas devem ser sinalizadas como ALERTA_ESTRUTURAL.
+• Campos sem informação devem ser marcados como LACUNA e registrados na Seção 9.
+• O consultor NÃO deve inventar, deduzir ou supor informações que não foram coletadas.
+
+
+════════════════════════════════════════
+SEÇÃO 1 — REGISTRO DAS ENTREVISTAS REALIZADAS
+════════════════════════════════════════
+
+Instrução: Registrar todas as entrevistas realizadas para rastreabilidade.
+
+
+ENTREVISTA 1
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor (impressões, comportamento, contexto):
+
+ENTREVISTA 2
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor:
+
+ENTREVISTA 3
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor:
+
+ENTREVISTA 4
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor:
+
+ENTREVISTA 5
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor:
+
+ENTREVISTA 6
+• Stakeholder:
+• Cargo:
+• Data:
+• Formato: ( ) Presencial  ( ) Remoto
+• Duração real:
+• Roteiros aplicados:
+• Observações do consultor:
+
+ENTREVISTAS NÃO REALIZADAS:
+• Stakeholder previsto:
+• Motivo:
+• Impacto na cobertura:
+
+
+════════════════════════════════════════
+SEÇÃO 2 — RESPOSTAS CONSOLIDADAS POR ROTEIRO
+════════════════════════════════════════
+
+Instrução: Para cada roteiro, o consultor registra as respostas consolidadas. Quando múltiplos stakeholders responderam, indicar a fonte entre colchetes [CEO], [Dir. Comercial], etc. Divergências devem ser marcadas com ⚠ DIVERGÊNCIA.
+
+
+────────────────────────────────
+2.1 — ROT_HISTORIA (R1) — HISTÓRIA, CULTURA E MARCA
+────────────────────────────────
+
+RESPONDIDO POR:
+
+SEÇÃO A — HISTÓRIA E ORIGEM
+
+[R1_01] Como e por que a empresa nasceu?
+RESPOSTA:
+
+[R1_02] Qual era o principal problema ou necessidade que queriam resolver?
+RESPOSTA:
+
+[R1_03] Quem fundou e qual era a visão inicial?
+RESPOSTA:
+
+[R1_04] Momento decisivo na trajetória?
+RESPOSTA:
+
+[R1_05] O que mais mudou desde o início?
+RESPOSTA:
+
+[R1_06] Maiores aprendizados ou transformações?
+RESPOSTA:
+
+[R1_07] Marco que simbolize nova fase?
+RESPOSTA:
+
+[R1_08] Momento atual vs passado?
+RESPOSTA:
+
+[R1_09] Trajetória em três palavras?
+RESPOSTA:
+
+[R1_10] O que a empresa aprendeu com sua história?
+RESPOSTA:
+
+[R1_11] História, frase ou valor que representa a marca?
+RESPOSTA:
+
+[R1_12] A empresa daqui a 10 anos?
+RESPOSTA:
+
+[R1_13] Primeira frase do manifesto?
+RESPOSTA:
+
+SEÇÃO B — CULTURA E ESSÊNCIA
+
+[R1_14] Valores inegociáveis?
+RESPOSTA:
+
+[R1_15] Como os valores se manifestam no dia a dia?
+RESPOSTA:
+
+[R1_16] Como tomam decisões difíceis?
+RESPOSTA:
+
+[R1_17] Comportamento valorizado?
+RESPOSTA:
+
+[R1_18] O que não é tolerado?
+RESPOSTA:
+
+[R1_19] Clima e rotina de trabalho?
+RESPOSTA:
+
+[R1_20] Como celebram conquistas?
+RESPOSTA:
+
+[R1_21] Como novos colaboradores percebem a cultura?
+RESPOSTA:
+
+[R1_22] Atitudes que refletem a identidade?
+RESPOSTA:
+
+[R1_23] Rituais e tradições?
+RESPOSTA:
+
+[R1_24] Como lidam com erros?
+RESPOSTA:
+
+[R1_25] O que mais orgulha?
+RESPOSTA:
+
+[R1_26] Se a cultura fosse uma pessoa?
+RESPOSTA:
+
+SEÇÃO C — SUBCULTURAS ESTRATÉGICAS
+
+[R1_27] Cultura de inovação?
+RESPOSTA:
+
+[R1_28] Cultura comercial?
+RESPOSTA:
+
+[R1_29] Cultura de marketing?
+RESPOSTA:
+
+SEÇÃO D — SÍMBOLOS E MEMÓRIA
+
+[R1_30] História interna representativa?
+RESPOSTA:
+
+[R1_31] Frases ou manias internas?
+RESPOSTA:
+
+[R1_32] Cor, música ou símbolo?
+RESPOSTA:
+
+[R1_33] Emoção que define a empresa?
+RESPOSTA:
+
+[R1_34] Como querem ser descritos?
+RESPOSTA:
+
+[R1_35] Elementos que tornam a empresa única?
+RESPOSTA:
+
+[R1_36] Impressão no primeiro contato?
+RESPOSTA:
+
+SEÇÃO E — ESSÊNCIA E PROPÓSITO
+
+[R1_37] Propósito da empresa?
+RESPOSTA:
+
+[R1_38] Se a marca deixasse de existir?
+RESPOSTA:
+
+[R1_39] Palavras que resumem a essência?
+RESPOSTA:
+
+[R1_40] O que nunca deve mudar?
+RESPOSTA:
+
+[R1_41] Legado da marca?
+RESPOSTA:
+
+TRIANGULAÇÃO DE CULTURA (se colaborador/RH foi entrevistado):
+• Convergências com CEO:
+• Divergências identificadas:
+• Classificação: ( ) Sem divergência relevante  ( ) DIVERGÊNCIA MODERADA  ( ) ⚠ DIVERGÊNCIA SIGNIFICATIVA
+
+
+────────────────────────────────
+2.2 — ROT_MODELO (R2) — MODELO DE NEGÓCIO E CONTEXTO
+────────────────────────────────
+
+RESPONDIDO POR:
+
+SEÇÃO A — IDENTIFICAÇÃO E ESTRUTURA
+
+[R2_01] Estrutura organizacional?
+RESPOSTA:
+
+[R2_02] Pessoas-chave e papéis estratégicos?
+RESPOSTA:
+
+[R2_03] Ativos estratégicos?
+RESPOSTA:
+
+SEÇÃO B — PROPOSTA DE VALOR E OPERAÇÃO
+
+[R2_04] Principal produto/serviço?
+RESPOSTA:
+
+[R2_05] Atividades diárias essenciais?
+RESPOSTA:
+
+[R2_06] Essencial para a entrega?
+RESPOSTA:
+
+[R2_07] O que exige mais tempo/especialização?
+RESPOSTA:
+
+[R2_08] Processos automatizados?
+RESPOSTA:
+
+[R2_09] Canais de entrega?
+RESPOSTA:
+
+SEÇÃO C — RECURSOS, PARCERIAS E CUSTOS
+
+[R2_10] Principais recursos e ativos?
+RESPOSTA:
+
+[R2_11] O que diferencia o time?
+RESPOSTA:
+
+[R2_12] Recursos a fortalecer?
+RESPOSTA:
+
+[R2_13] Parceiros e fornecedores?
+RESPOSTA:
+
+[R2_14] Papel de cada parceiro?
+RESPOSTA:
+
+[R2_15] Dependências críticas?
+RESPOSTA:
+
+[R2_16] Parcerias em potencial?
+RESPOSTA:
+
+[R2_17] Principais custos?
+RESPOSTA:
+
+SEÇÃO D — RECEITA E RELACIONAMENTO
+
+[R2_18] Fontes de receita?
+RESPOSTA:
+
+[R2_19] Relacionamento pós-venda?
+RESPOSTA:
+
+[R2_20] Acompanhamento e fidelização?
+RESPOSTA:
+
+[R2_21] Boas práticas de atendimento?
+RESPOSTA:
+
+SEÇÃO E — CENÁRIO E EVOLUÇÃO
+
+[R2_22] Cenário atual?
+RESPOSTA:
+
+[R2_23] Principal desafio do negócio?
+RESPOSTA:
+
+[R2_24] Evolução do modelo em 2-3 anos?
+RESPOSTA:
+
+SEÇÃO F — OBJETIVOS ESTRATÉGICOS DO NEGÓCIO
+
+[R2_25] Resultados desejados nos próximos 12 meses?
+RESPOSTA:
+
+[R2_26] O que é sucesso?
+RESPOSTA:
+
+[R2_27] Metas tangíveis?
+RESPOSTA:
+
+[R2_28] Objetivos intangíveis?
+RESPOSTA:
+
+
+────────────────────────────────
+2.3 — ROT_PORTFOLIO (R3) — SERVIÇOS, PRODUTOS E POSICIONAMENTO
+────────────────────────────────
+
+RESPONDIDO POR:
+
+SEÇÃO A — ESTRUTURA DO PORTFÓLIO
+
+[R3_01] Todos os produtos/serviços oferecidos?
+RESPOSTA:
+
+[R3_02] Posicionamento de cada um?
+RESPOSTA:
+
+[R3_03] Faturamento e margem por produto?
+RESPOSTA:
+
+[R3_04] Mais estratégicos?
+RESPOSTA:
+
+[R3_05] Descontinuados ou reformulados?
+RESPOSTA:
+
+SEÇÃO B — VALOR E DIFERENCIAÇÃO
+
+[R3_06] Dor que cada produto resolve?
+RESPOSTA:
+
+[R3_07] Benefícios tangíveis e intangíveis?
+RESPOSTA:
+
+[R3_08] Diferencial competitivo?
+RESPOSTA:
+
+[R3_09] Tipo de cliente por produto?
+RESPOSTA:
+
+[R3_10] Produtos a reposicionar?
+RESPOSTA:
+
+[R3_11] Barreiras para concorrentes?
+RESPOSTA:
+
+[R3_12] O que é inimitável?
+RESPOSTA:
+
+SEÇÃO C — JOBS TO BE DONE
+
+[R3_13] Situação antes de procurar o produto?
+RESPOSTA:
+
+[R3_14] Emoção/motivação do cliente?
+RESPOSTA:
+
+[R3_15] O que espera mudar?
+RESPOSTA:
+
+[R3_16] Alternativas do cliente?
+RESPOSTA:
+
+[R3_17] Barreiras/objeções?
+RESPOSTA:
+
+SEÇÃO D — POSICIONAMENTO E TESE CENTRAL
+
+[R3_18] Proposta de valor em uma frase?
+RESPOSTA:
+
+[R3_19] Tese central do negócio?
+RESPOSTA:
+
+[R3_20] 3 pilares do posicionamento?
+RESPOSTA:
+
+SEÇÃO E — PRIORIZAÇÃO ESTRATÉGICA
+
+[R3_21] Soluções prioritárias para marketing?
+RESPOSTA:
+
+[R3_22] Reposicionamento de comunicação?
+RESPOSTA:
+
+[R3_23] Lançamentos ou reformulações?
+RESPOSTA:
+
+[R3_24] Cross-sell / up-sell?
+RESPOSTA:
+
+
+────────────────────────────────
+2.4 — ROT_MERCADO (R4) — MERCADO E COMPETITIVIDADE
+────────────────────────────────
+
+RESPONDIDO POR:
+COMPLEMENTADO POR PESQUISA PRELIMINAR: ( ) Sim  ( ) Não
+
+SEÇÃO A — DINÂMICA DO MERCADO
+
+[R4_01] Forças que influenciam o mercado?
+RESPOSTA (entrevista):
+COMPLEMENTO (pesquisa preliminar):
+
+[R4_02] Estrutura do mercado?
+RESPOSTA (entrevista):
+COMPLEMENTO (pesquisa preliminar):
+
+[R4_03] Tendências 2-5 anos?
+RESPOSTA (entrevista):
+COMPLEMENTO (pesquisa preliminar):
+
+[R4_04] Crescimento ou saturação?
+RESPOSTA (entrevista):
+COMPLEMENTO (pesquisa preliminar):
+
+SEÇÃO B — OPORTUNIDADES E LACUNAS
+
+[R4_05] Oportunidades inexploradas?
+RESPOSTA:
+
+[R4_06] Lacunas a preencher?
+RESPOSTA:
+
+SEÇÃO C — CONCORRÊNCIA
+
+[R4_07] Principais concorrentes?
+RESPOSTA:
+
+[R4_08] Diferenças vs concorrentes?
+RESPOSTA:
+
+[R4_09] Novos entrantes/ameaças?
+RESPOSTA:
+
+CONSOLIDAÇÃO DA ANÁLISE DE MERCADO:
+• Convergências entre percepção do cliente e pesquisa do consultor:
+• Divergências entre percepção do cliente e pesquisa do consultor:
+• Pontos cegos do cliente (o que o consultor identificou e o cliente não):
+
+
+────────────────────────────────
+2.5 — ROT_PUBLICO (R5) — PÚBLICO-ALVO, STAKEHOLDERS E JORNADA
+────────────────────────────────
+
+RESPONDIDO POR:
+
+SEÇÃO A — SEGMENTOS E ICP
+
+[R5_01] Principais clientes/segmentos?
+RESPOSTA:
+
+[R5_02] Cliente ideal (ICP)?
+RESPOSTA:
+
+[R5_03] Clientes que preferem não atender?
+RESPOSTA:
+
+[R5_04] Setores industriais mais aderentes?
+RESPOSTA:
+
+[R5_05] Grau de maturidade das empresas?
+RESPOSTA:
+
+[R5_06] Gatilho de contratação?
+RESPOSTA:
+
+SEÇÃO B — DECISORES E JORNADA
+
+[R5_07] Decisores no cliente?
+RESPOSTA:
+
+[R5_08] Decisor final, influenciador, veto?
+RESPOSTA:
+
+[R5_09] Processo típico de compra?
+RESPOSTA:
+
+[R5_10] Tempo médio até fechamento?
+RESPOSTA:
+
+[R5_11] Melhorias na jornada?
+RESPOSTA:
+
+[R5_12] Experiência desejada?
+RESPOSTA:
+
+SEÇÃO C — DORES, MOTIVAÇÕES E STAKEHOLDERS
+
+[R5_13] Clientes mais representativos?
+RESPOSTA:
+
+[R5_14] Dores mais críticas?
+RESPOSTA:
+
+[R5_15] O que motiva a agir?
+RESPOSTA:
+
+[R5_16] Objeções mais comuns?
+RESPOSTA:
+
+[R5_17] Outros stakeholders relevantes?
+RESPOSTA:
+
+
+────────────────────────────────
+2.6 — ROT_MKTVENDAS (R6) — MARKETING, VENDAS E PROBLEMA CENTRAL
+────────────────────────────────
+
+RESPONDIDO POR (PRIMÁRIO):
+TRIANGULADO COM:
+
+SEÇÃO A — FORÇAS
+
+[R6_01] Ações mais eficazes?
+RESPOSTA:
+
+[R6_02] Pontos do funil que funcionam?
+RESPOSTA:
+
+[R6_03] Diferenciais internos?
+RESPOSTA:
+
+[R6_04] Integração marketing-comercial?
+RESPOSTA:
+
+SEÇÃO B — FRAGILIDADES
+
+[R6_05] Gargalos entre marketing e vendas?
+RESPOSTA:
+
+[R6_06] Problemas frequentes?
+RESPOSTA:
+
+[R6_07] Atividades de baixo retorno?
+RESPOSTA:
+
+[R6_08] Fatores que atrapalham performance?
+RESPOSTA:
+
+SEÇÃO C — OPORTUNIDADES E PROBLEMA CENTRAL
+
+[R6_09] Potencial de melhoria?
+RESPOSTA:
+
+[R6_10] Sinergias?
+RESPOSTA:
+
+[R6_11] O que mais impacta negativamente?
+RESPOSTA:
+
+[R6_12] Fatores do problema?
+RESPOSTA:
+
+[R6_13] Efeitos se resolvido?
+RESPOSTA:
+
+SEÇÃO D — PROCESSO COMERCIAL
+
+[R6_14] Canais de contato com cliente?
+RESPOSTA:
+
+[R6_15] Processo de venda ponta a ponta?
+RESPOSTA:
+
+[R6_16] Pessoas no processo comercial?
+RESPOSTA:
+
+[R6_17] Natureza da venda?
+RESPOSTA:
+
+[R6_18] CRM?
+RESPOSTA:
+
+[R6_19] Etapas do funil?
+RESPOSTA:
+
+[R6_20] Ticket médio?
+RESPOSTA:
+
+[R6_21] Taxas de conversão?
+RESPOSTA:
+
+SEÇÃO E — MARKETING ATUAL
+
+[R6_22] Canais de marketing ativos?
+RESPOSTA:
+
+[R6_23] Geração de oportunidades?
+RESPOSTA:
+
+[R6_24] Satisfação dos clientes?
+RESPOSTA:
+
+[R6_25] Ferramentas utilizadas?
+RESPOSTA:
+
+SEÇÃO F — OBJETIVOS E EXPECTATIVAS DE MARKETING
+
+[R6_26] Objetivos de marketing?
+RESPOSTA:
+
+[R6_27] Expectativas do trabalho de marketing?
+RESPOSTA:
+
+[R6_28] Como sucesso será percebido?
+RESPOSTA:
+
+[R6_29] Resultado que mais importa?
+RESPOSTA:
+
+[R6_30] Indicador/meta existente?
+RESPOSTA:
+
+[R6_31] Papel do marketing no crescimento?
+RESPOSTA:
+
+[R6_32] Mudança de posicionamento?
+RESPOSTA:
+
+[R6_33] Prioridade absoluta do próximo ciclo?
+RESPOSTA:
+
+TRIANGULAÇÃO MARKETING/VENDAS (CEO vs Responsável):
+• Convergências:
+• Divergências identificadas:
+• Classificação: ( ) Sem divergência relevante  ( ) DIVERGÊNCIA MODERADA  ( ) ⚠ DIVERGÊNCIA SIGNIFICATIVA
+
+
+════════════════════════════════════════
+SEÇÃO 3 — ALERTAS ESTRUTURAIS
+════════════════════════════════════════
+
+Instrução: Registrar todas as divergências significativas identificadas durante a consolidação. Estes alertas alimentam diretamente o diagnóstico.
+
+ALERTA 1:
+• Tema:
+• Stakeholder A disse:
+• Stakeholder B disse:
+• Classificação: ( ) DIVERGÊNCIA MODERADA  ( ) ⚠ DIVERGÊNCIA SIGNIFICATIVA
+• Impacto no diagnóstico:
+• Versão que prevalece na síntese e justificativa:
+
+ALERTA 2:
+• Tema:
+• Stakeholder A disse:
+• Stakeholder B disse:
+• Classificação: ( ) DIVERGÊNCIA MODERADA  ( ) ⚠ DIVERGÊNCIA SIGNIFICATIVA
+• Impacto no diagnóstico:
+• Versão que prevalece na síntese e justificativa:
+
+ALERTA 3:
+• Tema:
+• Stakeholder A disse:
+• Stakeholder B disse:
+• Classificação: ( ) DIVERGÊNCIA MODERADA  ( ) ⚠ DIVERGÊNCIA SIGNIFICATIVA
+• Impacto no diagnóstico:
+• Versão que prevalece na síntese e justificativa:
+
+
+════════════════════════════════════════
+SEÇÃO 4 — SÍNTESE INTERPRETATIVA
+════════════════════════════════════════
+
+Instrução: Produzir uma síntese narrativa por dimensão estratégica, integrando informações de múltiplos roteiros. NÃO repetir o que já foi registrado na Seção 2 — aqui o consultor interpreta, conecta e extrai significado.
+
+
+────────────────────────────────
+DIM_1 — QUEM A EMPRESA É
+Fontes: ROT_HISTORIA
+────────────────────────────────
+
+Qual é a história, a cultura, os valores vividos, a essência, o estilo de liderança e a identidade da marca? O que define essa empresa além do que ela faz?
+
+SÍNTESE:
+
+
+────────────────────────────────
+DIM_2 — COMO A EMPRESA OPERA E GERA VALOR
+Fontes: ROT_MODELO + ROT_PORTFOLIO
+────────────────────────────────
+
+Qual é o modelo de negócio, a estrutura organizacional, os ativos estratégicos, a proposta de valor, como o portfólio está estruturado, o posicionamento, os diferenciais e quais soluções são prioritárias?
+
+SÍNTESE:
+
+
+────────────────────────────────
+DIM_3 — ONDE A EMPRESA COMPETE
+Fontes: ROT_MERCADO + ROT_PUBLICO
+────────────────────────────────
+
+Qual é a dinâmica do mercado, quem são os concorrentes, quais as tendências e oportunidades, quem é o público, como é a jornada de compra, quais são os gatilhos de contratação e como os decisores atuam?
+
+SÍNTESE:
+
+
+────────────────────────────────
+DIM_4 — COMO A EMPRESA VENDE E SE COMUNICA
+Fontes: ROT_MKTVENDAS
+────────────────────────────────
+
+Como marketing e vendas operam, qual é o processo comercial, o funil, o CRM, os canais ativos, como as oportunidades são geradas, quais são as forças, fragilidades e o problema central?
+
+SÍNTESE:
+
+
+────────────────────────────────
+DIM_5 — PARA ONDE A EMPRESA QUER IR
+Fontes: ROT_MODELO (objetivos) + ROT_MKTVENDAS (expectativas de marketing)
+────────────────────────────────
+
+Quais são os objetivos, metas, expectativas e critérios de sucesso? Há coerência entre ambição e capacidade?
+
+SÍNTESE:
+
+
+────────────────────────────────
+DIM_6 — GARGALOS, CONTRADIÇÕES E LACUNAS
+Fontes: TODOS OS ROTEIROS + ALERTAS ESTRUTURAIS
+────────────────────────────────
+
+Quais são as contradições entre discurso e prática? Entre stakeholders? Entre ambição e capacidade? Quais gargalos limitam o crescimento? Quais informações estão ausentes?
+
+SÍNTESE:
+
+
+════════════════════════════════════════
+SEÇÃO 5 — PREMISSAS ESTRATÉGICAS
+════════════════════════════════════════
+
+Instrução: Registrar as conclusões-chave que orientarão o Diagnóstico e as demais etapas. Cada premissa deve ter rastreabilidade.
+
+
+PREM_01
+• Descrição:
+• Origem (roteiro e pergunta):
+• Grau de confiança: ( ) ALTO  ( ) MÉDIO  ( ) BAIXO
+• Impacto (quais etapas/blocos afeta):
+• Ação necessária:
+
+PREM_02
+• Descrição:
+• Origem:
+• Grau de confiança: ( ) ALTO  ( ) MÉDIO  ( ) BAIXO
+• Impacto:
+• Ação necessária:
+
+PREM_03
+• Descrição:
+• Origem:
+• Grau de confiança: ( ) ALTO  ( ) MÉDIO  ( ) BAIXO
+• Impacto:
+• Ação necessária:
+
+PREM_04
+• Descrição:
+• Origem:
+• Grau de confiança: ( ) ALTO  ( ) MÉDIO  ( ) BAIXO
+• Impacto:
+• Ação necessária:
+
+PREM_05
+• Descrição:
+• Origem:
+• Grau de confiança: ( ) ALTO  ( ) MÉDIO  ( ) BAIXO
+• Impacto:
+• Ação necessária:
+
+(Adicionar mais premissas conforme necessário)
+
+
+════════════════════════════════════════
+SEÇÃO 6 — INSUMOS ORGANIZADOS POR ETAPA
+════════════════════════════════════════
+
+Instrução: O consultor deve verificar que possui insumos suficientes para cada etapa subsequente. Marcar o status de cada grupo de insumos.
+
+
+────────────────────────────────
+6.1 — INSUMOS PARA O DIAGNÓSTICO (ETAPA D)
+────────────────────────────────
+
+CAMADA 1 — MATURIDADE ESTRUTURAL
+
+Bloco 1 — Mentalidade da Liderança
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas (se houver):
+
+Bloco 2 — Engajamento Organizacional
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 3 — Autonomia e Estrutura Decisória
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 4 — Cultura Orçamentária
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 5 — Planejamento e Alinhamento
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 6 — Estrutura e Processos
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 7 — Integração Intersetorial
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 8 — Governança de Ativos
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 9 — Capacidade Técnica
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Bloco 10 — Accountability
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+
+CAMADA 2 — AVALIAÇÃO REAL DO MARKETING
+
+Eixo 1 — Estratégia Competitiva
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 2 — Branding
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 3 — Comunicação
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 4 — Canais e Mídias
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 5 — Aplicações Estratégicas
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 6 — Setup de Marketing
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 7 — Endomarketing
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+Eixo 8 — Vendas
+Status: ( ) COMPLETO  ( ) PARCIAL  ( ) LACUNA CRÍTICA
+Fontes disponíveis:
+Lacunas:
+
+
+────────────────────────────────
+6.2 — INSUMOS PARA A ESTRUTURA (ETAPA E)
+────────────────────────────────
+
+Equipe atual de marketing mapeada: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Ferramentas e tecnologias mapeadas: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Documentos existentes mapeados: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Integrações entre sistemas mapeadas: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Rastreamentos ativos mapeados: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+
+Lacunas:
+Ação necessária:
+
+
+────────────────────────────────
+6.3 — INSUMOS PARA A ARQUITETURA (ETAPA A)
+────────────────────────────────
+
+Metas e prazos claros: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Problema central identificado: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Gargalos prioritários identificados: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Modelo de receita compreendido: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Público e jornada mapeados: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Mercado e oportunidades compreendidos: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+
+Lacunas:
+Ação necessária:
+
+
+────────────────────────────────
+6.4 — INSUMOS PARA O LOOP (ETAPA L)
+────────────────────────────────
+
+Horizontes temporais definidos com cliente: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+Capacidade de execução avaliada: ( ) SIM  ( ) PARCIAL  ( ) NÃO
+
+Lacunas:
+Ação necessária:
+
+
+════════════════════════════════════════
+SEÇÃO 7 — HIPÓTESES INICIAIS DO CONSULTOR
+════════════════════════════════════════
+
+Instrução: Com base em tudo o que foi coletado e interpretado, o consultor registra suas hipóteses sobre o cenário do cliente. Estas hipóteses serão validadas ou refutadas no Diagnóstico.
+
+
+HIPÓTESE 1:
+• Descrição:
+• Base (o que sustenta esta hipótese):
+• Onde será validada (bloco/eixo do diagnóstico):
+
+HIPÓTESE 2:
+• Descrição:
+• Base:
+• Onde será validada:
+
+HIPÓTESE 3:
+• Descrição:
+• Base:
+• Onde será validada:
+
+HIPÓTESE 4:
+• Descrição:
+• Base:
+• Onde será validada:
+
+HIPÓTESE 5:
+• Descrição:
+• Base:
+• Onde será validada:
+
+
+════════════════════════════════════════
+SEÇÃO 8 — OBSERVAÇÕES GERAIS DO CONSULTOR
+════════════════════════════════════════
+
+Instrução: Espaço livre para o consultor registrar impressões, percepções contextuais, dinâmicas observadas durante as entrevistas e qualquer informação que não se encaixe nas seções anteriores mas que seja relevante para o projeto.
+
+OBSERVAÇÕES:
+
+
+════════════════════════════════════════
+SEÇÃO 9 — REGISTRO DE LACUNAS
+════════════════════════════════════════
+
+Instrução: Registrar TODAS as lacunas de informação identificadas ao longo da consolidação.
+
+
+LACUNA 1:
+• Informação ausente:
+• Motivo:
+• Impacto (qual etapa/bloco é afetado):
+• Ação necessária: ( ) Investigar no diagnóstico  ( ) Solicitar ao cliente  ( ) Registrar como premissa a validar
+
+LACUNA 2:
+• Informação ausente:
+• Motivo:
+• Impacto:
+• Ação necessária: ( ) Investigar no diagnóstico  ( ) Solicitar ao cliente  ( ) Registrar como premissa a validar
+
+LACUNA 3:
+• Informação ausente:
+• Motivo:
+• Impacto:
+• Ação necessária: ( ) Investigar no diagnóstico  ( ) Solicitar ao cliente  ( ) Registrar como premissa a validar
+
+(Adicionar mais lacunas conforme necessário)
+
+
+════════════════════════════════════════
+SEÇÃO 10 — CHECKLIST DE CONCLUSÃO DO MOMENTO 2
+════════════════════════════════════════
+
+( ) Todas as entrevistas realizadas foram registradas na Seção 1
+( ) Todas as respostas foram consolidadas na Seção 2 sem redundâncias
+( ) Divergências foram registradas na Seção 3 como Alertas Estruturais
+( ) Síntese interpretativa produzida para todas as 6 dimensões (Seção 4)
+( ) Premissas estratégicas documentadas com rastreabilidade (Seção 5)
+( ) Insumos verificados para todas as etapas (Seção 6) — lacunas críticas identificadas
+( ) Hipóteses iniciais do consultor registradas (Seção 7)
+( ) Lacunas registradas com impacto e ação (Seção 9)
+( ) Consultor confirma que possui insumos suficientes para iniciar o Diagnóstico
+
+STATUS DO MOMENTO 2: ( ) CONCLUÍDO  ( ) PENDENTE
+
+PENDÊNCIAS (se houver):
+
+DECISÃO: ( ) Avançar para Momento 3  ( ) Buscar informações complementares antes
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

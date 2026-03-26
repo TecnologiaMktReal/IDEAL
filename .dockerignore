@@ -1,0 +1,10 @@
+.git
+.next
+dist
+coverage
+node_modules
+.pnpm-store
+*.log
+terminals
+agent-transcripts
+mcps

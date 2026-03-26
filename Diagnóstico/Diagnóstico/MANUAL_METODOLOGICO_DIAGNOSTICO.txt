@@ -1,0 +1,555 @@
+DOCUMENTO: MANUAL_METODOLOGICO_DIAGNOSTICO
+ETAPA: ETAPA_D_DIAGNOSTICO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+════════════════════════════════════════
+SEÇÃO 1 — PROPÓSITO DA ETAPA
+════════════════════════════════════════
+
+
+OBJETIVO
+
+
+O Diagnóstico é a segunda etapa da metodologia IDEAL.
+
+Seu propósito é avaliar, com rigor técnico e baseado em evidências, dois aspectos fundamentais e complementares:
+
+CAMADA 1 — MATURIDADE ESTRUTURAL DO MARKETING
+Avalia se existem as condições institucionais mínimas para que o marketing opere como função estratégica do negócio. Responde à pergunta: "A organização permite que o marketing funcione?"
+
+CAMADA 2 — AVALIAÇÃO REAL DO MARKETING
+Avalia a existência, qualidade e maturidade dos elementos estratégicos e táticos do marketing. Responde à pergunta: "O marketing funciona de fato?"
+
+A combinação das duas camadas gera um panorama completo: a Camada 1 revela o terreno institucional, a Camada 2 revela o que está construído sobre ele. Juntas, elas explicam não apenas o que está fraco, mas por que está fraco.
+
+
+VALOR PARA O CLIENTE
+
+
+O Diagnóstico entrega ao cliente algo que ele nunca teve: uma avaliação objetiva, estruturada e baseada em evidências sobre o estado real do seu marketing — não baseada em opinião, não baseada no que ele acha que funciona, mas no que realmente existe e como funciona.
+
+Para empresas B2B de mercados técnicos com maturidade de marketing baixa, o Diagnóstico frequentemente revela que problemas percebidos como "operacionais" (falta de leads, baixa conversão) têm raízes institucionais (liderança que não prioriza marketing, ausência de orçamento, falta de autonomia). Essa conexão entre causa raiz e sintoma é o valor único do sistema de duas camadas.
+
+
+PRINCÍPIO FUNDAMENTAL
+
+
+O consultor NUNCA responde perguntas do diagnóstico com base em opinião ou suposição. Toda resposta deve ser fundamentada em evidência concreta: insumos da Imersão, análise documental, verificação prática ou análise técnica do consultor.
+
+
+════════════════════════════════════════
+SEÇÃO 2 — ESTRUTURA DO DIAGNÓSTICO
+════════════════════════════════════════
+
+
+O Diagnóstico é composto por 2 camadas independentes mas complementares, aplicadas sequencialmente.
+
+
+────────────────────────────────
+CAMADA 1 — MATURIDADE ESTRUTURAL DO MARKETING
+────────────────────────────────
+
+PERGUNTA CENTRAL: A organização possui as condições institucionais para que o marketing opere como função estratégica?
+
+ESTRUTURA: 4 eixos, 10 blocos, 80 perguntas
+
+ESCALA: Reativo (1) → Operacional (2) → Estruturado (3) → Estratégico (4)
+
+SIGNIFICADO DA ESCALA:
+• Reativo: Marketing opera por improviso. Não há estrutura institucional.
+• Operacional: Marketing executa, mas sem base institucional consolidada.
+• Estruturado: Marketing opera como sistema organizado e formalizado.
+• Estratégico: Marketing é institucional, integrado e orientado por impacto.
+
+EIXOS:
+
+EIXO 1 — PODER E PRIORIDADE ESTRATÉGICA
+Avalia o reconhecimento institucional do marketing na organização.
+Blocos: 1 (Mentalidade da Liderança), 2 (Engajamento Organizacional), 3 (Autonomia e Estrutura Decisória), 4 (Cultura Orçamentária)
+
+EIXO 2 — DIRECIONAMENTO E COERÊNCIA
+Avalia se o marketing possui orientação estratégica clara e alinhamento com o negócio.
+Bloco: 5 (Cultura de Planejamento e Alinhamento)
+
+EIXO 3 — ARQUITETURA OPERACIONAL
+Avalia se existem estruturas operacionais capazes de sustentar a execução.
+Blocos: 6 (Estrutura e Processos), 7 (Integração Intersetorial), 8 (Governança de Ativos)
+
+EIXO 4 — CAPACIDADE E RESPONSABILIDADE
+Avalia capacidade técnica e cultura de responsabilização por resultados.
+Blocos: 9 (Capacidade Técnica), 10 (Accountability)
+
+
+────────────────────────────────
+CAMADA 2 — AVALIAÇÃO REAL DO MARKETING
+────────────────────────────────
+
+PERGUNTA CENTRAL: O marketing funciona de fato? O que existe, com que qualidade e maturidade?
+
+ESTRUTURA: 8 eixos, 28 blocos
+
+ESCALA: Crítico (1) → Frágil (2) → Sólido (3) → Superior (4)
+
+SIGNIFICADO DA ESCALA:
+• Crítico: Elemento inexistente ou com falhas graves.
+• Frágil: Elemento parcial, inconsistente ou desconectado.
+• Sólido: Elemento estruturado, funcional e coerente.
+• Superior: Elemento em excelência, com resultados comprovados.
+
+EIXOS:
+
+EIXO 1 — ESTRATÉGIA COMPETITIVA (6 blocos)
+Norteadores, Proposta de Valor, Posicionamento, Diferenciais, Portfólio, Ecossistema de Stakeholders
+
+EIXO 2 — BRANDING (3 blocos)
+Identidade, Personalidade, Reputação
+
+EIXO 3 — COMUNICAÇÃO (4 blocos)
+Narrativa, Materiais, Consistência, Conteúdo
+
+EIXO 4 — CANAIS E MÍDIAS (3 blocos)
+Matriz de Mídias, Canais Online, Canais Offline
+
+EIXO 5 — APLICAÇÕES ESTRATÉGICAS (1 bloco)
+Matriz Estratégica (cobertura de estratégias)
+
+EIXO 6 — SETUP DE MARKETING (4 blocos)
+IA, Integrações, Ferramentas Essenciais, Documentos Essenciais
+
+EIXO 7 — ENDOMARKETING (4 blocos)
+Eventos Internos, Onboarding, Canais Internos, Conteúdo Interno
+
+EIXO 8 — VENDAS (3 blocos)
+Funil de Vendas, Cross-sell/Up-sell, Outbound
+
+
+════════════════════════════════════════
+SEÇÃO 3 — SEQUÊNCIA DE APLICAÇÃO
+════════════════════════════════════════
+
+
+REGRA: A Camada 1 deve ser aplicada ANTES da Camada 2.
+
+JUSTIFICATIVA: A maturidade estrutural (Camada 1) contextualiza toda a avaliação real (Camada 2). Se a Camada 1 revela que a liderança não prioriza marketing, que não há orçamento e que não há autonomia, isso explica por que a Camada 2 encontrará estratégias frágeis, canais subutilizados e ferramentas inexistentes. O consultor precisa dessa visão institucional antes de avaliar a prática.
+
+SEQUÊNCIA COMPLETA:
+
+PASSO 1 — Verificar insumos da Imersão
+Antes de iniciar qualquer avaliação, o consultor deve verificar no Dossiê de Imersão (Seção 6) se os insumos para o Diagnóstico estão completos. Se houver lacunas críticas, buscar complementar antes de prosseguir.
+
+PASSO 2 — Aplicar Camada 1
+Preencher os 10 blocos da Camada 1 seguindo o Formulário Consolidado, utilizando os insumos da Imersão complementados por análises técnicas do consultor. Calcular a classificação final.
+
+PASSO 3 — Aplicar Camada 2
+Preencher os 28 blocos da Camada 2 seguindo os formulários de cada eixo. A nota da Camada 1 pode contextualizar achados da Camada 2 (ex: se Camada 1 é Reativa em orçamento, é esperado que Camada 2 tenha ferramentas Críticas).
+
+PASSO 4 — Integrar resultados
+Produzir a Matriz de Maturidade Cruzada (Seção 6) e o Relatório do Diagnóstico.
+
+
+════════════════════════════════════════
+SEÇÃO 4 — POR QUE AS ESCALAS SÃO DIFERENTES
+════════════════════════════════════════
+
+
+As duas camadas utilizam escalas com nomes diferentes intencionalmente.
+
+A CAMADA 1 usa linguagem de ESTÁGIO EVOLUTIVO:
+Reativo → Operacional → Estruturado → Estratégico
+Porque mede a evolução institucional — a organização progride de estágios primitivos para estágios maduros. A linguagem reflete essa jornada de amadurecimento.
+
+A CAMADA 2 usa linguagem de QUALIDADE:
+Crítico → Frágil → Sólido → Superior
+Porque mede a qualidade real dos elementos de marketing. Não é uma jornada evolutiva — é uma fotografia do estado atual. Um elemento pode estar Sólido mesmo que a organização seja Operacional (ex: a empresa tem um bom site mesmo sem ter estrutura institucional de marketing).
+
+REGRA DE INTEGRAÇÃO: Os resultados das duas camadas NÃO são somados nem combinados em uma nota única. Cada camada produz sua classificação independente. A integração acontece na Matriz de Maturidade Cruzada (Seção 6), que posiciona a empresa em dois eixos e gera um diagnóstico integrado qualitativo.
+
+
+════════════════════════════════════════
+SEÇÃO 5 — FRONTEIRAS CONCEITUAIS ENTRE CAMADAS
+════════════════════════════════════════
+
+
+Para evitar que o consultor avalie o mesmo tema duas vezes, as fronteiras entre Camada 1 e Camada 2 estão definidas abaixo.
+
+REGRA GERAL:
+• A Camada 1 pergunta: "Existem as CONDIÇÕES institucionais?"
+• A Camada 2 pergunta: "O elemento de marketing EXISTE e FUNCIONA?"
+
+
+────────────────────────────────
+FRONTEIRA 1 — PLANEJAMENTO
+────────────────────────────────
+
+CAMADA 1 (Bloco 5): Avalia se existe CULTURA de planejamento na organização — se a empresa planeja de forma institucional, se marketing e negócio estão alinhados, se há coerência entre prioridades declaradas e ações executadas.
+
+CAMADA 2 (Eixo 1, Bloco 1 — Norteadores): Avalia se os DIRECIONADORES ESTRATÉGICOS existem de fato, estão documentados, são compreendidos e orientam decisões. Não avalia a cultura de planejamento, mas a existência concreta dos elementos.
+
+RESUMO: Camada 1 = a empresa tem o hábito de planejar? Camada 2 = os planos existem concretamente?
+
+
+────────────────────────────────
+FRONTEIRA 2 — INTEGRAÇÃO MARKETING-VENDAS
+────────────────────────────────
+
+CAMADA 1 (Bloco 7): Avalia se existem RITUAIS E MECANISMOS institucionais de integração — rituais de alinhamento, clareza na passagem de bastão, fluxo de informações, feedback entre áreas. Foco na infraestrutura de integração.
+
+CAMADA 2 (Eixo 8): Avalia se a INTEGRAÇÃO FUNCIONA na prática — alinhamento sobre demanda, definição de lead qualificado, funil estruturado, registro de leads, acompanhamento de métricas, retenção. Foco nos resultados da integração.
+
+RESUMO: Camada 1 = existem os mecanismos para integrar? Camada 2 = a integração gera resultados?
+
+
+────────────────────────────────
+FRONTEIRA 3 — FERRAMENTAS E DOCUMENTOS
+────────────────────────────────
+
+CAMADA 1 (Bloco 8 — Governança de Ativos): Avalia se os ativos digitais estão sob PROPRIEDADE INSTITUCIONAL, se há controle de acessos, segurança digital e proteção jurídica. Foco na governança e na propriedade.
+
+CAMADA 2 (Eixo 6 — Setup): Avalia se as FERRAMENTAS E DOCUMENTOS existem, estão configurados, são utilizados e estão integrados. Foco na existência e uso operacional.
+
+RESUMO: Camada 1 = os ativos são da empresa e estão protegidos? Camada 2 = as ferramentas e documentos existem e são usados?
+
+
+────────────────────────────────
+FRONTEIRA 4 — ENGAJAMENTO INTERNO
+────────────────────────────────
+
+CAMADA 1 (Bloco 2 — Engajamento Organizacional): Avalia se as demais áreas da organização RECONHECEM, CONFIAM e COLABORAM com o marketing. Foco na cultura organizacional em relação ao marketing.
+
+CAMADA 2 (Eixo 7 — Endomarketing): Avalia se existe ESTRUTURA de comunicação interna, eventos, onboarding e conteúdo que alinhem colaboradores ao posicionamento. Foco nas ações e mecanismos de endomarketing.
+
+RESUMO: Camada 1 = a organização apoia o marketing? Camada 2 = existem ações estruturadas de endomarketing?
+
+
+════════════════════════════════════════
+SEÇÃO 6 — MATRIZ DE MATURIDADE CRUZADA
+════════════════════════════════════════
+
+
+A Matriz posiciona a empresa em dois eixos simultâneos:
+
+EIXO VERTICAL: Maturidade Estrutural (Camada 1) — Reativo, Operacional, Estruturado, Estratégico
+EIXO HORIZONTAL: Maturidade Prática (Camada 2) — Crítico, Frágil, Sólido, Superior
+
+Isso gera 16 combinações possíveis, mas na prática os cenários mais comuns para empresas B2B técnicas com maturidade baixa são:
+
+
+CENÁRIO A — REATIVO + CRÍTICO
+A organização não prioriza marketing E o marketing não existe na prática.
+Diagnóstico: Tudo precisa ser construído do zero. Prioridade absoluta é conquistar legitimidade institucional (Camada 1) antes de investir em execução (Camada 2).
+
+CENÁRIO B — OPERACIONAL + FRÁGIL
+A organização reconhece alguma importância do marketing, mas sem estrutura. O marketing executa de forma fragmentada.
+Diagnóstico: Mais comum entre os clientes da MKT Real. Há espaço para estruturar, mas é necessário resolver condições institucionais em paralelo com a construção prática.
+
+CENÁRIO C — OPERACIONAL + SÓLIDO
+A organização não sustenta institucionalmente um marketing que já funciona razoavelmente.
+Diagnóstico: Risco alto — o marketing opera bem apesar da organização, geralmente sustentado por uma pessoa-chave. Se essa pessoa sair, tudo desmorona. Prioridade: institucionalizar.
+
+CENÁRIO D — ESTRUTURADO + FRÁGIL
+A organização criou as condições, mas o marketing ainda não aproveitou.
+Diagnóstico: Oportunidade clara. As condições existem, falta executar. O plano de ação pode ser agressivo.
+
+CENÁRIO E — ESTRUTURADO + SÓLIDO
+Marketing funciona bem com base institucional sólida.
+Diagnóstico: Momento de otimização e busca por excelência.
+
+
+════════════════════════════════════════
+SEÇÃO 7 — BLOCOS CRÍTICOS E ESTRUTURAIS OBRIGATÓRIOS
+════════════════════════════════════════
+
+
+A Camada 1 distingue dois conceitos:
+
+
+────────────────────────────────
+BLOCOS CRÍTICOS (peso 2 no cálculo)
+────────────────────────────────
+
+São blocos que representam pilares institucionais fundamentais. Têm peso dobrado na pontuação.
+
+Bloco 1 — Mentalidade Estratégica da Liderança (peso 2)
+Bloco 3 — Autonomia e Estrutura Decisória (peso 2)
+Bloco 4 — Cultura Orçamentária e Investimento (peso 2)
+Bloco 5 — Cultura de Planejamento e Alinhamento (peso 2)
+Bloco 8 — Governança de Ativos Estratégicos (peso 2)
+Bloco 10 — Cultura de Responsabilidade e Accountability (peso 2)
+
+TOTAL: 6 blocos críticos
+
+
+────────────────────────────────
+BLOCOS NÃO CRÍTICOS (peso 1 no cálculo)
+────────────────────────────────
+
+Bloco 2 — Engajamento Organizacional (peso 1)
+Bloco 6 — Estrutura e Processos Operacionais (peso 1)
+Bloco 7 — Integração Intersetorial (peso 1)
+Bloco 9 — Capacidade Técnica e Operacional (peso 1)
+
+TOTAL: 4 blocos não críticos
+
+
+────────────────────────────────
+BLOCOS ESTRUTURAIS OBRIGATÓRIOS (definem o piso por nível)
+────────────────────────────────
+
+São um subconjunto dos blocos críticos. Definem os requisitos mínimos para atingir cada nível de classificação.
+
+Bloco 1 — Mentalidade Estratégica da Liderança
+Bloco 3 — Autonomia e Estrutura Decisória
+Bloco 4 — Cultura Orçamentária e Investimento
+Bloco 10 — Cultura de Responsabilidade e Accountability
+
+TOTAL: 4 blocos estruturais obrigatórios
+
+DIFERENÇA: Os blocos 5 (Planejamento) e 8 (Governança) são críticos (peso 2) mas não são estruturais obrigatórios. Isso significa que pesam mais no cálculo, mas não definem sozinhos o piso de classificação. Uma empresa pode ter planejamento frágil e ainda ser classificada como Operacional — mas não pode ter liderança ou accountability frágeis e ser classificada como Estruturada.
+
+
+════════════════════════════════════════
+SEÇÃO 8 — COMO O CONSULTOR DEVE RESPONDER O DIAGNÓSTICO
+════════════════════════════════════════
+
+
+Cada pergunta do diagnóstico tem uma FONTE DE EVIDÊNCIA primária. O consultor deve saber de onde vem a informação para cada bloco.
+
+
+────────────────────────────────
+8.1 — FONTES DE EVIDÊNCIA POR TIPO
+────────────────────────────────
+
+TIPO 1 — INSUMOS DA IMERSÃO
+Perguntas respondidas primariamente com informações coletadas nas entrevistas de imersão e registradas no Dossiê.
+Exemplo: "A alta liderança atribui importância ao marketing?" — resposta vem da entrevista com CEO (ROT_HISTORIA, ROT_MKTVENDAS) e da triangulação com o responsável por marketing.
+
+TIPO 2 — ANÁLISE TÉCNICA DO CONSULTOR
+Perguntas que exigem avaliação técnica especializada do consultor, além dos insumos da Imersão.
+Exemplo: "A identidade visual é coerente com o posicionamento?" — o consultor analisa os materiais, o site, as redes sociais e faz sua avaliação técnica.
+
+TIPO 3 — VERIFICAÇÃO PRÁTICA
+Perguntas que exigem verificação concreta de existência ou funcionamento.
+Exemplo: "Os ativos digitais estão sob propriedade institucional?" — o consultor verifica quem é o proprietário do domínio, das contas de mídia, do CRM.
+
+TIPO 4 — INVESTIGAÇÃO COMPLEMENTAR
+Perguntas que podem exigir coleta adicional de informação não coberta na Imersão.
+Exemplo: "Existe feedback estruturado de vendas para marketing?" — se a Imersão não aprofundou isso, o consultor pode precisar de uma verificação adicional com o time.
+
+
+────────────────────────────────
+8.2 — GUIA DE FONTES POR BLOCO (CAMADA 1)
+────────────────────────────────
+
+BLOCO 1 — Mentalidade da Liderança
+Fonte primária: Imersão (ROT_HISTORIA + ROT_MKTVENDAS — entrevista com CEO)
+Complementar: Triangulação com responsável por marketing
+Tipo predominante: TIPO 1
+
+BLOCO 2 — Engajamento Organizacional
+Fonte primária: Imersão (ROT_HISTORIA — cultura; ROT_MKTVENDAS — colaboração entre áreas)
+Complementar: Entrevistas com colaboradores (se realizadas)
+Tipo predominante: TIPO 1 + TIPO 4 (se triangulação com colaboradores não foi feita na Imersão)
+
+BLOCO 3 — Autonomia e Estrutura Decisória
+Fonte primária: Imersão (ROT_MKTVENDAS — quem decide, nível de autonomia)
+Complementar: Triangulação CEO vs responsável por marketing
+Tipo predominante: TIPO 1
+
+BLOCO 4 — Cultura Orçamentária
+Fonte primária: Imersão (ROT_MKTVENDAS — orçamento; ROT_MODELO — tratamento financeiro)
+Complementar: Verificação com diretor financeiro (se entrevistado)
+Tipo predominante: TIPO 1 + TIPO 3
+
+BLOCO 5 — Planejamento e Alinhamento
+Fonte primária: Imersão (ROT_MODELO — planejamento estratégico; ROT_MKTVENDAS — planejamento de marketing)
+Complementar: Verificação documental (o planejamento existe como documento?)
+Tipo predominante: TIPO 1 + TIPO 3
+
+BLOCO 6 — Estrutura e Processos
+Fonte primária: Imersão (ROT_MKTVENDAS — processos, rituais, papéis)
+Complementar: Verificação prática do fluxo de trabalho
+Tipo predominante: TIPO 1 + TIPO 3
+
+BLOCO 7 — Integração Intersetorial
+Fonte primária: Imersão (ROT_MKTVENDAS — integração marketing-vendas)
+Complementar: Verificação de rituais formais (existem evidências concretas?)
+Tipo predominante: TIPO 1 + TIPO 3
+
+BLOCO 8 — Governança de Ativos
+Fonte primária: Verificação prática (propriedade das contas, domínio, 2FA, registro de marca)
+Complementar: Imersão (ROT_MKTVENDAS — ferramentas utilizadas)
+Tipo predominante: TIPO 3 (este é o bloco que mais exige verificação prática)
+
+BLOCO 9 — Capacidade Técnica
+Fonte primária: Imersão (ROT_MKTVENDAS — competências do time, capacidade de produção)
+Complementar: Análise técnica do consultor (o time tem as competências que diz ter?)
+Tipo predominante: TIPO 1 + TIPO 2
+
+BLOCO 10 — Accountability
+Fonte primária: Imersão (ROT_MKTVENDAS — metas, KPIs, acompanhamento; ROT_MODELO — metas do negócio)
+Complementar: Verificação documental (metas documentadas? dashboards existem?)
+Tipo predominante: TIPO 1 + TIPO 3
+
+
+────────────────────────────────
+8.3 — GUIA DE FONTES POR EIXO (CAMADA 2)
+────────────────────────────────
+
+EIXO 1 — Estratégia Competitiva
+Fonte primária: Imersão (ROT_PORTFOLIO + ROT_PUBLICO + ROT_MERCADO + ROT_MODELO)
+Complementar: Análise técnica do consultor sobre coerência estratégica
+Tipo predominante: TIPO 1 + TIPO 2
+
+EIXO 2 — Branding
+Fonte primária: Imersão (ROT_HISTORIA — identidade, valores, propósito)
+Complementar: Análise técnica do consultor (identidade visual, tom de voz, consistência)
+Tipo predominante: TIPO 1 + TIPO 2 (eixo que mais exige análise técnica especializada)
+
+EIXO 3 — Comunicação
+Fonte primária: Análise técnica do consultor (materiais, conteúdo, consistência)
+Complementar: Imersão (ROT_HISTORIA — narrativa; ROT_MKTVENDAS — materiais existentes)
+Tipo predominante: TIPO 2 + TIPO 3
+
+EIXO 4 — Canais e Mídias
+Fonte primária: Análise técnica do consultor (auditoria dos canais ativos)
+Complementar: Imersão (ROT_MKTVENDAS — canais utilizados)
+Tipo predominante: TIPO 2 + TIPO 3
+
+EIXO 5 — Aplicações Estratégicas
+Fonte primária: Análise técnica do consultor (mapeamento atual vs ideal)
+Complementar: Imersão (ROT_MKTVENDAS — estratégias executadas)
+Tipo predominante: TIPO 2
+
+EIXO 6 — Setup de Marketing
+Fonte primária: Verificação prática (ferramentas, documentos, integrações)
+Complementar: Imersão (ROT_MKTVENDAS — ferramentas utilizadas)
+Tipo predominante: TIPO 3
+
+EIXO 7 — Endomarketing
+Fonte primária: Imersão (ROT_HISTORIA — cultura; ROT_MKTVENDAS — comunicação interna)
+Complementar: Verificação prática (canais internos existem? conteúdo interno é produzido?)
+Tipo predominante: TIPO 1 + TIPO 3
+
+EIXO 8 — Vendas
+Fonte primária: Imersão (ROT_MKTVENDAS — processo comercial, funil, CRM; ROT_PUBLICO — jornada)
+Complementar: Verificação prática (CRM funciona? funil está configurado?)
+Tipo predominante: TIPO 1 + TIPO 3
+
+
+════════════════════════════════════════
+SEÇÃO 9 — ENTREGÁVEIS DO DIAGNÓSTICO
+════════════════════════════════════════
+
+
+O Diagnóstico produz 3 entregáveis:
+
+
+────────────────────────────────
+9.1 — FORMULÁRIOS PREENCHIDOS
+────────────────────────────────
+
+Documento interno. Formulário Consolidado da Camada 1 + Formulários dos 8 eixos da Camada 2, preenchidos com respostas, justificativas e campos do consultor. São o registro técnico do diagnóstico.
+
+
+────────────────────────────────
+9.2 — RELATÓRIO INTERNO DO DIAGNÓSTICO
+────────────────────────────────
+
+Documento interno. Consolida os resultados das duas camadas, a Matriz de Maturidade Cruzada, as conexões entre Camada 1 e Camada 2, os insumos para as etapas E, A e L, e as recomendações técnicas do consultor.
+
+
+────────────────────────────────
+9.3 — RELATÓRIO DO CLIENTE DO DIAGNÓSTICO
+────────────────────────────────
+
+Documento executivo apresentável ao cliente. Contém os resultados de forma visual e compreensível, os principais achados, os pontos críticos, e a conexão com os próximos passos (Estrutura e Arquitetura).
+
+Este é provavelmente o entregável de maior impacto de toda a metodologia — é onde o cliente vê, pela primeira vez, um espelho técnico e objetivo da maturidade do seu marketing.
+
+
+════════════════════════════════════════
+SEÇÃO 10 — CONEXÃO COM AS DEMAIS ETAPAS
+════════════════════════════════════════
+
+
+────────────────────────────────
+O QUE O DIAGNÓSTICO RECEBE DA IMERSÃO (ETAPA I)
+────────────────────────────────
+
+• Dossiê de Imersão com todas as respostas consolidadas
+• Premissas estratégicas com rastreabilidade e grau de confiança
+• Alertas estruturais (divergências entre stakeholders)
+• Hipóteses iniciais do consultor a validar
+• Pesquisa preliminar de mercado e concorrência
+• Insumos verificados por bloco/eixo (Seção 6 do Dossiê)
+
+
+────────────────────────────────
+O QUE O DIAGNÓSTICO ENTREGA PARA A ESTRUTURA (ETAPA E)
+────────────────────────────────
+
+• Classificação da Camada 1 (especialmente Blocos 6, 8 e 9)
+• Classificação do Eixo 6 da Camada 2 (Setup — ferramentas, documentos, integrações)
+• Mapa de lacunas em equipe, documentação, tecnologia e governança
+• Recomendações de estrutura derivadas dos achados
+
+
+────────────────────────────────
+O QUE O DIAGNÓSTICO ENTREGA PARA A ARQUITETURA (ETAPA A)
+────────────────────────────────
+
+• Matriz de Maturidade Cruzada (posiciona o cenário para calibrar o plano)
+• Classificações de todos os blocos e eixos (prioridades do plano de ação)
+• Matriz Estratégica e Matriz de Mídias (gaps a endereçar)
+• Problema central validado (da Imersão, confirmado no diagnóstico)
+• Recomendações estratégicas derivadas dos achados
+
+
+────────────────────────────────
+O QUE O DIAGNÓSTICO ENTREGA PARA O LOOP (ETAPA L)
+────────────────────────────────
+
+• Baseline de maturidade (para comparar nas reavaliações)
+• Indicadores de cada bloco/eixo (marcos de evolução)
+• Pontos críticos que precisam de monitoramento contínuo
+
+
+════════════════════════════════════════
+SEÇÃO 11 — GOVERNANÇA DO DIAGNÓSTICO
+════════════════════════════════════════
+
+
+────────────────────────────────
+CRITÉRIOS DE QUALIDADE
+────────────────────────────────
+
+O Diagnóstico é considerado COMPLETO quando:
+• Todos os 10 blocos da Camada 1 estão preenchidos com justificativa
+• Todos os 28 blocos da Camada 2 estão preenchidos com justificativa
+• As regras condicionais e critérios absolutos foram aplicados
+• A classificação final de cada camada foi calculada
+• A Matriz de Maturidade Cruzada foi produzida
+• Os Relatórios (Interno e do Cliente) estão finalizados
+• Os insumos para as etapas E, A e L estão organizados
+
+O Diagnóstico é considerado PARCIAL quando:
+• Blocos não puderam ser avaliados por falta de evidência
+• Neste caso, o consultor deve registrar a lacuna, atribuir a nota com ressalva, e indicar qual evidência complementar é necessária
+
+
+────────────────────────────────
+REGRA DE INTEGRIDADE
+────────────────────────────────
+
+O consultor NÃO pode:
+• Responder perguntas sem evidência (nem "chutando" para melhorar ou piorar a nota)
+• Ignorar regras condicionais ou critérios absolutos
+• Ajustar a classificação final sem justificativa documentada
+• Apresentar ao cliente resultados que não refletem as evidências coletadas
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════

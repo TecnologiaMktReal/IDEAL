@@ -1,0 +1,600 @@
+DOCUMENTO: TEMPLATE_RELATORIO_CLIENTE_DIAGNOSTICO
+ETAPA: ETAPA_D_DIAGNOSTICO
+METODOLOGIA: IDEAL — MKT REAL
+VERSÃO: 1.0
+
+
+INSTRUÇÃO GERAL
+
+Este é o template do Relatório de Diagnóstico entregue ao cliente. É o entregável de maior impacto da metodologia — onde o cliente vê pela primeira vez um espelho técnico e objetivo da maturidade do seu marketing.
+
+O relatório é produzido a partir dos formulários preenchidos das Camadas 1 e 2. O consultor deve interpretar, sintetizar e apresentar os resultados de forma narrativa e estratégica.
+
+REGRAS DE REDAÇÃO:
+• Linguagem profissional, clara e direta.
+• Tom consultivo — comunicar compreensão, não julgamento.
+• Cada seção deve conter conteúdo substantivo, não frases genéricas.
+• NÃO expor mecânica interna da metodologia (IDs de perguntas, regras condicionais, lógica de cálculo).
+• Apresentar resultados de forma visual sempre que possível (tabelas, réguas, radares).
+• As "Atividades para Avançar" devem ser concretas e acionáveis, não genéricas.
+• O relatório deve gerar no cliente a sensação de: "agora eu sei exatamente onde estou e o que preciso fazer".
+
+FORMATO RECOMENDADO:
+Documento formatado (DOCX ou PDF) com identidade visual da MKT Real, sumário, numeração de páginas, gráficos e apresentação profissional.
+
+
+════════════════════════════════════════
+CAPA
+════════════════════════════════════════
+
+RELATÓRIO DE DIAGNÓSTICO DE MARKETING
+
+[NOME DA EMPRESA]
+
+Preparado por: MKT Real
+Consultor responsável: [nome]
+Data: [data]
+
+Classificação: Confidencial
+
+
+════════════════════════════════════════
+SUMÁRIO EXECUTIVO
+════════════════════════════════════════
+
+Instrução: Síntese de 1 página (máximo). O leitor executivo que não tem tempo de ler o relatório inteiro deve compreender o cenário a partir deste sumário.
+
+Deve conter:
+• Classificação geral das duas camadas em linguagem acessível
+• Os 3-4 achados mais relevantes
+• O que isso significa para o negócio na prática
+• O que o relatório contém e o que vem a seguir
+
+SUMÁRIO:
+
+
+════════════════════════════════════════
+CAPÍTULO 1 — COMO LER ESTE RELATÓRIO
+════════════════════════════════════════
+
+Instrução: Explicação breve e visual para que o cliente compreenda o sistema antes de ver os resultados. Sem isso, os números não fazem sentido.
+
+Deve conter:
+
+1.1 — O que o Diagnóstico avalia
+
+O Diagnóstico avalia dois aspectos complementares do marketing da empresa:
+
+CAMADA 1 — MATURIDADE ESTRUTURAL: Avalia se a organização possui as condições institucionais para que o marketing funcione como função estratégica. Responde à pergunta: "A organização permite que o marketing funcione?"
+
+CAMADA 2 — AVALIAÇÃO REAL DO MARKETING: Avalia a existência, qualidade e maturidade dos elementos estratégicos e táticos do marketing. Responde à pergunta: "O marketing funciona de fato?"
+
+
+1.2 — Como interpretar os níveis
+
+CAMADA 1 — Escala de Maturidade Institucional:
+
+REATIVO (1): Marketing opera por improviso. Não há estrutura institucional.
+OPERACIONAL (2): Marketing executa, mas sem base institucional consolidada.
+ESTRUTURADO (3): Marketing opera como sistema organizado e formalizado.
+ESTRATÉGICO (4): Marketing é institucional, integrado e orientado por impacto.
+
+CAMADA 2 — Escala de Maturidade Prática:
+
+CRÍTICO (1): Elemento inexistente ou com falhas graves.
+FRÁGIL (2): Elemento parcial, inconsistente ou desconectado.
+SÓLIDO (3): Elemento estruturado, funcional e coerente.
+SUPERIOR (4): Elemento em excelência, com resultados comprovados.
+
+
+1.3 — Estrutura do relatório
+
+O relatório apresenta primeiro a visão integrada (como as duas camadas se relacionam), depois detalha cada camada com visão geral e análise bloco a bloco, e finaliza com pontos de atenção imediata e próximos passos.
+
+
+════════════════════════════════════════
+CAPÍTULO 2 — VISÃO GERAL INTEGRADA
+════════════════════════════════════════
+
+Instrução: Panorama que conecta as duas camadas antes de detalhar cada uma. Aqui o consultor demonstra inteligência analítica — não é uma lista de notas, é uma narrativa de causa e consequência.
+
+
+────────────────────────────────
+2.1 — Matriz de Maturidade Cruzada
+────────────────────────────────
+
+Instrução: Posicionar a empresa na matriz de dois eixos (Camada 1 vertical × Camada 2 horizontal). Apresentar visualmente.
+
+                    CAMADA 2 (Maturidade Prática)
+                    CRÍTICO    FRÁGIL     SÓLIDO     SUPERIOR
+CAMADA 1    
+(Maturidade  ESTRATÉGICO |          |          |          |          |
+Estrutural)  ESTRUTURADO |          |          |          |          |
+             OPERACIONAL |          |          |    [?]   |          |
+             REATIVO     |          |          |          |          |
+
+Posição da empresa: [CAMADA 1: ___] × [CAMADA 2: ___]
+
+
+────────────────────────────────
+2.2 — Cenário Identificado
+────────────────────────────────
+
+Instrução: Descrever qual cenário se aplica (A, B, C, D ou E conforme Manual Metodológico) e o que significa na prática para o negócio.
+
+CENÁRIO:
+INTERPRETAÇÃO:
+
+
+────────────────────────────────
+2.3 — Conexões Causa-Efeito entre as Camadas
+────────────────────────────────
+
+Instrução: Identificar e narrar as 3-5 conexões mais relevantes entre achados da Camada 1 e achados da Camada 2. Este é o conteúdo de maior valor analítico do relatório.
+
+Formato sugerido para cada conexão:
+• CAUSA (Camada 1): [descrição do achado institucional]
+• EFEITO (Camada 2): [descrição do impacto na prática do marketing]
+• IMPLICAÇÃO: [o que isso significa para o negócio]
+
+CONEXÃO 1:
+• Causa:
+• Efeito:
+• Implicação:
+
+CONEXÃO 2:
+• Causa:
+• Efeito:
+• Implicação:
+
+CONEXÃO 3:
+• Causa:
+• Efeito:
+• Implicação:
+
+CONEXÃO 4:
+• Causa:
+• Efeito:
+• Implicação:
+
+CONEXÃO 5:
+• Causa:
+• Efeito:
+• Implicação:
+
+
+════════════════════════════════════════
+CAPÍTULO 3 — MATURIDADE ESTRUTURAL (CAMADA 1)
+════════════════════════════════════════
+
+
+────────────────────────────────
+3.1 — VISÃO GERAL DA CAMADA 1
+────────────────────────────────
+
+SCORE TOTAL: ___/64 pontos
+
+NÍVEL ATUAL: ___
+
+RÉGUA GERAL DE EVOLUÇÃO:
+
+[REATIVO]————[OPERACIONAL]————[ESTRUTURADO]————[ESTRATÉGICO]
+  16-25           26-41              42-53              54-64
+                                ▲ Empresa está aqui
+
+DISTÂNCIA AO PRÓXIMO NÍVEL:
+• Nível atual: ___ (___ pontos)
+• Próximo nível: ___ (mínimo ___ pontos)
+• Distância: ___ pontos
+• Além dos pontos, as seguintes condições precisam ser atendidas: [listar critérios obrigatórios pendentes]
+
+
+DISTÂNCIA POR BLOCO:
+
+BLOCO                              | PESO | ATUAL | NECESSÁRIO | GAP
+──────────────────────────────────|──────|───────|────────────|────
+1. Mentalidade da Liderança        | 2    |       |            |
+2. Engajamento Organizacional      | 1    |       |            |
+3. Autonomia e Estrutura Decisória | 2    |       |            |
+4. Cultura Orçamentária            | 2    |       |            |
+5. Planejamento e Alinhamento      | 2    |       |            |
+6. Estrutura e Processos           | 1    |       |            |
+7. Integração Intersetorial        | 1    |       |            |
+8. Governança de Ativos            | 2    |       |            |
+9. Capacidade Técnica              | 1    |       |            |
+10. Accountability                 | 2    |       |            |
+
+
+RADAR DE RESULTADO:
+
+Instrução: Gráfico radar com os 10 blocos posicionados. Cada eixo vai de 1 a 4. Permite visualizar instantaneamente o perfil de maturidade.
+
+[Inserir gráfico radar]
+
+
+PONTUAÇÃO PONDERADA POR BLOCO:
+
+BLOCO                              | NOTA | × PESO | PONTUAÇÃO | MÁXIMO
+──────────────────────────────────|──────|────────|───────────|───────
+1. Mentalidade da Liderança        |      | × 2    |           | 8
+2. Engajamento Organizacional      |      | × 1    |           | 4
+3. Autonomia e Estrutura Decisória |      | × 2    |           | 8
+4. Cultura Orçamentária            |      | × 2    |           | 8
+5. Planejamento e Alinhamento      |      | × 2    |           | 8
+6. Estrutura e Processos           |      | × 1    |           | 4
+7. Integração Intersetorial        |      | × 1    |           | 4
+8. Governança de Ativos            |      | × 2    |           | 8
+9. Capacidade Técnica              |      | × 1    |           | 4
+10. Accountability                 |      | × 2    |           | 8
+──────────────────────────────────|──────|────────|───────────|───────
+TOTAL                              |      |        |           | 64
+
+
+GAPS E RISCOS:
+
+Instrução: Listar os principais gaps (distâncias entre situação atual e desejada) e os riscos associados a cada um.
+
+GAP 1:
+RISCO 1:
+
+GAP 2:
+RISCO 2:
+
+GAP 3:
+RISCO 3:
+
+
+PONTOS FORTES E OPORTUNIDADES:
+
+PONTOS FORTES:
+•
+•
+•
+
+OPORTUNIDADES:
+•
+•
+•
+
+
+CONDIÇÕES PARA EVOLUÇÃO:
+
+Instrução: Listar explicitamente o que precisa acontecer para a empresa subir do nível atual para o próximo. Ser concreto — não genérico.
+
+Para evoluir de [NÍVEL ATUAL] para [PRÓXIMO NÍVEL], a empresa precisa:
+1.
+2.
+3.
+4.
+5.
+
+
+DIAGNÓSTICO FINAL DA CAMADA 1:
+
+Instrução: Narrativa integrada de 1-2 parágrafos que sintetize o cenário institucional. Conectar causa e consequência. Tom consultivo.
+
+NARRATIVA:
+
+
+────────────────────────────────
+3.2 — DETALHAMENTO POR BLOCO
+────────────────────────────────
+
+Instrução: Repetir a estrutura abaixo para cada um dos 10 blocos da Camada 1.
+
+
+────────────────────────────────
+BLOCO [N] — [NOME DO BLOCO]
+Eixo: [Nome do Eixo]
+Peso: [1 ou 2] | Estrutural Obrigatório: [Sim/Não]
+────────────────────────────────
+
+STATUS ATUAL: [Nível] ([Nota])
+
+RÉGUA DE EVOLUÇÃO DO BLOCO:
+
+[REATIVO]————[OPERACIONAL]————[ESTRUTURADO]————[ESTRATÉGICO]
+    1               2                3                4
+                         ▲ Bloco está aqui
+
+SUMÁRIO EXECUTIVO:
+Instrução: 2-3 frases que contextualizem o resultado. O que foi avaliado, o que se encontrou, por que importa.
+
+
+PONTOS FORTES:
+•
+•
+
+PONTOS DE ATENÇÃO:
+•
+•
+
+ATIVIDADES PARA AVANÇAR:
+Instrução: Ações concretas e específicas que a empresa precisa executar para subir de nível neste bloco. Devem ser acionáveis — o cliente deve conseguir entender exatamente o que fazer.
+
+1.
+2.
+3.
+
+SÍNTESE:
+Instrução: 1 parágrafo conclusivo objetivo.
+
+
+[Repetir para os 10 blocos]
+
+
+════════════════════════════════════════
+CAPÍTULO 4 — AVALIAÇÃO REAL DO MARKETING (CAMADA 2)
+════════════════════════════════════════
+
+
+────────────────────────────────
+4.1 — VISÃO GERAL DA CAMADA 2
+────────────────────────────────
+
+SCORE TOTAL: ___/112 pontos
+
+NÍVEL ATUAL: ___
+
+RÉGUA GERAL DE EVOLUÇÃO:
+
+[CRÍTICO]————[FRÁGIL]————[SÓLIDO]————[SUPERIOR]
+  28-49        50-70        71-91        92-112
+                       ▲ Empresa está aqui
+
+DISTÂNCIA AO PRÓXIMO NÍVEL:
+• Nível atual: ___ (___ pontos)
+• Próximo nível: ___ (mínimo ___ pontos)
+• Distância: ___ pontos
+• Regras de bloqueio pendentes (se houver): [listar]
+
+
+DISTÂNCIA POR EIXO:
+
+EIXO                          | BLOCOS | ATUAL | MÁXIMO | NÍVEL
+─────────────────────────────|────────|───────|────────|──────
+1. Estratégia Competitiva     | 6      |       | 24     |
+2. Branding                   | 3      |       | 12     |
+3. Comunicação                | 4      |       | 16     |
+4. Canais e Mídias            | 3      |       | 12     |
+5. Aplicações Estratégicas    | 1      |       | 4      |
+6. Setup de Marketing         | 4      |       | 16     |
+7. Endomarketing              | 4      |       | 16     |
+8. Vendas                     | 3      |       | 12     |
+─────────────────────────────|────────|───────|────────|──────
+TOTAL                         | 28     |       | 112    |
+
+
+RADAR DE RESULTADO:
+
+Instrução: Gráfico radar com os 8 eixos. Cada eixo mostra a média do eixo (1 a 4). Visão instantânea do perfil de marketing.
+
+[Inserir gráfico radar]
+
+
+RESUMO DOS 28 BLOCOS:
+
+EIXO | BLOCO                              | NÍVEL
+─────|──────────────────────────────────|──────────
+E1   | Norteadores Estratégicos          |
+E1   | Proposta de Valor                 |
+E1   | Posicionamento Estratégico        |
+E1   | Diferenciais Competitivos         |
+E1   | Portfólio de Soluções             |
+E1   | Ecossistema de Stakeholders       |
+E2   | Identidade                        |
+E2   | Personalidade                     |
+E2   | Reputação                         |
+E3   | Narrativa                         |
+E3   | Materiais Institucionais          |
+E3   | Consistência e Padronização       |
+E3   | Conteúdo                          |
+E4   | Matriz de Mídias                  |
+E4   | Canais Online                     |
+E4   | Canais Offline                    |
+E5   | Matriz Estratégica                |
+E6   | IA                                |
+E6   | Integrações                       |
+E6   | Ferramentas Essenciais            |
+E6   | Documentos Essenciais             |
+E7   | Eventos Internos                  |
+E7   | Onboarding                        |
+E7   | Canais de Comunicação Interna     |
+E7   | Conteúdo e Comunicação Interna    |
+E8   | Funil de Vendas                   |
+E8   | Cross-sell e Up-sell              |
+E8   | Outbound Marketing               |
+
+
+GAPS E RISCOS:
+
+GAP 1:
+RISCO 1:
+
+GAP 2:
+RISCO 2:
+
+GAP 3:
+RISCO 3:
+
+
+PONTOS FORTES E OPORTUNIDADES:
+
+PONTOS FORTES:
+•
+•
+•
+
+OPORTUNIDADES:
+•
+•
+•
+
+
+CONDIÇÕES PARA EVOLUÇÃO:
+
+Para evoluir de [NÍVEL ATUAL] para [PRÓXIMO NÍVEL], a empresa precisa:
+1.
+2.
+3.
+4.
+5.
+
+
+DIAGNÓSTICO FINAL DA CAMADA 2:
+
+NARRATIVA:
+
+
+────────────────────────────────
+4.2 — DETALHAMENTO POR EIXO E BLOCO
+────────────────────────────────
+
+Instrução: Para cada eixo, apresentar uma introdução do eixo seguida do detalhamento de cada bloco.
+
+
+────────────────────────────────
+EIXO [N] — [NOME DO EIXO]
+Score: ___/[máximo] | Nível: ___
+────────────────────────────────
+
+INTRODUÇÃO DO EIXO:
+Instrução: 2-3 frases que contextualizem o resultado geral do eixo.
+
+
+BLOCO [N] — [NOME DO BLOCO]
+
+STATUS ATUAL: [Nível] ([Nota])
+
+RÉGUA DE EVOLUÇÃO DO BLOCO:
+
+[CRÍTICO]————[FRÁGIL]————[SÓLIDO]————[SUPERIOR]
+    1             2           3            4
+                       ▲ Bloco está aqui
+
+SUMÁRIO EXECUTIVO:
+
+PONTOS FORTES:
+•
+•
+
+PONTOS DE ATENÇÃO:
+•
+•
+
+ATIVIDADES PARA AVANÇAR:
+1.
+2.
+3.
+
+SÍNTESE:
+
+
+[Repetir para cada bloco dentro do eixo]
+[Repetir para os 8 eixos]
+
+
+────────────────────────────────
+4.3 — MATRIZES ESPECIAIS
+────────────────────────────────
+
+Instrução: Incluir as matrizes visuais que são geradas pelos Eixos 4 e 5.
+
+
+MATRIZ DE MÍDIAS (Eixo 4, Bloco 1)
+
+Instrução: Tabela visual mostrando cada mídia com esforço atual vs esforço ideal, agrupada por tipo (própria, paga, conquistada, compartilhada). Destacar as maiores diferenças.
+
+TIPO      | MÍDIA                    | ATUAL | IDEAL | GAP
+──────────|──────────────────────────|───────|───────|────
+Própria   |                          |       |       |
+Paga      |                          |       |       |
+Conquistada|                         |       |       |
+Compartilhada|                       |       |       |
+
+Gap médio geral: ___
+Classificação: ___
+
+
+MATRIZ ESTRATÉGICA (Eixo 5, Bloco 1)
+
+Instrução: Tabela visual mostrando cada estratégia com intensidade atual vs intensidade ideal. Destacar as estratégias com maior gap e maior potencial.
+
+ESTRATÉGIA                        | EXECUTA? | ATUAL | IDEAL | GAP
+──────────────────────────────────|──────────|───────|───────|────
+1. Inbound Marketing              |          |       |       |
+2. Outbound Marketing             |          |       |       |
+3. ABM                            |          |       |       |
+[...]                             |          |       |       |
+20. Assessoria de Imprensa        |          |       |       |
+
+Gap médio geral: ___
+Classificação: ___
+
+Estratégias prioritárias para implementação:
+1.
+2.
+3.
+
+Estratégias a descontinuar ou reduzir:
+1.
+2.
+
+
+════════════════════════════════════════
+CAPÍTULO 5 — PONTOS DE ATENÇÃO IMEDIATA
+════════════════════════════════════════
+
+Instrução: Os 3 a 5 itens que precisam de ação urgente — riscos que não podem esperar o plano completo. Cada item com: o que é, por que é urgente, e o que fazer agora.
+
+
+ATENÇÃO IMEDIATA 1:
+• O que foi identificado:
+• Por que é urgente:
+• Ação recomendada:
+
+ATENÇÃO IMEDIATA 2:
+• O que foi identificado:
+• Por que é urgente:
+• Ação recomendada:
+
+ATENÇÃO IMEDIATA 3:
+• O que foi identificado:
+• Por que é urgente:
+• Ação recomendada:
+
+ATENÇÃO IMEDIATA 4:
+• O que foi identificado:
+• Por que é urgente:
+• Ação recomendada:
+
+ATENÇÃO IMEDIATA 5:
+• O que foi identificado:
+• Por que é urgente:
+• Ação recomendada:
+
+
+════════════════════════════════════════
+CAPÍTULO 6 — PRÓXIMOS PASSOS
+════════════════════════════════════════
+
+Instrução: Conectar o diagnóstico às etapas seguintes da metodologia IDEAL. Comunicar ao cliente o que vem a seguir de forma que gere confiança e clareza.
+
+CONTEÚDO SUGERIDO:
+
+Este relatório consolidou o diagnóstico completo da maturidade de marketing da [NOME DA EMPRESA], avaliando tanto as condições institucionais (Camada 1) quanto a prática real do marketing (Camada 2).
+
+Os resultados e achados aqui apresentados servirão como base para as próximas etapas da metodologia IDEAL:
+
+ETAPA E — ESTRUTURA: Com base no diagnóstico, definiremos as recomendações para a estrutura do setor de marketing: equipe, documentos, tecnologia, integrações e rastreamentos necessários.
+
+ETAPA A — ARQUITETURA DO PLANEJAMENTO: Construiremos o plano de ação estratégico com recomendações, premissas, KPIs, cronograma e verba recomendada — tudo calibrado pelos achados do diagnóstico.
+
+ETAPA L — LOOP DE OTIMIZAÇÕES: Definiremos os marcos de reavaliação e os indicadores de evolução, utilizando o diagnóstico como baseline para medir progresso ao longo do tempo.
+
+O diagnóstico revelou onde a empresa está. As próximas etapas definirão para onde ir e como chegar lá.
+
+
+════════════════════════════════════════
+FIM DO DOCUMENTO
+════════════════════════════════════════
