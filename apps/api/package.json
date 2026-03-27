@@ -4,23 +4,24 @@
   "private": true,
   "scripts": {
     "dev": "tsx watch src/main.ts",
-    "build": "tsc -p tsconfig.json",
+    "build": "esbuild src/main.ts --bundle --platform=node --target=node20 --outfile=dist/main.js --external:@supabase/supabase-js --external:fastify --external:@fastify/cors --external:dotenv",
     "start": "node dist/main.js",
     "lint": "echo \"lint api pending\"",
     "test": "echo \"test api pending\"",
     "typecheck": "tsc -p tsconfig.json --noEmit"
   },
   "dependencies": {
+    "@fastify/cors": "^10.1.0",
     "@ideal/ai": "workspace:*",
     "@ideal/domain": "workspace:*",
     "@ideal/reports": "workspace:*",
     "@ideal/workflows": "workspace:*",
-    "@fastify/cors": "^10.1.0",
     "@supabase/supabase-js": "^2.100.0",
     "dotenv": "^16.6.1",
     "fastify": "^5.2.0"
   },
   "devDependencies": {
+    "esbuild": "^0.27.4",
     "tsx": "^4.19.3"
   }
 }
