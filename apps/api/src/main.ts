@@ -2,7 +2,7 @@ import Fastify from "fastify";
 import cors from "@fastify/cors";
 import * as crypto from "crypto";
 import { config as loadEnv } from "dotenv";
-import { STAGE_SEQUENCE } from "@ideal/domain/stages";
+import { STAGE_SEQUENCE } from "@ideal/domain";
 import { MODULE_MAP } from "./modules/module-map";
 import { createSupabaseAdminClient } from "./lib/supabase-admin";
 import {
