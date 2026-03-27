@@ -9,5 +9,8 @@
     "lint": "echo \"lint ai pending\"",
     "test": "echo \"test ai pending\"",
     "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0"
   }
 }
